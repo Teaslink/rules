@@ -1,4 +1,33 @@
-# edited at 20240909
+# edited at 20240910
+# Alphabet
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-KEYWORD,blogspot
+DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,android.com
+# Dropbox
+DOMAIN-KEYWORD,dropbox
+# Google
+DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,youtu.be
+# Instagram
+DOMAIN-KEYWORD,instagram
+# Meta
+DOMAIN-KEYWORD,facebook
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-KEYWORD,whatsapp
+# Twitter
+DOMAIN-KEYWORD,twitter
+DOMAIN-SUFFIX,twimg.com
+# Wikimedia Foundation
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikipedia.org
+#
 DOMAIN,api.iturrit.com // Turrit
 DOMAIN-SUFFIX,rcg.fun,extended-matching
 DOMAIN-SUFFIX,bing.com
@@ -8,8 +37,6 @@ DOMAIN-SUFFIX,digicert.com // Apple
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,fanbox.cc
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fivecdm.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ghcr.io // Github Packages
@@ -30,19 +57,13 @@ DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,discord
-DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gstatic
-DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,spotify
-DOMAIN-KEYWORD,youtube
 # Cash app
 DOMAIN-SUFFIX,cash.app
 DOMAIN-SUFFIX,squarecdn.com
@@ -84,9 +105,6 @@ DOMAIN-SUFFIX,tumbex.com
 DOMAIN-SUFFIX,twdvd.com
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,buzzsprout.com
-DOMAIN-SUFFIX,oculuscdn.com
-DOMAIN-SUFFIX,oculus.com
-DOMAIN-SUFFIX,letsencrypt.org
 # 国外域名
 DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,hk
@@ -101,22 +119,15 @@ DOMAIN-KEYWORD,abema
 DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,avtb
 DOMAIN-KEYWORD,beetalk
-DOMAIN-KEYWORD,blogspot
-DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,telegram
-DOMAIN-KEYWORD,twitter
-DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,oculus
 # Top Blocked Sites
 DOMAIN-SUFFIX,4sqi.net
 DOMAIN-SUFFIX,a248.e.akamai.net
 DOMAIN-SUFFIX,adobedtm.com
-DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkpure.com
@@ -304,7 +315,6 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
-# Google
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,app-measurement.net
@@ -313,7 +323,6 @@ DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.cn
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
@@ -343,7 +352,6 @@ IP-CIDR,203.208.50.0/24,no-resolve
 IP-CIDR,220.181.174.162/32,no-resolve
 IP-CIDR,220.181.174.226/32,no-resolve
 IP-CIDR,220.181.174.34/32,no-resolve
-# Instagram
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instagr.am
@@ -440,7 +448,6 @@ DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,ypncdn.com
-# Pixiv
 # Spark
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,hockeyapp.net
@@ -472,7 +479,6 @@ DOMAIN-SUFFIX,taptap.tw
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-KEYWORD,ttvnw
-# Twitter
 DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.org
 DOMAIN-SUFFIX,x.com
@@ -512,9 +518,7 @@ DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikileaks.org
-DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikinews.org
-DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiquote.org
 DOMAIN-SUFFIX,wikisource.org
 DOMAIN-SUFFIX,wikiversity.org
