@@ -124,7 +124,6 @@ DOMAIN,p44-buy.itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,amillionads.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN,api.xmancdn.net
-DOMAIN,api-huacloud.com
 DOMAIN-SUFFIX,tingtalk.me
 DOMAIN,lutaonan.com
 DOMAIN,61.life
