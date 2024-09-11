@@ -1,3 +1,6 @@
+# Amazon AWS
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,awsstatic.com
 # google
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ampproject.org
@@ -9,20 +12,31 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,blogspot
 # Meta
 DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,oculus
 DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,threads.net
-DOMAIN-KEYWORD,whatsapp
-DOMAIN-KEYWORD,instagram
 # X
 DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,vine.co
 # Dropbox
 DOMAIN-KEYWORD,dropbox
 # Github
+DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,githubusercontent.com
+# IMDB
+DOMAIN-SUFFIX,imdb.com
 # 1password
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-KEYWORD,1password
@@ -32,6 +46,23 @@ DOMAIN-SUFFIX,notion-static.com
 DOMAIN-KEYWORD,notion
 # thing3
 DOMAIN-KEYWORD,culturedcode
+# Wikimedia Foundation
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikipedia.org
+# Bitly
+DOMAIN-SUFFIX,bit.ly
+
+# Spotify / SC
+DOMAIN-SUFFIX,scdn.co
+
+# Blogspot
+DOMAIN-KEYWORD,blogspot
+
+# Telegra.ph
+DOMAIN-SUFFIX,telegra.ph
+
+# HockeyApp
+DOMAIN-SUFFIX,hockeyapp.net
 # Others
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,tw
