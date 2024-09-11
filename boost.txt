@@ -27,42 +27,63 @@ DOMAIN-SUFFIX,twimg.com
 # Wikimedia Foundation
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
-#
-DOMAIN,api.iturrit.com // Turrit
+# Turrit
+DOMAIN,api.iturrit.com
+# Extended Matching
 DOMAIN-SUFFIX,rcg.fun,extended-matching
+# Microsoft / Bing
 DOMAIN-SUFFIX,bing.com
+DOMAIN-KEYWORD,microsoft
+# BugSnag
 DOMAIN-SUFFIX,bugsnag.com
-DOMAIN-SUFFIX,dis.gd // Discord
-DOMAIN-SUFFIX,digicert.com // Apple
+# Discord
+DOMAIN-SUFFIX,dis.gd
+DOMAIN-KEYWORD,discord
+# Apple
+DOMAIN-SUFFIX,digicert.com
+# Docker
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
+# Fanbox
 DOMAIN-SUFFIX,fanbox.cc
+# FiveCDM
 DOMAIN-SUFFIX,fivecdm.com
+# Google
 DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,ghcr.io // Github Packages
+DOMAIN-SUFFIX,pki.goog
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,gstatic
+# GitHub / GitHub Packages
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-KEYWORD,github
+# GitLab
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.net
+# Gmail
 DOMAIN-SUFFIX,gmail.com
-DOMAIN-SUFFIX,misakaf.org // Misaka F Emby
-DOMAIN-SUFFIX,mixpanel.com // Termius
-DOMAIN-SUFFIX,nvidia.com
-DOMAIN-SUFFIX,pixiv.net
-DOMAIN-SUFFIX,pki.goog
-DOMAIN-SUFFIX,pximg.net
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,scdn.co // Spotify
-DOMAIN-SUFFIX,spoti.fi
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,t.me
+# Misaka F Emby
+DOMAIN-SUFFIX,misakaf.org
+# Termius
+DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,termius.com
-DOMAIN-SUFFIX,telegram.org
+# Nvidia
+DOMAIN-SUFFIX,nvidia.com
+# Pixiv
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pximg.net
+# Sentry
+DOMAIN-SUFFIX,sentry.io
+# Spotify
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spoti.fi
+# Twitter
+DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-KEYWORD,discord
-DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,gstatic
-DOMAIN-KEYWORD,microsoft
+# Telegram
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,telegram.org
+# Spotify
 DOMAIN-KEYWORD,spotify
 # Cash app
 DOMAIN-SUFFIX,cash.app
