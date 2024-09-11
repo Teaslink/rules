@@ -22,6 +22,13 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-KEYWORD,dropbox
 # Github
 DOMAIN-SUFFIX,githubusercontent.com
+# 1password
+DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-KEYWORD,1password
+# Notion
+DOMAIN,http-inputs-notion.splunkcloud.com
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-KEYWORD,notion
 # Others
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,tw
