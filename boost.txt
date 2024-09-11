@@ -5,7 +5,6 @@ DOMAIN-SUFFIX,hk
 DOMAIN-SUFFIX,jp
 DOMAIN-SUFFIX,kr
 DOMAIN-SUFFIX,sg
-DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,uk
 # 国外域名关键字
 DOMAIN-KEYWORD,1e100
@@ -25,10 +24,6 @@ DOMAIN-KEYWORD,1password
 DOMAIN-SUFFIX,1password.eu
 DOMAIN-SUFFIX,1password.ca
 # Alphabet
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-KEYWORD,blogspot
-DOMAIN-SUFFIX,letsencrypt.org
-DOMAIN-SUFFIX,android.com
 # Apple
 DOMAIN-SUFFIX,digicert.com
 # Akamai
@@ -80,7 +75,6 @@ DOMAIN-SUFFIX,coinbase.com
 DOMAIN-KEYWORD,uk-live
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.com
-
 # Bloomberg
 DOMAIN-SUFFIX,bloomberg.cn
 DOMAIN-SUFFIX,bloomberg.com
@@ -129,20 +123,14 @@ DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,dis.gd
 DOMAIN-SUFFIX,discordcdn.com
-
-
 # Cash app
 DOMAIN-SUFFIX,cash.app
 DOMAIN-SUFFIX,squarecdn.com
 DOMAIN-SUFFIX,squareup.com
 DOMAIN-SUFFIX,contentsquare.net
 DOMAIN-KEYWORD,cashapp
-
-# Docker
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
-# Discord
-DOMAIN-SUFFIX,dis.gd
 DOMAIN-KEYWORD,discord
 # Dubox
 DOMAIN-SUFFIX,dubox.com
@@ -151,7 +139,6 @@ DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,dropboxusercontent.com
-DOMAIN-KEYWORD,dropbox
 DOMAIN-SUFFIX,dropbox-dns.com
 DOMAIN-SUFFIX,dropboxcaptcha.com
 DOMAIN-SUFFIX,dropboxforum.com
@@ -172,28 +159,19 @@ DOMAIN-SUFFIX,dnsleaktest.org
 DOMAIN-SUFFIX,strongleakstest.com
 DOMAIN-SUFFIX,ovpnleaktest.com
 DOMAIN-SUFFIX,mydnsleaktest.com
-
-
 # Edge Compute
 DOMAIN-SUFFIX,edgecompute.app
 DOMAIN-SUFFIX,fly.dev
 DOMAIN-SUFFIX,shw.io
 DOMAIN-SUFFIX,edgeapp.net
-
 # Flickr
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,staticflickr.com
 # Flipboard
 DOMAIN-SUFFIX,flipboard.com
 # Google
-DOMAIN-KEYWORD,google
-DOMAIN-SUFFIX,ampproject.org
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,pki.goog
-DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,gstatic
 DOMAIN-SUFFIX,gmail.com
 DOMAIN,pki.goog
@@ -261,7 +239,6 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,app-measurement.net
@@ -310,9 +287,7 @@ IP-CIDR,220.181.174.34/32,no-resolve
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.net
-
 # Instagram
-DOMAIN-KEYWORD,instagram
 # IXQuick
 DOMAIN-SUFFIX,ixquick.com
 # JTVNW (Twitch)
@@ -376,12 +351,6 @@ IP-CIDR,203.104.128.0/19,no-resolve
 PROCESS-NAME,LINE.exe
 PROCESS-NAME,LINEAPP.exe
 # Meta
-DOMAIN-KEYWORD,facebook
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,oculuscdn.com
-DOMAIN-SUFFIX,oculus.com
-DOMAIN-KEYWORD,whatsapp
 DOMAIN-SUFFIX,fbmessenger.com
 DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,facebook-hardware.com
@@ -486,8 +455,6 @@ DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.jp
-DOMAIN-KEYWORD,twitter
-DOMAIN-SUFFIX,twimg.com
 # Telegram
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,telegram.org
@@ -501,7 +468,6 @@ DOMAIN-KEYWORD,ttvnw
 DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.org
 DOMAIN-SUFFIX,x.com
-# Telegram
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.me
@@ -518,7 +484,6 @@ DOMAIN-SUFFIX,teraboxcdn.com
 # TextNow
 DOMAIN-SUFFIX,textnow.com
 DOMAIN-SUFFIX,textnow.me
-
 # Tumblr
 DOMAIN-SUFFIX,tumblr.co
 DOMAIN-SUFFIX,tumblr.com
@@ -753,7 +718,6 @@ DOMAIN-SUFFIX,aaa.com
 DOMAIN-SUFFIX,abc.net.au
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,afraid.org
-DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,apibay.org
 DOMAIN-SUFFIX,apk-dl.com
