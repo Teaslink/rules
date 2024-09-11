@@ -1,0 +1,27 @@
+# google
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,blogspot
+# Meta
+DOMAIN-KEYWORD,facebook
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,instagram
+# X
+DOMAIN-KEYWORD,twitter
+DOMAIN-SUFFIX,twimg.com
+# Dropbox
+DOMAIN-KEYWORD,dropbox
+# Github
+DOMAIN-SUFFIX,githubusercontent.com
+# Others
+DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,tw
