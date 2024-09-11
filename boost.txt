@@ -439,9 +439,6 @@ DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,symauth.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
-# thing3
-DOMAIN,cloud.culturedcode.com
-DOMAIN-SUFFIX,culturedcode.com
 # Twitter
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twitter.com
@@ -513,13 +510,6 @@ DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-KEYWORD,spotify
-# Notion
-DOMAIN,http-inputs-notion.splunkcloud.com
-DOMAIN-SUFFIX,notion-static.com
-DOMAIN-SUFFIX,notion.com
-DOMAIN-SUFFIX,notion.new
-DOMAIN-SUFFIX,notion.site
-DOMAIN-SUFFIX,notion.so
 # Kakao Talk
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kakao.co.kr
