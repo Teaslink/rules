@@ -55,7 +55,7 @@ DOMAIN-SUFFIX,vine.co
 # 1password
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-KEYWORD,1password
-# Others
+# Misc
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,tw
