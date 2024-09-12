@@ -51,16 +51,12 @@ DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
 # Bitly
 DOMAIN-SUFFIX,bit.ly
-
 # Spotify / SC
 DOMAIN-SUFFIX,scdn.co
-
 # Blogspot
 DOMAIN-KEYWORD,blogspot
-
 # Telegra.ph
 DOMAIN-SUFFIX,telegra.ph
-
 # HockeyApp
 DOMAIN-SUFFIX,hockeyapp.net
 # Others
