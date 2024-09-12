@@ -1,7 +1,9 @@
 # Amazon AWS
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
-# google
+# Dropbox
+DOMAIN-KEYWORD,dropbox
+# Google
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-KEYWORD,gmail
@@ -10,6 +12,13 @@ DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,blogspot
+# Github
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,githubusercontent.com
+# IMDB
+DOMAIN-SUFFIX,imdb.com
+# Microsoft
+DOMAIN-SUFFIX,hockeyapp.net
 # Meta
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,whatsapp
@@ -21,6 +30,19 @@ DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,threads.net
+# Notion
+DOMAIN,http-inputs-notion.splunkcloud.com
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-KEYWORD,notion
+# Spotify
+DOMAIN-SUFFIX,scdn.co
+# thing3
+DOMAIN-KEYWORD,culturedcode
+# Telegram
+DOMAIN-SUFFIX,telegra.ph
+# Wikimedia Foundation
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikipedia.org
 # X
 DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,twimg.com
@@ -30,31 +52,9 @@ DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,vine.co
-# Dropbox
-DOMAIN-KEYWORD,dropbox
-# Github
-DOMAIN-KEYWORD,github
-DOMAIN-SUFFIX,githubusercontent.com
-# IMDB
-DOMAIN-SUFFIX,imdb.com
 # 1password
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-KEYWORD,1password
-# Notion
-DOMAIN,http-inputs-notion.splunkcloud.com
-DOMAIN-SUFFIX,notion-static.com
-DOMAIN-KEYWORD,notion
-# thing3
-DOMAIN-KEYWORD,culturedcode
-# Wikimedia Foundation
-DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,wikipedia.org
-# Spotify / SC
-DOMAIN-SUFFIX,scdn.co
-# Telegram
-DOMAIN-SUFFIX,telegra.ph
-# HockeyApp
-DOMAIN-SUFFIX,hockeyapp.net
 # Others
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,bit.ly
