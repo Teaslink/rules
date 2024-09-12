@@ -3,6 +3,8 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
 # Dropbox
 DOMAIN-KEYWORD,dropbox
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxusercontent.com
 # Google
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ampproject.org
@@ -19,6 +21,11 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,imdb.com
 # Microsoft
 DOMAIN-SUFFIX,hockeyapp.net
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,skype.com
 # Meta
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,whatsapp
@@ -27,9 +34,22 @@ DOMAIN-KEYWORD,oculus
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fb.watch
+DOMAIN-SUFFIX,fbaddins.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbworkmail.com
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,accountkit.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,f8.com
+DOMAIN-SUFFIX,facebookmail.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,readyatdawn.com
+DOMAIN-SUFFIX,rocksdb.org
 # Notion
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN-SUFFIX,notion-static.com
@@ -43,6 +63,18 @@ DOMAIN-SUFFIX,telegra.ph
 # Wikimedia Foundation
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikidata.org
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wikimediafoundation.org
+DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiversity.org
+DOMAIN-SUFFIX,wikivoyage.org
+DOMAIN-SUFFIX,wiktionary.org
 # X
 DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,twimg.com
@@ -52,6 +84,8 @@ DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,x.com
 # 1password
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-KEYWORD,1password
