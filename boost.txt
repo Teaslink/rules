@@ -126,18 +126,6 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-KEYWORD,discord
 # Dubox
 DOMAIN-SUFFIX,dubox.com
-# Dropbox
-DOMAIN-SUFFIX,dropbox.com
-DOMAIN-SUFFIX,dropboxapi.com
-DOMAIN-SUFFIX,dropboxstatic.com
-DOMAIN-SUFFIX,dropboxusercontent.com
-DOMAIN-SUFFIX,dropbox-dns.com
-DOMAIN-SUFFIX,dropboxcaptcha.com
-DOMAIN-SUFFIX,dropboxforum.com
-DOMAIN-SUFFIX,dropboxforums.com
-DOMAIN-SUFFIX,dropboxinsiders.com
-DOMAIN-SUFFIX,dropboxmail.com
-DOMAIN-SUFFIX,getdropbox.com
 # DNS Leak Testing
 DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,browserleaks.org
@@ -477,8 +465,6 @@ DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,tumblr.co
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,txmblr.com
-# Turrit
-DOMAIN,api.iturrit.com
 # TVB
 DOMAIN-SUFFIX,tvb.com
 # TeamSpeak
