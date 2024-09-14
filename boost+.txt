@@ -181,4 +181,3 @@ DOMAIN-KEYWORD,1password
 # Misc
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,bit.ly
-DOMAIN-SUFFIX,tw
