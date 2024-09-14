@@ -118,6 +118,16 @@ DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,azurecontainer.io
 DOMAIN-SUFFIX,azure-mobile.net
 DOMAIN-SUFFIX,cloudapp.net
+# > Microsoft Edge
+DOMAIN,edge.activity.windows.com
+DOMAIN,edge.microsoft.com
+DOMAIN,iecvlist.microsoft.com
+DOMAIN,msedge.api.cdp.microsoft.com
+# > Microsoft Teams
+DOMAIN-SUFFIX,teams.cdn.live.net
+DOMAIN-SUFFIX,teams.live.com
+DOMAIN-SUFFIX,teams.microsoft.com
+DOMAIN,teams.events.data.microsoft.com
 # Meta
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,whatsapp
@@ -178,6 +188,3 @@ DOMAIN-SUFFIX,x.com
 # 1password
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-KEYWORD,1password
-# Misc
-DOMAIN-SUFFIX,letsencrypt.org
-DOMAIN-SUFFIX,bit.ly
