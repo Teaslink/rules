@@ -12,11 +12,8 @@ DOMAIN-KEYWORD,abema
 DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,avtb
 DOMAIN-KEYWORD,beetalk
-DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
-DOMAIN-KEYWORD,telegram
-DOMAIN-KEYWORD,oculus
 # Apple
 DOMAIN-SUFFIX,digicert.com
 # Akamai
@@ -56,6 +53,9 @@ DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,archive.today
+# Amazon AWS
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,awsstatic.com
 # Binance
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.com
@@ -78,6 +78,18 @@ DOMAIN-SUFFIX,manhuabika.com
 # Claude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
+# Dropbox
+DOMAIN-KEYWORD,dropbox
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,dropboxstatic.com
+DOMAIN-SUFFIX,dropbox-dns.com
+DOMAIN-SUFFIX,dropboxcaptcha.com
+DOMAIN-SUFFIX,dropboxforum.com
+DOMAIN-SUFFIX,dropboxforums.com
+DOMAIN-SUFFIX,dropboxinsiders.com
+DOMAIN-SUFFIX,dropboxmail.com
+DOMAIN-SUFFIX,getdropbox.com
 # Developer 开发者常用国外网站、镜像和论坛
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,elastic.co
@@ -94,12 +106,6 @@ DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,spring.io
 DOMAIN-SUFFIX,spring.net
 DOMAIN-SUFFIX,stackoverflow.com
-# Cloudflare
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflareresolve.com
-DOMAIN-SUFFIX,cloudflarestatus.com
-DOMAIN-SUFFIX,cloudflareaccess.com
 # Docker
 DOMAIN,d1q6f0aelx0por.cloudfront.net
 DOMAIN,d2wy8f7a9ursnm.cloudfront.net
@@ -149,125 +155,21 @@ DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,staticflickr.com
 # Flipboard
 DOMAIN-SUFFIX,flipboard.com
-# Google
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,pki.goog
-DOMAIN-KEYWORD,gstatic
-DOMAIN-SUFFIX,gmail.com
-DOMAIN,pki.goog
-DOMAIN-SUFFIX,abc.xyz
-DOMAIN-SUFFIX,androidify.com
-DOMAIN-SUFFIX,autodraw.com
-DOMAIN-SUFFIX,blogblog.com
-DOMAIN-SUFFIX,capitalg.com
-DOMAIN-SUFFIX,certificate-transparency.org
-DOMAIN-SUFFIX,chrome.com
-DOMAIN-SUFFIX,chromeexperiments.com
-DOMAIN-SUFFIX,chromestatus.com
-DOMAIN-SUFFIX,chromium.org
-DOMAIN-SUFFIX,cloudfunctions.net
-DOMAIN-SUFFIX,creativelab5.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,dialogflow.com
-DOMAIN-SUFFIX,feedburner.com
-DOMAIN-SUFFIX,forms.gle
-DOMAIN-SUFFIX,getmdl.io
-DOMAIN-SUFFIX,getoutline.org
-DOMAIN-SUFFIX,gmodules.com
-DOMAIN-SUFFIX,godoc.org
-DOMAIN-SUFFIX,golang.org
-DOMAIN-SUFFIX,googl.com
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,google.hk
-DOMAIN-SUFFIX,google.com.hk
-DOMAIN-SUFFIX,google.tw
-DOMAIN-SUFFIX,google.com.tw
-DOMAIN-SUFFIX,google.com.sg
-DOMAIN-SUFFIX,google.jp
-DOMAIN-SUFFIX,google.co.jp
-DOMAIN-SUFFIX,gv.com
-DOMAIN-SUFFIX,gvt5.com
-DOMAIN-SUFFIX,gvt6.com
-DOMAIN-SUFFIX,gvt7.com
-DOMAIN-SUFFIX,gvt9.com
-DOMAIN-SUFFIX,gwtproject.org
-DOMAIN-SUFFIX,itasoftware.com
-DOMAIN-SUFFIX,madewithcode.com
-DOMAIN-SUFFIX,material.io
-DOMAIN-SUFFIX,page.link
-DOMAIN-SUFFIX,polymer-project.org
-DOMAIN-SUFFIX,recaptcha.net
-DOMAIN-SUFFIX,shattered.io
-DOMAIN-SUFFIX,synergyse.com
-DOMAIN-SUFFIX,tensorflow.org
-DOMAIN-SUFFIX,tiltbrush.com
-DOMAIN-SUFFIX,translate.goog
-DOMAIN-SUFFIX,waveprotocol.org
-DOMAIN-SUFFIX,waymo.com
-DOMAIN-SUFFIX,web.dev
-DOMAIN-SUFFIX,webmproject.org
-DOMAIN-SUFFIX,webpkgcache.com
-DOMAIN-SUFFIX,webrtc.org
-DOMAIN-SUFFIX,whatbrowser.org
-DOMAIN-SUFFIX,widevine.com
-DOMAIN-SUFFIX,x.company
-DOMAIN-SUFFIX,telephony.goog
-DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,run.app
 # Github
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.io
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,1e100.net
-DOMAIN-SUFFIX,2mdn.net
-DOMAIN-SUFFIX,app-measurement.net
-DOMAIN-SUFFIX,g.co
-DOMAIN-SUFFIX,goo.gl
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,gstatic.cn
-DOMAIN-SUFFIX,gvt0.com
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,gvt3.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ghcr.io
-DOMAIN-KEYWORD,github
-DOMAIN-SUFFIX,github.blog
-DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,githubpreview.dev
-IP-CIDR,74.125.0.0/16,no-resolve
-IP-CIDR,173.194.0.0/16,no-resolve
-# GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
-IP-CIDR,120.232.181.162/32,no-resolve
-IP-CIDR,120.241.147.226/32,no-resolve
-IP-CIDR,120.253.253.226/32,no-resolve
-IP-CIDR,120.253.255.162/32,no-resolve
-IP-CIDR,120.253.255.34/32,no-resolve
-IP-CIDR,120.253.255.98/32,no-resolve
-IP-CIDR,180.163.150.162/32,no-resolve
-IP-CIDR,180.163.150.34/32,no-resolve
-IP-CIDR,180.163.151.162/32,no-resolve
-IP-CIDR,180.163.151.34/32,no-resolve
-IP-CIDR,203.208.39.0/24,no-resolve
-IP-CIDR,203.208.40.0/24,no-resolve
-IP-CIDR,203.208.41.0/24,no-resolve
-IP-CIDR,203.208.43.0/24,no-resolve
-IP-CIDR,203.208.50.0/24,no-resolve
-IP-CIDR,220.181.174.162/32,no-resolve
-IP-CIDR,220.181.174.226/32,no-resolve
-IP-CIDR,220.181.174.34/32,no-resolve
 # GitLab
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.net
-# Instagram
+# IMDB
+DOMAIN-SUFFIX,imdb.com
 # IXQuick
 DOMAIN-SUFFIX,ixquick.com
 # JTVNW (Twitch)
@@ -330,48 +232,6 @@ IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
 PROCESS-NAME,LINE.exe
 PROCESS-NAME,LINEAPP.exe
-# Meta
-DOMAIN-SUFFIX,fbmessenger.com
-DOMAIN-SUFFIX,tfbnw.net
-DOMAIN-SUFFIX,facebook-hardware.com
-DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fbcdn.com
-DOMAIN-SUFFIX,fb.watch
-DOMAIN-SUFFIX,accountkit.com
-DOMAIN-SUFFIX,m.me
-DOMAIN-SUFFIX,f8.com
-DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,threads.net
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,instagr.am
-IP-CIDR,31.13.24.0/21,no-resolve
-IP-CIDR,31.13.64.0/18,no-resolve
-IP-CIDR,45.64.40.0/22,no-resolve
-IP-CIDR,66.220.144.0/20,no-resolve
-IP-CIDR,69.63.176.0/20,no-resolve
-IP-CIDR,69.171.224.0/19,no-resolve
-IP-CIDR,74.119.76.0/22,no-resolve
-IP-CIDR,103.4.96.0/22,no-resolve
-IP-CIDR,129.134.0.0/17,no-resolve
-IP-CIDR,157.240.0.0/17,no-resolve
-IP-CIDR,173.252.64.0/18,no-resolve
-IP-CIDR,179.60.192.0/22,no-resolve
-IP-CIDR,185.60.216.0/22,no-resolve
-IP-CIDR,204.15.20.0/22,no-resolve
-# Microsoft / Bing
-DOMAIN-SUFFIX,bing.com
-DOMAIN-KEYWORD,microsoft
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,linkedin.at
-DOMAIN-SUFFIX,lnkd.in
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,windows.net
-DOMAIN-SUFFIX,azurecontainer.io
-DOMAIN-SUFFIX,azure-mobile.net
-DOMAIN-SUFFIX,cloudapp.net
 # MacRumors
 DOMAIN-SUFFIX,macrumors.com
 # Medium
@@ -379,8 +239,10 @@ DOMAIN-SUFFIX,medium.com
 # Mega
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,megaupload.com
-# Messenger (Facebook)
-DOMAIN-SUFFIX,messenger.com
+# Notion
+DOMAIN,http-inputs-notion.splunkcloud.com
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-KEYWORD,notion
 # NetDNA
 DOMAIN-SUFFIX,netdna-cdn.com
 # Nintendo
@@ -427,14 +289,6 @@ DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,symauth.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
-# Twitter
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitter.jp
-# Telegram
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,telegram.org
 # TapTap
 DOMAIN-SUFFIX,tap.io
 DOMAIN-SUFFIX,taptap.tw
@@ -575,6 +429,10 @@ DOMAIN,steamstore-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steampipe.akamaized.net
+# Spotify
+DOMAIN-SUFFIX,scdn.co
+# thing3
+DOMAIN-KEYWORD,culturedcode
 # Wikipedia 维基相关域名
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,wikibooks.org
@@ -590,6 +448,9 @@ DOMAIN-SUFFIX,wikawika.xyz
 DOMAIN-SUFFIX,scp-wiki.net
 DOMAIN-SUFFIX,scpdb.org
 DOMAIN-SUFFIX,scpwiki.com
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikimediafoundation.org
 # Zoom
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,zoomgov.com
@@ -622,7 +483,7 @@ DOMAIN-SUFFIX,singlelogin.re
 # Z-Library
 DOMAIN-SUFFIX,z-library.se
 DOMAIN-SUFFIX,zlibrary-global.se
-# others
+# Misc
 DOMAIN-SUFFIX,thefacebook.com
 DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,torproject.org
