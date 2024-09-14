@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,garena.com
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,ip138.com
-DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,myteamspeak.com
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,ping.pe
@@ -23,16 +22,8 @@ DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,buzzsprout.com
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,dropbox
-DOMAIN-KEYWORD,facebook
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,oculus
-DOMAIN-KEYWORD,whatsapp
-DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,imdb.com
-DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,scdn.co
@@ -46,11 +37,9 @@ DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
-DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,aimoon.com
 DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,annas-archive.gs
@@ -175,7 +164,6 @@ DOMAIN-KEYWORD,abema
 DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,avtb
 DOMAIN-KEYWORD,beetalk
-DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,spotify
@@ -194,7 +182,6 @@ DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,bandwagonhost.com
-DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bkrtx.com
 DOMAIN-SUFFIX,blogcdn.com
 DOMAIN-SUFFIX,blogger.com
@@ -235,14 +222,12 @@ DOMAIN-SUFFIX,kat.cr
 DOMAIN-SUFFIX,kik.com
 DOMAIN-SUFFIX,kobo.com
 DOMAIN-SUFFIX,kobobooks.com
-DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,megaupload.com
-DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,netdna-cdn.com
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nsstatic.net
@@ -274,51 +259,25 @@ DOMAIN-SUFFIX,vox-cdn.com
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
 # > Alphabet
-DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,advertisercommunity.com
-DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,androidtv.com
 DOMAIN-SUFFIX,api.ai
 DOMAIN-SUFFIX,apigee.com
-DOMAIN-SUFFIX,blogblog.com
-DOMAIN-SUFFIX,chrome.com
-DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,debug.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,dialogflow.com
-DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,firebaseapp.com
-DOMAIN-SUFFIX,itasoftware.com
-DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,gcr.io
-DOMAIN-SUFFIX,getoutline.org
-DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,gmail.com
-DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,goog
-DOMAIN-SUFFIX,gvt0.com
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,keyhole.com
-DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,on2.com
-DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,schema.org
-DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,tfhub.dev
-DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN-SUFFIX,transparency.dev
-DOMAIN-SUFFIX,waymo.com
 DOMAIN-SUFFIX,web.app
-DOMAIN-SUFFIX,web.dev
-DOMAIN-SUFFIX,webmproject.org
-DOMAIN-SUFFIX,webrtc.org
-DOMAIN-SUFFIX,widevine.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,zynamics.com
 DOMAIN-KEYWORD,.blogspot.
 # > Amazon
@@ -459,10 +418,6 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
-# > Instagram
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,instagr.am
 # > Iwara
 DOMAIN-SUFFIX,iwara.tv
 # > Kakao Talk
@@ -665,7 +620,6 @@ DOMAIN-SUFFIX,stackoverflow.co
 DOMAIN-SUFFIX,stackoverflow.email
 DOMAIN-SUFFIX,stacksnippets.net
 DOMAIN-SUFFIX,superuser.com
-# > Steam
 DOMAIN-SUFFIX,s.team
 DOMAIN,store.steampowered.com
 # > TapTap
@@ -739,7 +693,6 @@ DOMAIN-SUFFIX,yadi.sk
 DOMAIN-SUFFIX,yastatic.net
 # (Region-Restricted Access Denied)
 DOMAIN-SUFFIX,go.dev
-DOMAIN-SUFFIX,golang.org
 # ---(Apple)---
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,smoot.apple.com
@@ -765,7 +718,6 @@ DOMAIN,apps.apple.com
 DOMAIN,books.apple.com
 DOMAIN,itunes.apple.com
 DOMAIN,tv.apple.com
-
 # > Mozilia
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefoxusercontent.com
