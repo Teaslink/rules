@@ -4,6 +4,13 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflareaccess.com
+DOMAIN-SUFFIX,cf-ipfs.com
+DOMAIN-SUFFIX,every1dns.net
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,videodelivery.net
+DOMAIN-SUFFIX,warp.plus
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-KEYWORD,cloudflare
 # Google
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,youtube
@@ -100,6 +107,26 @@ IP-CIDR,203.208.50.0/24,no-resolve
 IP-CIDR,220.181.174.162/32,no-resolve
 IP-CIDR,220.181.174.226/32,no-resolve
 IP-CIDR,220.181.174.34/32,no-resolve
+# > Google
+DOMAIN-SUFFIX,gstatic.cn
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleusercontent.com
+# > GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
+# > Google Gemini
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
+# > Google DeepMind
+DOMAIN-SUFFIX,deepmind.google
+# > Google Generative Language API
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+# > Google AI Studio
+DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,generativeai.google
 # Microsoft
 DOMAIN-KEYWORD,microsoft
 DOMAIN-SUFFIX,hockeyapp.net
@@ -108,9 +135,6 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,linkedin.at
 DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,office365.com
@@ -118,22 +142,44 @@ DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,azurecontainer.io
 DOMAIN-SUFFIX,azure-mobile.net
 DOMAIN-SUFFIX,cloudapp.net
-# > Microsoft Edge
+DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,streaming.mediaservices.windows.net
+DOMAIN,assets1.xboxlive.com
+DOMAIN,assets2.xboxlive.com
+DOMAIN,az416426.vo.msecnd.net
+DOMAIN,az668014.vo.msecnd.net
 DOMAIN,edge.activity.windows.com
 DOMAIN,edge.microsoft.com
 DOMAIN,iecvlist.microsoft.com
 DOMAIN,msedge.api.cdp.microsoft.com
-# > Microsoft Teams
 DOMAIN-SUFFIX,teams.cdn.live.net
 DOMAIN-SUFFIX,teams.live.com
 DOMAIN-SUFFIX,teams.microsoft.com
 DOMAIN,teams.events.data.microsoft.com
+# > OneDrive
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,skydrive
+DOMAIN-SUFFIX,oneclient.sfx.ms
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,photos.live.com
+DOMAIN-SUFFIX,skydrive.wns.windows.com
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+#DOMAIN-SUFFIX,aria.microsoft.com
+
 # Meta
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,oculus
 DOMAIN-KEYWORD,fbcdn
+DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.watch
@@ -154,7 +200,12 @@ DOMAIN-SUFFIX,fbmessenger.com
 DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,facebook-hardware.com
 DOMAIN-SUFFIX,instagr.am
-# Meta IP Ranges
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-KEYWORD,.facebook.
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.com
 IP-CIDR,31.13.24.0/21,no-resolve
 IP-CIDR,31.13.64.0/18,no-resolve
 IP-CIDR,45.64.40.0/22,no-resolve
@@ -169,22 +220,7 @@ IP-CIDR,173.252.64.0/18,no-resolve
 IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
-# Telegram
-DOMAIN-KEYWORD,telegram
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,telegram.org
-# X
-DOMAIN-KEYWORD,twitter
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,vine.co
-DOMAIN-SUFFIX,tweetdeck.com
-DOMAIN-SUFFIX,x.com
+
 # 1password
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-KEYWORD,1password
