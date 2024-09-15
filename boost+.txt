@@ -1,4 +1,11 @@
 # Boost+
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,instagram
 # Keyword
 DOMAIN-KEYWORD,1password
 DOMAIN-KEYWORD,facebook
@@ -16,6 +23,8 @@ DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
+DOMAIN-KEYWORD,blogspot
+
 # Meta
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,fb.me
@@ -37,6 +46,12 @@ DOMAIN-SUFFIX,fbmessenger.com
 DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,facebook-hardware.com
 DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,oculus.com
 IP-CIDR,31.13.24.0/21,no-resolve
 IP-CIDR,31.13.64.0/18,no-resolve
 IP-CIDR,45.64.40.0/22,no-resolve
@@ -71,7 +86,6 @@ IP-CIDR,75.126.150.0/16,no-resolve
 IP-CIDR,69.171.235.0/16,no-resolve
 # 1password
 DOMAIN-SUFFIX,1passwordservices.com
-
 # Cloudflare
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare.com
@@ -156,6 +170,10 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
 # Google IP Ranges
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
