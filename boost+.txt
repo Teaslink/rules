@@ -1,4 +1,5 @@
 # Boost+
+# Keyword
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,youtube
@@ -6,25 +7,20 @@ DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,instagram
-# Keyword
-DOMAIN-KEYWORD,1password
-DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,.facebook.
-DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,oculus
 DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,cloudflare
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,youtube
-DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
 DOMAIN-KEYWORD,blogspot
-
+# Ins
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,instagram.com
 # Meta
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,fb.me
@@ -35,7 +31,6 @@ DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fbworkmail.com
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,accountkit.com
-DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,facebookmail.com
 DOMAIN-SUFFIX,m.me
@@ -45,12 +40,7 @@ DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,fbmessenger.com
 DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,facebook-hardware.com
-DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,oculus.com
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,oculus.com
 IP-CIDR,31.13.24.0/21,no-resolve
 IP-CIDR,31.13.64.0/18,no-resolve
@@ -199,6 +189,10 @@ IP-CIDR,220.181.174.34/32,no-resolve
 # > Google Gemini
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN,aistudio.google.com
+DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN,generativelanguage.googleapis.com
 # > Google DeepMind
 DOMAIN-SUFFIX,deepmind.google
 # > Google Generative Language API
@@ -211,6 +205,11 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,generativeai.google
+# Claude 2024-04-14 16:05:36
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+IP-CIDR,160.79.104.0/23
+IP-CIDR6,2607:6bc0::/48
 # Microsoft
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,bing.com
@@ -243,6 +242,31 @@ DOMAIN-SUFFIX,teams.cdn.live.net
 DOMAIN-SUFFIX,teams.live.com
 DOMAIN-SUFFIX,teams.microsoft.com
 DOMAIN,teams.events.data.microsoft.com
+# Copilot 2024-04-14 16:05:36
+DOMAIN,api.githubcopilot.com
+DOMAIN,bat.bing.com
+DOMAIN,browser.events.data.microsoft.com
+DOMAIN,config.edge.skype.com
+DOMAIN,content.lifecycle.office.net
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,copilot.microsoft.com
+DOMAIN,edgeservices.bing.com
+DOMAIN,functional.events.data.microsoft.com
+DOMAIN,login.live.com
+DOMAIN,services.bingapis.com
+DOMAIN,storage.live.com
+DOMAIN,strict.bing.com
+DOMAIN,sydney.bing.com
+DOMAIN,www.bing.com
+DOMAIN,www.bingapis.com
+# Bing AI 2024-02-04 21:29:04
+DOMAIN-SUFFIX,bing.com.cn
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bingagencyawards.com
+DOMAIN-SUFFIX,bingapistatistics.com
+DOMAIN-SUFFIX,bingsandbox.com
+DOMAIN-SUFFIX,bingvisualsearch.com
+DOMAIN-SUFFIX,bingworld.com
 # > OneDrive
 DOMAIN-SUFFIX,oneclient.sfx.ms
 DOMAIN-SUFFIX,onedrive.com
