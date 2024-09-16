@@ -1,19 +1,25 @@
-# China Apps
-USER-AGENT,MApi*
-USER-AGENT,MicroMessenger*
-USER-AGENT,WeChat*
-DOMAIN-SUFFIX,cn
+# CN+
+
 # Ali
-DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,alibaba
-DOMAIN-KEYWORD,dingtalk
+DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,aliyun
+DOMAIN-KEYWORD,.tmall.
+IP-CIDR,198.11.188.0/25,no-resolve
+IP-CIDR,198.11.136.0/24,no-resolve
+USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
+# China
+DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,dingtalk
 DOMAIN-KEYWORD,iqiyi
 DOMAIN-KEYWORD,bilibili
-DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,.tmall.
+USER-AGENT,MicroMessenger Client
+USER-AGENT,WeChat*
+USER-AGENT,MApi*
+USER-AGENT,MicroMessenger*
+DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,dingding.xin
 DOMAIN-SUFFIX,ddurl.to
 DOMAIN-SUFFIX,laiwang.com
@@ -24,9 +30,6 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,myqcloud.com
-IP-CIDR,198.11.188.0/25,no-resolve
-IP-CIDR,198.11.136.0/24,no-resolve
-USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 # Misc
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,microsoft.com
