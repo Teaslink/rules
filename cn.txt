@@ -57,7 +57,6 @@ DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzfile.com
 DOMAIN-SUFFIX,myapp.com
-# Edit@ 2024.9.12
 # bm7 china
 DOMAIN-SUFFIX,ms
 DOMAIN-KEYWORD,beplay
@@ -113,9 +112,39 @@ USER-AGENT,eusoft_ting_en_iphone
 USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
-#########################################
-# Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-08-26T01:38:26.614Z
+# Direct
+DOMAIN-SUFFIX,flyert.com
+DOMAIN-SUFFIX,gandi.net
+DOMAIN-SUFFIX,snapdrop.net
+DOMAIN,download.jetbrains.com
+DOMAIN,origin-a.akamaihd.net
+# ---(Microsoft)---
+# > Outlook
+DOMAIN,outlook.office365.com
+DOMAIN,smtp-mail.outlook.com
+DOMAIN,smtp.office365.com
+# > Windows Server Update Services
+DOMAIN-SUFFIX,update.microsoft.com
+DOMAIN-SUFFIX,windowsupdate.microsoft.com
+DOMAIN,download.microsoft.com
+DOMAIN,wustat.windows.com
+DOMAIN,ntservicepack.microsoft.com
+# > PayPal
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypal.me
+DOMAIN-SUFFIX,paypal-mktg.com
+DOMAIN-SUFFIX,paypalobjects.com
+# > Steam
+# >> Steam Connect Manager Servers
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+# > IP Query
+DOMAIN,ip.istatmenus.app
+DOMAIN,sms.imagetasks.com
+# > Speed Test
+DOMAIN-SUFFIX,netspeedtestmaster.com
+DOMAIN,speedtest.macpaw.com
+# SKK Domestic Domains  2024-08-26
 DOMAIN,www.layuicdn.com
 DOMAIN,gstore.val.manlaxy.com
 DOMAIN,lv.queniujq.cn
@@ -873,40 +902,6 @@ DOMAIN-SUFFIX,baomitu.com
 USER-AGENT,TeslaMap
 PROCESS-NAME,WeChat
 PROCESS-NAME,WeCom
-# Direct
-DOMAIN-SUFFIX,flyert.com
-DOMAIN-SUFFIX,gandi.net
-DOMAIN-SUFFIX,snapdrop.net
-DOMAIN,download.jetbrains.com
-DOMAIN,origin-a.akamaihd.net
-# ---(Microsoft)---
-# > Outlook
-DOMAIN,outlook.office365.com
-DOMAIN,smtp-mail.outlook.com
-DOMAIN,smtp.office365.com
-# > Windows Server Update Services
-DOMAIN-SUFFIX,update.microsoft.com
-DOMAIN-SUFFIX,windowsupdate.microsoft.com
-DOMAIN,download.microsoft.com
-DOMAIN,wustat.windows.com
-DOMAIN,ntservicepack.microsoft.com
-# ------
-# > PayPal
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypal.me
-DOMAIN-SUFFIX,paypal-mktg.com
-DOMAIN-SUFFIX,paypalobjects.com
-# > Steam
-# >> Steam Connect Manager Servers
-DOMAIN-SUFFIX,cm.steampowered.com
-DOMAIN-SUFFIX,steamserver.net
-# > IP Query
-DOMAIN,ip.istatmenus.app
-DOMAIN,sms.imagetasks.com
-# > Speed Test
-DOMAIN-SUFFIX,netspeedtestmaster.com
-DOMAIN,speedtest.macpaw.com
-# SKK
 DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,juejin.cn
 DOMAIN-SUFFIX,infoq.cn
