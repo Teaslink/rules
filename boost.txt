@@ -1,4 +1,4 @@
-# Boost+
+# Boost
 # Keyword
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
