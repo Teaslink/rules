@@ -4,7 +4,6 @@ DOMAIN-KEYWORD,dropbox
 DOMAIN-SUFFIX,ampproject.org  //Goo 加速移动网页的加载速度
 DOMAIN-SUFFIX,letsencrypt.org //证书颁发机构
 # > Keyword
-DOMAIN-KEYWORD,1password
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
 DOMAIN-KEYWORD,appledaily
@@ -13,6 +12,19 @@ DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,spotify
+
+# myapp
+# > 1password
+DOMAIN-KEYWORD,1password
+DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-SUFFIX,1password.ca
+DOMAIN-SUFFIX,1password.eu
+DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-SUFFIX,1password.com
+
+# > Things3
+DOMAIN-SUFFIX,culturedcode.com
+
 # > Akamai
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
@@ -780,8 +792,6 @@ DOMAIN-SUFFIX,zlibrary-global.se
 DOMAIN-SUFFIX,z-library.se
 DOMAIN-SUFFIX,singlelogin.se
 DOMAIN-SUFFIX,cbc.ca
-DOMAIN-SUFFIX,1password.ca
-DOMAIN-SUFFIX,1password.eu
 DOMAIN-SUFFIX,huobi.pro
 DOMAIN-SUFFIX,whoer.cc
 DOMAIN-SUFFIX,520cc.cc
@@ -1040,8 +1050,6 @@ DOMAIN-SUFFIX,picacomic.com
 DOMAIN-SUFFIX,picacgy.com
 DOMAIN-SUFFIX,picacgp.com
 DOMAIN-SUFFIX,manhuabika.com
-DOMAIN-SUFFIX,1passwordservices.com
-DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,cryptocompare.com
 DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,nicehash.com
