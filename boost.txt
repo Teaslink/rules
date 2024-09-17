@@ -19,12 +19,6 @@ DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
 DOMAIN-KEYWORD,blogspot
 
-# 1password
-DOMAIN-SUFFIX,1passwordservices.com
-
-# Things3
-DOMAIN-SUFFIX,culturedcode.com
-
 # Meta
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,fb.me
