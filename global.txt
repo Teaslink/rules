@@ -700,10 +700,6 @@ IP-CIDR,54.156.0.0/14,no-resolve
 IP-CIDR,54.226.0.0/15,no-resolve
 IP-CIDR,54.230.156.0/22,no-resolve
 IP-CIDR,54.93.0.0/16,no-resolve
-# > Facebook
-IP-CIDR,173.252.64.0/19,no-resolve
-IP-CIDR,173.252.96.0/19,no-resolve
-# > Google
 # > Kakao Talk
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,103.246.56.0/22,no-resolve
@@ -840,17 +836,7 @@ DOMAIN,ees.elsevier.com
 DOMAIN,ccmdl.adobe.com
 DOMAIN,media.steampowered.com
 DOMAIN,wego.here.com
-DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,debug.com
-DOMAIN-SUFFIX,googl.com
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,google.hk
-DOMAIN-SUFFIX,google.com.hk
-DOMAIN-SUFFIX,google.tw
-DOMAIN-SUFFIX,google.com.tw
-DOMAIN-SUFFIX,google.com.sg
-DOMAIN-SUFFIX,google.jp
-DOMAIN-SUFFIX,google.co.jp
 DOMAIN-SUFFIX,travis-ci.com
 DOMAIN-SUFFIX,travis-ci.org
 DOMAIN-SUFFIX,oracle.com
@@ -1152,21 +1138,6 @@ DOMAIN-KEYWORD,discord
 # scomper
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,telegra.ph
-# Google Gemini
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,gemini.google.com
-# Google DeepMind
-DOMAIN-SUFFIX,deepmind.google
-# Google Generative Language API
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-# Google AI Studio
-DOMAIN,ai.google.dev
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN,alkalicore-pa.clients6.google.com
-DOMAIN,alkalimakersuite-pa.clients6.google.com
-DOMAIN-SUFFIX,generativeai.google
 #connerhua
 # Proxy
 DOMAIN-SUFFIX,9cache.com
@@ -1300,13 +1271,11 @@ DOMAIN,s3-ap-southeast-2.amazonaws.com
 # > Alphabet
 # DOMAIN-SUFFIX,ampproject.org
 DOMAIN-KEYWORD,.blogspot.
-# > Apple
 # > Automattic
 DOMAIN-SUFFIX,videopress.com
 # > Bloomberg
 DOMAIN-SUFFIX,bloomberg.de
 DOMAIN-SUFFIX,bloombergview.com
-# > Cloudflare
 # > Clubhouse
 DOMAIN-SUFFIX,joinclubhouse.com
 DOMAIN,clubhouse.pubnubapi.com
@@ -1332,10 +1301,8 @@ DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 # > OKX
 DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
-# ------
 # > Discord
 DOMAIN-SUFFIX,discord.gg
-# > Dropbox
 # > Fastly
 DOMAIN-SUFFIX,freetls.fastly.net
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
@@ -1348,9 +1315,6 @@ DOMAIN,d19eijqb5qll1w.cloudfront.net
 DOMAIN-SUFFIX,naver.jp
 IP-CIDR,103.2.30.0/23,no-resolve
 IP-CIDR,203.104.144.0/21,no-resolve
-# > Meta
-DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.net
 # > Microsoft
 DOMAIN,github.global.ssl.fastly.net
 # > Pinterest
