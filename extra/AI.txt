@@ -1,93 +1,57 @@
-# OpenAI
-# > ChatGPT
-DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,openaicom
-DOMAIN,api.statsig.com
-DOMAIN,api-iam.intercom.io
-DOMAIN,chatgpt.livekit.cloud
-DOMAIN,o33249.ingest.sentry.io
-DOMAIN,openaiapi-site.azureedge.net
-DOMAIN,sfo3.turn.livekit.cloud
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,openai.com
-# Anthropic
-# > Claude
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,anthropic.com
-IP-CIDR,160.79.104.0/23
-IP-CIDR6,2607:6bc0::/48
-# > OpenArt
-DOMAIN-SUFFIX,openart.ai
-# Google
-# > Gemini
+# Google AI
 DOMAIN,ai.google.dev
-DOMAIN,bard.google.com
-DOMAIN,gemini.google.com
-DOMAIN,generativelanguage.googleapis.com
-# > AI Studio
-DOMAIN,aistudio.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
-#
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,deepmind.com
-# > Cloudflare
+
+# Cloudflare AI
 DOMAIN,gateway.ai.cloudflare.com
-# > Clipdrop
+
+# ClipDrop
 DOMAIN-SUFFIX,clipdrop.co
-# JetBrains AI
-DOMAIN-SUFFIX,grazie.ai
-# Microsoft
-# > Copilot
-DOMAIN,copilot.microsoft.com
-DOMAIN,sydney.bing.com
-DOMAIN,www.bing.com
-DOMAIN,api.githubcopilot.com
-DOMAIN,bat.bing.com
-DOMAIN,browser.events.data.microsoft.com
-DOMAIN,config.edge.skype.com
-DOMAIN,content.lifecycle.office.net
-DOMAIN,copilot-proxy.githubusercontent.com
-DOMAIN,edgeservices.bing.com
-DOMAIN,functional.events.data.microsoft.com
-DOMAIN,login.live.com
-DOMAIN,services.bingapis.com
-DOMAIN,storage.live.com
-DOMAIN,strict.bing.com
-DOMAIN,www.bingapis.com
 
-# Bing AI 2024-02-04 21:29:04
-DOMAIN-SUFFIX,bing.com.cn
-DOMAIN-SUFFIX,bing.net
-DOMAIN-SUFFIX,bingagencyawards.com
-DOMAIN-SUFFIX,bingapistatistics.com
-DOMAIN-SUFFIX,bingsandbox.com
-DOMAIN-SUFFIX,bingvisualsearch.com
-DOMAIN-SUFFIX,bingworld.com
+# OpenArt AI
+DOMAIN-SUFFIX,openart.ai
 
-# Meta
-DOMAIN,imagine.meta.com
-DOMAIN-SUFFIX,meta.ai
-# > Jasper
+# Jasper AI
 DOMAIN-SUFFIX,jasper.ai
-# > Dify
+
+# Dify AI
 DOMAIN-SUFFIX,dify.ai
-# > Perplexity AI
+
+# Meta AI
+DOMAIN-SUFFIX,meta.ai
+
+# Claude AI
+DOMAIN-SUFFIX,claude.ai
+
+# Perplexity AI
 DOMAIN-SUFFIX,perplexity.ai
-# > X.ai
+
+# x.ai
 DOMAIN-SUFFIX,x.ai
-# > Poe
+
+# Poe (Quora AI)
 DOMAIN-SUFFIX,poe.com
+
+# Anthropic AI
+DOMAIN-SUFFIX,anthropic.com
+
+# OpenAI
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-KEYWORD,openai
