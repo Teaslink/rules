@@ -17,37 +17,26 @@ DOMAIN-SUFFIX,bard.google.com
 
 # Cloudflare AI
 DOMAIN,gateway.ai.cloudflare.com
-
 # ClipDrop
 DOMAIN-SUFFIX,clipdrop.co
-
 # OpenArt AI
 DOMAIN-SUFFIX,openart.ai
-
 # Jasper AI
 DOMAIN-SUFFIX,jasper.ai
-
 # Dify AI
 DOMAIN-SUFFIX,dify.ai
-
 # Meta AI
 DOMAIN-SUFFIX,meta.ai
-
 # Claude AI
 DOMAIN-SUFFIX,claude.ai
-
 # Perplexity AI
 DOMAIN-SUFFIX,perplexity.ai
-
 # x.ai
 DOMAIN-SUFFIX,x.ai
-
 # Poe (Quora AI)
 DOMAIN-SUFFIX,poe.com
-
 # Anthropic AI
 DOMAIN-SUFFIX,anthropic.com
-
 # OpenAI
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,chatgpt.com
