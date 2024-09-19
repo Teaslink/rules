@@ -1,4 +1,4 @@
-# Boost
+# Boost network
 
 # Keyword
 DOMAIN-KEYWORD,google
@@ -54,11 +54,15 @@ IP-CIDR,173.252.64.0/18,no-resolve
 IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
+IP-CIDR,173.252.64.0/19,no-resolve
+IP-CIDR,173.252.96.0/19,no-resolve
 # > Ins
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,instagram.com
 # > Whatsapp
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
 DOMAIN,graph.facebook.com
 DOMAIN-SUFFIX,bintray.com
 IP-CIDR,158.85.224.160/27,no-resolve
@@ -164,6 +168,16 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,googl.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,google.hk
+DOMAIN-SUFFIX,google.com.hk
+DOMAIN-SUFFIX,google.tw
+DOMAIN-SUFFIX,google.com.tw
+DOMAIN-SUFFIX,google.com.sg
+DOMAIN-SUFFIX,google.jp
+DOMAIN-SUFFIX,google.co.jp
+DOMAIN-SUFFIX,blogspot.com
 # > Google IP Ranges
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
@@ -186,7 +200,21 @@ IP-CIDR,203.208.50.0/24,no-resolve
 IP-CIDR,220.181.174.162/32,no-resolve
 IP-CIDR,220.181.174.226/32,no-resolve
 IP-CIDR,220.181.174.34/32,no-resolve
-
+# Google Gemini
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
+# Google DeepMind
+DOMAIN-SUFFIX,deepmind.google
+# Google Generative Language API
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+# Google AI Studio
+DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,generativeai.google
 # Microsoft
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,bing.com
@@ -228,4 +256,3 @@ DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,storage.msn.com
 #DOMAIN-SUFFIX,aria.microsoft.com
-# 
