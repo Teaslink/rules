@@ -233,16 +233,6 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
-# Google
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,ytimg.com
-# YouTube
-DOMAIN-SUFFIX,youtu.be
-# Facebook
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,oculuscdn.com
-DOMAIN-SUFFIX,oculus.com
 # Twitter
 DOMAIN-SUFFIX,twimg.com
 # Let's Encrypt
@@ -270,6 +260,38 @@ IP-CIDR,119.235.235.0/24,no-resolve
 IP-CIDR,119.235.236.0/23,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
+# Microsoft
+DOMAIN-SUFFIX,hockeyapp.net
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,linkedin.at
+DOMAIN-SUFFIX,lnkd.in
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,azurecontainer.io
+DOMAIN-SUFFIX,azure-mobile.net
+DOMAIN-SUFFIX,cloudapp.net
+DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,streaming.mediaservices.windows.net
+DOMAIN,assets1.xboxlive.com
+DOMAIN,assets2.xboxlive.com
+DOMAIN,az416426.vo.msecnd.net
+DOMAIN,az668014.vo.msecnd.net
+DOMAIN,edge.activity.windows.com
+DOMAIN,edge.microsoft.com
+DOMAIN,iecvlist.microsoft.com
+DOMAIN,msedge.api.cdp.microsoft.com
+DOMAIN-SUFFIX,teams.cdn.live.net
+DOMAIN-SUFFIX,teams.live.com
+DOMAIN-SUFFIX,teams.microsoft.com
+DOMAIN,teams.events.data.microsoft.com
 # OneDrive
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
