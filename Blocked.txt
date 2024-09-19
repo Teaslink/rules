@@ -1,0 +1,95 @@
+# Blocked network
+# Google
+DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,blogspot
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,ytimg.com
+
+# YouTube
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,youtu.be
+
+# Facebook
+DOMAIN-KEYWORD,facebook
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-KEYWORD,whatsapp
+
+# Twitter
+DOMAIN-KEYWORD,twitter
+DOMAIN-SUFFIX,twimg.com
+
+# Instagram
+DOMAIN-KEYWORD,instagram
+
+# Dropbox
+DOMAIN-KEYWORD,dropbox
+
+# Let's Encrypt
+DOMAIN-SUFFIX,letsencrypt.org
+
+# GitHub
+DOMAIN-SUFFIX,githubusercontent.com
+
+# General
+DOMAIN-SUFFIX,tw
+
+# > 1password
+DOMAIN-KEYWORD,1password
+DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-SUFFIX,1password.ca
+DOMAIN-SUFFIX,1password.eu
+DOMAIN-SUFFIX,1password.com
+
+# > Things3
+DOMAIN-SUFFIX,culturedcode.com
+
+# > Notion
+DOMAIN,http-inputs-notion.splunkcloud.com
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
+# > Reddit
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+# > Spark
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,readdle.com
+DOMAIN-SUFFIX,smartmailcloud.com
+# > Vercel
+DOMAIN-SUFFIX,turbo.build
+DOMAIN-SUFFIX,vercel-analytics.com
+DOMAIN-SUFFIX,vercel-insights.com
+DOMAIN-SUFFIX,vercel-status.com
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,vercel.com
+# > Wikimedia Foundation
+DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikidata.org
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikimediafoundation.org
+DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiversity.org
+DOMAIN-SUFFIX,wikivoyage.org
+DOMAIN-SUFFIX,wiktionary.org
+# > Line
+DOMAIN-SUFFIX,lin.ee
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line.naver.jp
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,nhncorp.jp
