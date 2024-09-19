@@ -16,7 +16,11 @@ DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,blogspot
-
+# Google
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ytimg.com
+# >YouTube
+DOMAIN-SUFFIX,youtu.be
 # Meta
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,fb.watch
@@ -37,7 +41,6 @@ DOMAIN-SUFFIX,facebook-hardware.com
 DOMAIN-SUFFIX,oculus.com
 IP-CIDR,173.252.64.0/19,no-resolve
 IP-CIDR,173.252.96.0/19,no-resolve
-
 # >Facebook
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fb.com
@@ -58,13 +61,11 @@ IP-CIDR,173.252.64.0/18,no-resolve
 IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
-
 # >Instagram
 DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,instagram.com
-
 # > Whatsapp
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
@@ -97,35 +98,3 @@ DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
-# Microsoft
-DOMAIN-SUFFIX,hockeyapp.net
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,linkedin.at
-DOMAIN-SUFFIX,lnkd.in
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,windows.net
-DOMAIN-SUFFIX,azurecontainer.io
-DOMAIN-SUFFIX,azure-mobile.net
-DOMAIN-SUFFIX,cloudapp.net
-DOMAIN-SUFFIX,aka.ms
-DOMAIN-SUFFIX,git.io
-DOMAIN-SUFFIX,github.blog
-DOMAIN-SUFFIX,githubstatus.com
-DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,streaming.mediaservices.windows.net
-DOMAIN,assets1.xboxlive.com
-DOMAIN,assets2.xboxlive.com
-DOMAIN,az416426.vo.msecnd.net
-DOMAIN,az668014.vo.msecnd.net
-DOMAIN,edge.activity.windows.com
-DOMAIN,edge.microsoft.com
-DOMAIN,iecvlist.microsoft.com
-DOMAIN,msedge.api.cdp.microsoft.com
-DOMAIN-SUFFIX,teams.cdn.live.net
-DOMAIN-SUFFIX,teams.live.com
-DOMAIN-SUFFIX,teams.microsoft.com
-DOMAIN,teams.events.data.microsoft.com
