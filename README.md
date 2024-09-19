@@ -1,6 +1,6 @@
 # Rules
 Rules for surge
 
-CN Global = Basic rules
+Direct Blocked = Basic rules
 
-CN+ Global+ = Special rules
+Direct+ Blocked+ = Special rules
