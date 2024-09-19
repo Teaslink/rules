@@ -7,7 +7,6 @@ DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,twitter
-DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,.facebook.
 DOMAIN-KEYWORD,oculus
 DOMAIN-KEYWORD,fbcdn
@@ -53,7 +52,8 @@ IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
 IP-CIDR,173.252.64.0/19,no-resolve
 IP-CIDR,173.252.96.0/19,no-resolve
-# > Ins
+# >Instagram
+DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,instagram.com
@@ -89,7 +89,6 @@ DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
-
 # Microsoft
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,bing.com
