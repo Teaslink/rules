@@ -17,8 +17,6 @@ DOMAIN-KEYWORD,blogspot
 
 # Meta
 DOMAIN-SUFFIX,threads.net
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fbaddins.com
 DOMAIN-SUFFIX,fbsbx.com
@@ -34,8 +32,16 @@ DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,fbmessenger.com
 DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,facebook-hardware.com
-DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,oculus.com
+IP-CIDR,173.252.64.0/19,no-resolve
+IP-CIDR,173.252.96.0/19,no-resolve
+
+# >Facebook
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.com
+DOMAIN-SUFFIX,fbcdn.net
 IP-CIDR,31.13.24.0/21,no-resolve
 IP-CIDR,31.13.64.0/18,no-resolve
 IP-CIDR,45.64.40.0/22,no-resolve
@@ -50,13 +56,13 @@ IP-CIDR,173.252.64.0/18,no-resolve
 IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
-IP-CIDR,173.252.64.0/19,no-resolve
-IP-CIDR,173.252.96.0/19,no-resolve
+
 # >Instagram
 DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,instagram.com
+
 # > Whatsapp
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
