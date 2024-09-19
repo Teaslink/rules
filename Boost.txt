@@ -1,5 +1,7 @@
 # Boost network
 
+# mylist
+DOMAIN-SUFFIX,squarespace.com
 # Keyword
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
