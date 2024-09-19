@@ -1,54 +1,15 @@
 # Blocked network
-# Google
-DOMAIN-KEYWORD,google
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,ampproject.org
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,blogspot
-DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,ytimg.com
 
-# YouTube
-DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,youtu.be
-
-# Facebook
-DOMAIN-KEYWORD,facebook
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,oculuscdn.com
-DOMAIN-SUFFIX,oculus.com
-DOMAIN-KEYWORD,whatsapp
-
-# Twitter
-DOMAIN-KEYWORD,twitter
-DOMAIN-SUFFIX,twimg.com
-
-# Instagram
-DOMAIN-KEYWORD,instagram
-
-# Dropbox
-DOMAIN-KEYWORD,dropbox
-
-# Let's Encrypt
-DOMAIN-SUFFIX,letsencrypt.org
-
-# GitHub
-DOMAIN-SUFFIX,githubusercontent.com
-
-# General
-DOMAIN-SUFFIX,tw
-
+# MyList && Other
+DOMAIN-SUFFIX,linkedin.com
 # > 1password
 DOMAIN-KEYWORD,1password
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,1password.ca
 DOMAIN-SUFFIX,1password.eu
 DOMAIN-SUFFIX,1password.com
-
 # > Things3
 DOMAIN-SUFFIX,culturedcode.com
-
 # > Notion
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN-SUFFIX,notion-static.com
@@ -57,6 +18,7 @@ DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
 # > Reddit
+DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
@@ -64,6 +26,215 @@ DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,readdle.com
 DOMAIN-SUFFIX,smartmailcloud.com
+# Domains
+DOMAIN-SUFFIX,eu
+DOMAIN-SUFFIX,hk
+DOMAIN-SUFFIX,jp
+DOMAIN-SUFFIX,kr
+DOMAIN-SUFFIX,sg
+DOMAIN-SUFFIX,tw
+DOMAIN-SUFFIX,uk
+DOMAIN-SUFFIX,us
+# Keyword
+DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,abema
+DOMAIN-KEYWORD,appledaily
+DOMAIN-KEYWORD,avtb
+DOMAIN-KEYWORD,beetalk
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,sci-hub
+DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,telegram
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,youtube
+# Top Blocked Sites
+DOMAIN-SUFFIX,4sqi.net
+DOMAIN-SUFFIX,a248.e.akamai.net
+DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,aolcdn.com
+DOMAIN-SUFFIX,apkmirror.com
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,armorgames.com
+DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,bandwagonhost.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bkrtx.com
+DOMAIN-SUFFIX,blogcdn.com
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,blogsmithmedia.com
+DOMAIN-SUFFIX,blogspot.com
+DOMAIN-SUFFIX,blogspot.hk
+DOMAIN-SUFFIX,blogspot.jp
+DOMAIN-SUFFIX,bloomberg.cn
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,box.com
+DOMAIN-SUFFIX,cachefly.net
+DOMAIN-SUFFIX,cdnst.net
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,comodoca.com
+DOMAIN-SUFFIX,daum.net
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,deskconnect.com
+DOMAIN-SUFFIX,disqus.com
+DOMAIN-SUFFIX,disquscdn.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxstatic.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,edgecastcdn.net
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,eurekavpt.com
+DOMAIN-SUFFIX,fastmail.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,flipboard.com
+DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,gongm.in
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,id.heroku.com
+DOMAIN-SUFFIX,io.io
+DOMAIN-SUFFIX,issuu.com
+DOMAIN-SUFFIX,ixquick.com
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,kat.cr
+DOMAIN-SUFFIX,kik.com
+DOMAIN-SUFFIX,kobo.com
+DOMAIN-SUFFIX,kobobooks.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,macrumors.com
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,megaupload.com
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,netdna-cdn.com
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nsstatic.net
+DOMAIN-SUFFIX,nytstyle.com
+DOMAIN-SUFFIX,overcast.fm
+DOMAIN-SUFFIX,openvpn.net
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,pinterest.com
+DOMAIN-SUFFIX,potato.im
+DOMAIN-SUFFIX,prfct.co
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,resilio.com
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,shadowsocks.org
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,smartdnsproxy.com
+DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,startpage.com
+DOMAIN-SUFFIX,staticflickr.com
+DOMAIN-SUFFIX,symauth.com
+DOMAIN-SUFFIX,symcb.com
+DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,textnow.com
+DOMAIN-SUFFIX,textnow.me
+DOMAIN-SUFFIX,thefacebook.com
+DOMAIN-SUFFIX,thepiratebay.org
+DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,trustasiassl.com
+DOMAIN-SUFFIX,tumblr.co
+DOMAIN-SUFFIX,tumblr.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,txmblr.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,vox-cdn.com
+# Amazon
+DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,amazonaws.com
+IP-CIDR,13.32.0.0/15,no-resolve
+IP-CIDR,13.35.0.0/17,no-resolve
+IP-CIDR,18.184.0.0/15,no-resolve
+IP-CIDR,18.194.0.0/15,no-resolve
+IP-CIDR,18.208.0.0/13,no-resolve
+IP-CIDR,18.232.0.0/14,no-resolve
+IP-CIDR,52.58.0.0/15,no-resolve
+IP-CIDR,52.74.0.0/16,no-resolve
+IP-CIDR,52.77.0.0/16,no-resolve
+IP-CIDR,52.84.0.0/15,no-resolve
+IP-CIDR,52.200.0.0/13,no-resolve
+IP-CIDR,54.93.0.0/16,no-resolve
+IP-CIDR,54.156.0.0/14,no-resolve
+IP-CIDR,54.226.0.0/15,no-resolve
+IP-CIDR,54.230.156.0/22,no-resolve
+# BBC
+DOMAIN-KEYWORD,uk-live
+DOMAIN-SUFFIX,bbc.co
+DOMAIN-SUFFIX,bbc.com
+# Developer 开发者常用国外网站、镜像和论坛
+DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,elastic.co
+DOMAIN-SUFFIX,elastic.com
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,jitpack.io
+DOMAIN-SUFFIX,maven.org
+DOMAIN-SUFFIX,mvnrepository.com
+DOMAIN-SUFFIX,quay.io
+DOMAIN-SUFFIX,redhat.com
+DOMAIN-SUFFIX,sonatype.org
+DOMAIN-SUFFIX,sourcegraph.com
+DOMAIN-SUFFIX,spring.io
+DOMAIN-SUFFIX,spring.net
+DOMAIN-SUFFIX,stackoverflow.com
+# Discord
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+# Github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+# Google
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ytimg.com
+# YouTube
+DOMAIN-SUFFIX,youtu.be
+# Facebook
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,oculus.com
+# Twitter
+DOMAIN-SUFFIX,twimg.com
+# Let's Encrypt
+DOMAIN-SUFFIX,letsencrypt.org
 # > Vercel
 DOMAIN-SUFFIX,turbo.build
 DOMAIN-SUFFIX,vercel-analytics.com
@@ -71,6 +242,62 @@ DOMAIN-SUFFIX,vercel-insights.com
 DOMAIN-SUFFIX,vercel-status.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vercel.com
+# > Line
+DOMAIN-SUFFIX,lin.ee
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line.naver.jp
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,nhncorp.jp
+IP-CIDR,103.2.28.0/24,no-resolve
+IP-CIDR,103.2.30.0/23,no-resolve
+IP-CIDR,119.235.224.0/24,no-resolve
+IP-CIDR,119.235.232.0/24,no-resolve
+IP-CIDR,119.235.235.0/24,no-resolve
+IP-CIDR,119.235.236.0/23,no-resolve
+IP-CIDR,147.92.128.0/17,no-resolve
+IP-CIDR,203.104.128.0/19,no-resolve
+# OneDrive
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,skydrive
+DOMAIN-SUFFIX,oneclient.sfx.ms
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,photos.live.com
+DOMAIN-SUFFIX,skydrive.wns.windows.com
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+#DOMAIN-SUFFIX,aria.microsoft.com
+# Porn
+DOMAIN-SUFFIX,8teenxxx.com
+DOMAIN-SUFFIX,ahcdn.com
+DOMAIN-SUFFIX,bcvcdn.com
+DOMAIN-SUFFIX,bongacams.com
+DOMAIN-SUFFIX,chaturbate.com
+DOMAIN-SUFFIX,dditscdn.com
+DOMAIN-SUFFIX,livejasmin.com
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
+DOMAIN-SUFFIX,rdtcdn.com
+DOMAIN-SUFFIX,redtube.com
+DOMAIN-SUFFIX,sb-cd.com
+DOMAIN-SUFFIX,spankbang.com
+DOMAIN-SUFFIX,t66y.com
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN-SUFFIX,xnxx-cdn.com
+DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,ypncdn.com
+# Twitch
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-KEYWORD,ttvnw
 # > Wikimedia Foundation
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,wikibooks.org
@@ -85,11 +312,3 @@ DOMAIN-SUFFIX,wikisource.org
 DOMAIN-SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
-# > Line
-DOMAIN-SUFFIX,lin.ee
-DOMAIN-SUFFIX,line.me
-DOMAIN-SUFFIX,line.naver.jp
-DOMAIN-SUFFIX,line-apps.com
-DOMAIN-SUFFIX,line-cdn.net
-DOMAIN-SUFFIX,line-scdn.net
-DOMAIN-SUFFIX,nhncorp.jp
