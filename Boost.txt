@@ -7,12 +7,10 @@ DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,facebook
-DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,.facebook.
 DOMAIN-KEYWORD,oculus
 DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,blogspot
@@ -66,7 +64,22 @@ DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,instagram.com
-# > Whatsapp
+# Cloudflare
+DOMAIN-KEYWORD,cloudflare
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflareresolve.com
+DOMAIN-SUFFIX,cloudflarestatus.com
+DOMAIN-SUFFIX,cloudflareaccess.com
+DOMAIN-SUFFIX,cf-ipfs.com
+DOMAIN-SUFFIX,every1dns.net
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,videodelivery.net
+DOMAIN-SUFFIX,warp.plus
+DOMAIN-SUFFIX,workers.dev
+# Chat
+# >Whatsapp
+DOMAIN-KEYWORD,whatsapp
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN,graph.facebook.com
@@ -86,15 +99,50 @@ IP-CIDR,108.168.174.0/16,no-resolve
 IP-CIDR,174.37.243.0/16,no-resolve
 IP-CIDR,75.126.150.0/16,no-resolve
 IP-CIDR,69.171.235.0/16,no-resolve
-# Cloudflare
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflareresolve.com
-DOMAIN-SUFFIX,cloudflarestatus.com
-DOMAIN-SUFFIX,cloudflareaccess.com
-DOMAIN-SUFFIX,cf-ipfs.com
-DOMAIN-SUFFIX,every1dns.net
-DOMAIN-SUFFIX,pages.dev
-DOMAIN-SUFFIX,videodelivery.net
-DOMAIN-SUFFIX,warp.plus
-DOMAIN-SUFFIX,workers.dev
+# >LinkedIn
+DOMAIN,e122475.dscg.akamaiedge.net
+DOMAIN,licdn.cn.cdn20.com
+DOMAIN,linkedin.sc.omtrdc.net
+DOMAIN-SUFFIX,bizographics.com
+DOMAIN-SUFFIX,l-0005.dc-msedge.net
+DOMAIN-SUFFIX,l-0005.l-msedge.net
+DOMAIN-SUFFIX,licdn.cn
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,linkedin.at
+DOMAIN-SUFFIX,linkedin.cn
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,lnkd.in
+# >PotatoChat
+IP-CIDR,13.251.24.0/24,no-resolve
+IP-CIDR,13.251.41.0/24,no-resolve
+IP-CIDR,17.252.156.0/23,no-resolve
+# >Line
+DOMAIN-SUFFIX,lin.ee
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,linecorp.com
+DOMAIN-SUFFIX,naver.jp
+DOMAIN-SUFFIX,nhncorp.jp
+DOMAIN-SUFFIX,line.naver.jp
+IP-CIDR,103.2.28.0/22,no-resolve
+IP-CIDR,119.235.224.0/21,no-resolve
+IP-CIDR,119.235.232.0/23,no-resolve
+IP-CIDR,119.235.235.0/24,no-resolve
+IP-CIDR,119.235.236.0/23,no-resolve
+IP-CIDR,125.209.208.0/20,no-resolve
+IP-CIDR,125.209.252.103/32,no-resolve
+IP-CIDR,125.209.252.208/32,no-resolve
+IP-CIDR,125.6.146.0/24,no-resolve
+IP-CIDR,125.6.149.0/24,no-resolve
+IP-CIDR,125.6.190.0/24,no-resolve
+IP-CIDR,147.92.128.0/17,no-resolve
+IP-CIDR,203.104.103.0/24,no-resolve
+IP-CIDR,203.104.128.0/19,no-resolve
+IP-CIDR,203.174.66.64/26,no-resolve
+IP-CIDR,203.174.77.0/24,no-resolve
+IP-CIDR,103.2.28.0/24,no-resolve
+IP-CIDR,103.2.30.0/23,no-resolve
+IP-CIDR,119.235.224.0/24,no-resolve
+IP-CIDR,119.235.232.0/24,no-resolve
