@@ -3,25 +3,11 @@
 # mylist
 DOMAIN-SUFFIX,squarespace.com
 # > 1password
-#DOMAIN-KEYWORD,1password
-#DOMAIN-SUFFIX,1passwordservices.com
-#DOMAIN-SUFFIX,1password.ca
-#DOMAIN-SUFFIX,1password.eu
-#DOMAIN-SUFFIX,1password.com
-# > Things3
-DOMAIN-SUFFIX,culturedcode.com
-# > Notion
-DOMAIN,http-inputs-notion.splunkcloud.com
-DOMAIN-SUFFIX,notion-static.com
-DOMAIN-SUFFIX,notion.com
-DOMAIN-SUFFIX,notion.new
-DOMAIN-SUFFIX,notion.site
-DOMAIN-SUFFIX,notion.so
-# > Reddit
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,redd.it
-DOMAIN-SUFFIX,redditmedia.com
-DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-KEYWORD,1password
+DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-SUFFIX,1password.ca
+DOMAIN-SUFFIX,1password.eu
+DOMAIN-SUFFIX,1password.com
 # > Spark
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,readdle.com
@@ -85,11 +71,6 @@ IP-CIDR,173.252.64.0/18,no-resolve
 IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
-# >Instagram
-DOMAIN-KEYWORD,instagram
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,instagr.am
-DOMAIN-SUFFIX,instagram.com
 # Cloudflare
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,cloudflare-dns.com
