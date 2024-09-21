@@ -1,6 +1,11 @@
 # Boost network
-
-# mylist
+# Keyword
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,gstatic
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,stripe
+# 
 DOMAIN-SUFFIX,squarespace.com
 # > 1password
 DOMAIN-KEYWORD,1password
@@ -12,15 +17,8 @@ DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,readdle.com
 DOMAIN-SUFFIX,smartmailcloud.com
-# Keyword
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,gstatic
-DOMAIN-KEYWORD,blogspot
-DOMAIN-KEYWORD,stripe
 # Google
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,ytimg.com
 # Cloudflare
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,cloudflare-dns.com
