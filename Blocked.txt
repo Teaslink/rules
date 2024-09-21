@@ -39,7 +39,10 @@ DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,jav
 DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,telegram
 # Amazon
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
