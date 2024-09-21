@@ -29,7 +29,6 @@ DOMAIN-SUFFIX,smartmailcloud.com
 # Keyword
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,.facebook.
@@ -46,15 +45,6 @@ DOMAIN-KEYWORD,discord
 # Google
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ytimg.com
-# >YouTube
-DOMAIN-SUFFIX,youtu.be
-# Mircosoft
-# Github
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubapp.com
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubusercontent.com
 # Meta
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,fb.watch
