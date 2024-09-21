@@ -1,6 +1,31 @@
 # Boost network
 
 # mylist
+DOMAIN-SUFFIX,squarespace.com
+# > 1password
+DOMAIN-KEYWORD,1password
+DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-SUFFIX,1password.ca
+DOMAIN-SUFFIX,1password.eu
+DOMAIN-SUFFIX,1password.com
+# > Things3
+DOMAIN-SUFFIX,culturedcode.com
+# > Notion
+DOMAIN,http-inputs-notion.splunkcloud.com
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
+# > Reddit
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+# > Spark
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,readdle.com
+DOMAIN-SUFFIX,smartmailcloud.com
 # Keyword
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
@@ -13,11 +38,23 @@ DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,telegram
+DOMAIN-KEYWORD,discord
 # Google
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ytimg.com
 # >YouTube
 DOMAIN-SUFFIX,youtu.be
+# Mircosoft
+# Github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
 # Meta
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,fb.watch
@@ -141,6 +178,13 @@ IP-CIDR,203.104.103.0/24,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
 IP-CIDR,203.174.66.64/26,no-resolve
 IP-CIDR,203.174.77.0/24,no-resolve
+# > Vercel
+DOMAIN-SUFFIX,turbo.build
+DOMAIN-SUFFIX,vercel-analytics.com
+DOMAIN-SUFFIX,vercel-insights.com
+DOMAIN-SUFFIX,vercel-status.com
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,vercel.com
 IP-CIDR,103.2.28.0/24,no-resolve
 IP-CIDR,103.2.30.0/23,no-resolve
 IP-CIDR,119.235.224.0/24,no-resolve
