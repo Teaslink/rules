@@ -1,5 +1,6 @@
 # Blocked network
-#Mylists
+# YouTube
+DOMAIN-SUFFIX,ytimg.com
 # > Things3
 DOMAIN-SUFFIX,culturedcode.com
 # > Notion
