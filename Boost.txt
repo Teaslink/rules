@@ -3,11 +3,11 @@
 # mylist
 DOMAIN-SUFFIX,squarespace.com
 # > 1password
-DOMAIN-KEYWORD,1password
-DOMAIN-SUFFIX,1passwordservices.com
-DOMAIN-SUFFIX,1password.ca
-DOMAIN-SUFFIX,1password.eu
-DOMAIN-SUFFIX,1password.com
+#DOMAIN-KEYWORD,1password
+#DOMAIN-SUFFIX,1passwordservices.com
+#DOMAIN-SUFFIX,1password.ca
+#DOMAIN-SUFFIX,1password.eu
+#DOMAIN-SUFFIX,1password.com
 # > Things3
 DOMAIN-SUFFIX,culturedcode.com
 # > Notion
