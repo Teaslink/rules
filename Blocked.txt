@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,dropbox
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-KEYWORD,blogspot
 DOMAIN-SUFFIX,youtu.be
@@ -36,6 +35,25 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
+# Dropbox
+DOMAIN-KEYWORD,dropbox
+DOMAIN-SUFFIX,db.tt
+DOMAIN-SUFFIX,dropbox-dns.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropbox.tech
+DOMAIN-SUFFIX,dropbox.zendesk.com
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxbusiness.com
+DOMAIN-SUFFIX,dropboxcaptcha.com
+DOMAIN-SUFFIX,dropboxforum.com
+DOMAIN-SUFFIX,dropboxforums.com
+DOMAIN-SUFFIX,dropboxinsiders.com
+DOMAIN-SUFFIX,dropboxmail.com
+DOMAIN-SUFFIX,dropboxpartners.com
+DOMAIN-SUFFIX,dropboxstatic.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,getdropbox.com
+DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com
 # Meta
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,fb.watch
@@ -705,13 +723,6 @@ DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,elasticbeanstalk.com
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,dynu.com
-DOMAIN-SUFFIX,getdropbox.com
-DOMAIN-SUFFIX,dropboxmail.com
-DOMAIN-SUFFIX,dropboxinsiders.com
-DOMAIN-SUFFIX,dropboxforums.com
-DOMAIN-SUFFIX,dropboxforum.com
-DOMAIN-SUFFIX,dropboxcaptcha.com
-DOMAIN-SUFFIX,dropbox-dns.com
 DOMAIN-SUFFIX,dribbble.com
 DOMAIN-SUFFIX,downdetector.com
 DOMAIN-SUFFIX,doujins.com
@@ -1082,10 +1093,6 @@ DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,deskconnect.com
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
-DOMAIN-SUFFIX,dropbox.com
-DOMAIN-SUFFIX,dropboxapi.com
-DOMAIN-SUFFIX,dropboxstatic.com
-DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,edgekey.net
