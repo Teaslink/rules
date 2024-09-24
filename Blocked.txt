@@ -264,6 +264,25 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubstatus.com
+# >> Cloudflare
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflareresolve.com
+DOMAIN-SUFFIX,cloudflarestatus.com
+DOMAIN-SUFFIX,cloudflareaccess.com
+# >> Microsoft Overseas
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,windows.net
+# >> Microsoft Azure
+DOMAIN-SUFFIX,azurecontainer.io
+DOMAIN-SUFFIX,azure-mobile.net
+DOMAIN-SUFFIX,cloudapp.net
+# >> ---------
+DOMAIN-SUFFIX,forbes.com
+DOMAIN-SUFFIX,mikrotik.com
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,recombee.com
 # Porn
 DOMAIN-SUFFIX,8teenxxx.com
 DOMAIN-SUFFIX,ahcdn.com
@@ -1176,3 +1195,4 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,vox-cdn.com
+###
