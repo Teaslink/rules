@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitch-ext.rootonline.de
+
 # (Music)
 # > Deezer
 DOMAIN-SUFFIX,deezer.com
@@ -23,6 +24,7 @@ DOMAIN-SUFFIX,kfs.io
 DOMAIN-SUFFIX,pandora.com
 DOMAIN-SUFFIX,p-cdn.us
 # > SoundCloud
+DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
 # > Spotify
@@ -35,11 +37,13 @@ DOMAIN-KEYWORD,-spotify-com
 # > TIDAL
 DOMAIN-SUFFIX,tidal.com
 # > YouTubeMusic
+
 # (Podcast)
 # > Himalaya
 DOMAIN-SUFFIX,himalaya.com
 # > Overcast
 DOMAIN-SUFFIX,overcast.fm
+
 # (Video)
 # > AbemaTV
 DOMAIN-SUFFIX,abema.io
@@ -64,6 +68,7 @@ DOMAIN,atv-ps.amazon.com
 DOMAIN,fls-na.amazon.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
 DOMAIN,d25xi40x97liuc.cloudfront.net
+DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
@@ -211,7 +216,6 @@ DOMAIN,d349g9zuie06uo.cloudfront.net
 # > myTV SUPER
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
-USER-AGENT,mytv*
 # > Naver TV
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,smartmediarep.com
@@ -270,6 +274,7 @@ DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-KEYWORD,tiktokcdn-
 # > TVer
 DOMAIN-SUFFIX,tver.jp
+DOMAIN,edge.api.brightcove.com
 # > ViuTV
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.tv
@@ -294,8 +299,32 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
-# Prime Video
-USER-AGENT,Prime%20Video*
-USER-AGENT,InstantVideo.US*
-USER-AGENT,ViuTV*
-DOMAIN-SUFFIX,llnwd.net
+# News
+
+# > Bloomberg
+DOMAIN-SUFFIX,bloomberg.co.kr
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,bloomberg.com.br
+DOMAIN-SUFFIX,bloomberg.fm
+DOMAIN-SUFFIX,bloomberg.tv
+DOMAIN-SUFFIX,bloombergapps.com
+DOMAIN-SUFFIX,bloombergarcade.com
+DOMAIN-SUFFIX,bloombergbeta.com
+DOMAIN-SUFFIX,blpprofessional.com
+DOMAIN-SUFFIX,bmia.org
+DOMAIN-SUFFIX,bnef.com
+DOMAIN-SUFFIX,businessweek.com
+DOMAIN-SUFFIX,businessweekmag.com
+DOMAIN-SUFFIX,bwbx.io
+DOMAIN-SUFFIX,citylab.com
+DOMAIN-SUFFIX,gotraffic.net
+DOMAIN-SUFFIX,londonmithraeum.com
+DOMAIN-SUFFIX,neweconomyforum.com
+DOMAIN-SUFFIX,newenergyfinance.com
+DOMAIN-SUFFIX,quicktake.video
+DOMAIN-SUFFIX,techatbloomberg.com
+DOMAIN-SUFFIX,tictoc.video
+DOMAIN-SUFFIX,bloomberg.de
+DOMAIN-SUFFIX,bloombergview.com
+DOMAIN-SUFFIX,bloomberg.net
+DOMAIN-SUFFIX,bloomberg.cn
