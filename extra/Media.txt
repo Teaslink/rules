@@ -551,4 +551,15 @@ DOMAIN-SUFFIX,cnn.it
 DOMAIN-SUFFIX,cnnarabic.com
 DOMAIN-SUFFIX,cnnlabs.com
 DOMAIN-SUFFIX,cnnmoney.ch
-# > 
+# > NAME: AOL
+DOMAIN-SUFFIX,aol.ca
+DOMAIN-SUFFIX,aol.co.uk
+DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,aolnews.com
+# > FoxNow
+USER-AGENT,FOX%20NOW*
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,uplynk.com
+# >
+DOMAIN-SUFFIX,newyorktimes.com
