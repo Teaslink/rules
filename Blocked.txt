@@ -345,9 +345,6 @@ DOMAIN-KEYWORD,.blogspot.
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,videopress.com
 DOMAIN-SUFFIX,wordpress.com
-# > Bloomberg
-DOMAIN-SUFFIX,bloomberg.de
-DOMAIN-SUFFIX,bloombergview.com
 # > Cloudflare
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,workers.dev
@@ -643,7 +640,6 @@ DOMAIN-SUFFIX,eroterest.net
 DOMAIN-SUFFIX,dynu.net
 DOMAIN-SUFFIX,dns-oarc.net
 DOMAIN-SUFFIX,bwh1.net
-DOMAIN-SUFFIX,bloomberg.net
 DOMAIN-SUFFIX,atlassian.net
 DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,akamaihd.net
@@ -1116,8 +1112,6 @@ DOMAIN-SUFFIX,blogsmithmedia.com
 DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,blogspot.hk
 DOMAIN-SUFFIX,blogspot.jp
-DOMAIN-SUFFIX,bloomberg.cn
-DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,cdnst.net
