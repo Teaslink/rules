@@ -1,4 +1,5 @@
 # NAME: Google
+DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,blogspot
