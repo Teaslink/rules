@@ -1,11 +1,7 @@
 # Boost network
 # Keyword
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,gstatic
-DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,stripe
-# 
+# Domain
 DOMAIN-SUFFIX,squarespace.com
 # > 1password
 DOMAIN-KEYWORD,1password
@@ -17,8 +13,6 @@ DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,readdle.com
 DOMAIN-SUFFIX,smartmailcloud.com
-# Google
-DOMAIN-SUFFIX,gstatic.com
 # Cloudflare
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,cloudflare-dns.com
@@ -50,15 +44,6 @@ DOMAIN-KEYWORD,openaicom
 # > Claude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
-# Google
-# > Gemini
-DOMAIN,ai.google.dev
-DOMAIN,bard.google.com
-DOMAIN,gemini.google.com
-DOMAIN,generativelanguage.googleapis.com
-# > AI Studio
-DOMAIN,aistudio.google.com
-DOMAIN,alkalimakersuite-pa.clients6.google.com
 # JetBrains AI
 DOMAIN-SUFFIX,grazie.ai
 # Microsoft
