@@ -1,6 +1,5 @@
 # Boost network
-# mylist
-DOMAIN-SUFFIX,tagss04.pro
+
 # Keyword
 DOMAIN-KEYWORD,stripe
 # Domain
