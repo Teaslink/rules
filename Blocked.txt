@@ -223,7 +223,7 @@ DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,huobi
 DOMAIN-KEYWORD,metamask
 DOMAIN-KEYWORD,okx
-# NAME: Cryptocurrency
+# >Cryptocurrency
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.com
@@ -232,7 +232,7 @@ DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,huobi.com
 DOMAIN-SUFFIX,okx.com
-#connershua
+# > connershua
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,crypto.com
 DOMAIN-SUFFIX,probit.com
@@ -247,3 +247,25 @@ DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 # > OKX
 DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+# Wikimedia Foundation
+DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikidata.org
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikimediafoundation.org
+DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiversity.org
+DOMAIN-SUFFIX,wikivoyage.org
+DOMAIN-SUFFIX,wiktionary.org
+# Yahoo
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,yimg.com
+DOMAIN,search.yahoo.co.jp
+# Yandex
+DOMAIN-SUFFIX,yadi.sk
+DOMAIN-SUFFIX,yandex.ru
+DOMAIN,disk.yandex.com
