@@ -1,6 +1,3 @@
-# Linkedin
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,licdn.com
 # Microsoft General Services
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,microsoft.com
@@ -21,6 +18,15 @@ DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,phonefactor.net
 DOMAIN-SUFFIX,public-trust.com
 DOMAIN-SUFFIX,uservoice.com
+# Linkedin
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
+# OneDrive
+PROCESS-NAME,OneDrive
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN,oneclient.sfx.ms
 # Microsoft 365 and Office
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,office.com
@@ -29,7 +35,6 @@ DOMAIN-SUFFIX,oaspapps.com
 DOMAIN-SUFFIX,o365weve.com
 DOMAIN-SUFFIX,officeppe.net
 DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,onedrive.com
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,1drv
 DOMAIN-SUFFIX,1drv.ms
@@ -63,11 +68,12 @@ DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skypeassets.com
 DOMAIN-SUFFIX,skypeforbusiness.com
 DOMAIN-SUFFIX,sfbassets.com
-# Team
-DOMAIN-SUFFIX,teams.live.com
+# Microsoft Teams
 DOMAIN-SUFFIX,teams.cdn.live.net
+DOMAIN-SUFFIX,teams.live.com
 DOMAIN-SUFFIX,teams.microsoft.com
 DOMAIN,teams.events.data.microsoft.com
+# DOMAIN,statics.teams.cdn.office.net
 # Bing
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
@@ -118,7 +124,6 @@ DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,acompli.net
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net
-DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,storage.msn.com
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
