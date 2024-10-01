@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,bard.google.com
-
 # Cloudflare AI
 DOMAIN,gateway.ai.cloudflare.com
 # ClipDrop
@@ -25,8 +24,6 @@ DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,jasper.ai
 # Dify AI
 DOMAIN-SUFFIX,dify.ai
-# Meta AI
-DOMAIN-SUFFIX,meta.ai
 # Claude AI
 DOMAIN-SUFFIX,claude.ai
 # Perplexity AI
@@ -44,3 +41,26 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-KEYWORD,openai
+# > ChatGPT
+DOMAIN,api.statsig.com
+DOMAIN,api-iam.intercom.io
+DOMAIN,chatgpt.livekit.cloud
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,sfo3.turn.livekit.cloud
+DOMAIN-KEYWORD,openaicom
+# > Gemini
+DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN,generativelanguage.googleapis.com
+# > AI Studio
+DOMAIN,aistudio.google.com
+# JetBrains AI
+DOMAIN-SUFFIX,grazie.ai
+# > Copilot
+DOMAIN,copilot.microsoft.com
+DOMAIN,sydney.bing.com
+DOMAIN,www.bing.com
+# Meta AI
+DOMAIN-SUFFIX,meta.ai
+DOMAIN,imagine.meta.com
