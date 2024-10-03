@@ -1,190 +1,3 @@
-# >> Proxy
-PROCESS-NAME,v2ray
-PROCESS-NAME,xray
-PROCESS-NAME,ss-local
-PROCESS-NAME,clash
-PROCESS-NAME,ClashX
-PROCESS-NAME,trojan
-PROCESS-NAME,trojan-go
-PROCESS-NAME,privoxy
-# >> Cloudflare Tunnel
-PROCESS-NAME,cloudflared
-# >> Downloader
-PROCESS-NAME,aria2c
-PROCESS-NAME,fdm
-PROCESS-NAME,Folx
-PROCESS-NAME,NetTransport
-PROCESS-NAME,Thunder
-PROCESS-NAME,ThunderVIP
-PROCESS-NAME,Transmission
-PROCESS-NAME,transmission-daemon
-PROCESS-NAME,transmission-qt
-PROCESS-NAME,BitComet
-PROCESS-NAME,uTorrent
-PROCESS-NAME,qbittorrent*
-PROCESS-NAME,DownloadService
-PROCESS-NAME,qBittorrent
-PROCESS-NAME,qbittorrent-nox
-PROCESS-NAME,WebTorrent
-PROCESS-NAME,WebTorrent Helper
-PROCESS-NAME,amuled
-# >> LocalSend
-PROCESS-NAME,LocalSend
-# > UUBooster
-PROCESS-NAME,UUBooster
-# > Xunlei
-USER-AGENT,%E8%BF%85%E9%9B%B7
-DOMAIN-SUFFIX,xunlei.com
-# tailscale
-PROCESS-NAME,tailscaled
-# Parsec
-PROCESS-NAME,parsecd
-# 向日葵远程
-PROCESS-NAME,SunloginClient_Desktop
-PROCESS-NAME,SunloginClient_Helper
-# 百度网盘
-PROCESS-NAME,BaiduNetdisk_mac
-# 罗技Options
-PROCESS-NAME,Logi Options
-PROCESS-NAME,Logi Options Daemon
-# >> PT
-DOMAIN-SUFFIX,52pt.site
-DOMAIN-SUFFIX,acg.rip
-DOMAIN-SUFFIX,animebytes.tv
-DOMAIN-SUFFIX,aidoru-online.me
-DOMAIN-SUFFIX,alpharatio.cc
-DOMAIN-SUFFIX,anthelion.me
-DOMAIN-SUFFIX,asiancinema.me
-DOMAIN-SUFFIX,avgv.cc
-DOMAIN-SUFFIX,avistaz.to
-DOMAIN-SUFFIX,awesome-hd.me
-DOMAIN-SUFFIX,beitai.pt
-DOMAIN-SUFFIX,beyond-hd.me
-DOMAIN-SUFFIX,bibliotik.me
-DOMAIN-SUFFIX,blutopia.xyz
-DOMAIN-SUFFIX,broadcasthe.net
-DOMAIN-SUFFIX,bt.byr.cn
-DOMAIN-SUFFIX,bt.neu6.edu.cn
-DOMAIN-SUFFIX,btschool.club
-DOMAIN-SUFFIX,ccfbits.org
-DOMAIN-SUFFIX,cgpeers.com
-DOMAIN-SUFFIX,chdbits.co
-DOMAIN-SUFFIX,cinemageddon.net
-DOMAIN-SUFFIX,cinematik.net
-DOMAIN-SUFFIX,cinemaz.to
-DOMAIN-SUFFIX,classix-unlimited.co.uk
-DOMAIN-SUFFIX,comicat.org
-DOMAIN-SUFFIX,concertos.live
-DOMAIN-SUFFIX,dicmusic.club
-DOMAIN-SUFFIX,discfan.net
-DOMAIN-SUFFIX,dxdhd.com
-DOMAIN-SUFFIX,eastgame.org
-DOMAIN-SUFFIX,empornium.me
-DOMAIN-SUFFIX,et8.org
-DOMAIN-SUFFIX,exoticaz.to
-DOMAIN-SUFFIX,filelist.io
-DOMAIN-SUFFIX,gazellegames.net
-DOMAIN-SUFFIX,gfxpeers.net
-DOMAIN-SUFFIX,hd-space.org
-DOMAIN-SUFFIX,hd4.xyz
-DOMAIN-SUFFIX,hd4fans.org
-DOMAIN-SUFFIX,hdarea.co
-DOMAIN-SUFFIX,hdatmos.club
-DOMAIN-SUFFIX,hdbd.us
-DOMAIN-SUFFIX,hdbits.org
-DOMAIN-SUFFIX,hdchina.org
-DOMAIN-SUFFIX,hdcity.city
-DOMAIN-SUFFIX,hddolby.com
-DOMAIN-SUFFIX,hdfans.org
-DOMAIN-SUFFIX,hdhome.org
-DOMAIN-SUFFIX,hdpost.top
-DOMAIN-SUFFIX,hdroute.org
-DOMAIN-SUFFIX,hdsky.me
-DOMAIN-SUFFIX,hdstreet.club
-DOMAIN-SUFFIX,hdtime.org
-DOMAIN-SUFFIX,hdupt.com
-DOMAIN-SUFFIX,hdzone.me
-DOMAIN-SUFFIX,hitpt.com
-DOMAIN-SUFFIX,hitpt.org
-DOMAIN-SUFFIX,hudbt.hust.edu.cn
-DOMAIN-SUFFIX,icetorrent.org
-DOMAIN-SUFFIX,j99.info
-DOMAIN-SUFFIX,joyhd.net
-DOMAIN-SUFFIX,jpopsuki.eu
-DOMAIN-SUFFIX,karagarga.in
-DOMAIN-SUFFIX,keepfrds.com
-DOMAIN-SUFFIX,leaguehd.com
-DOMAIN-SUFFIX,lztr.me
-DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,madsrevolution.net
-DOMAIN-SUFFIX,moecat.best
-DOMAIN-SUFFIX,morethan.tv
-DOMAIN-SUFFIX,msg.vg
-DOMAIN-SUFFIX,myanonamouse.net
-DOMAIN-SUFFIX,nanyangpt.com
-DOMAIN-SUFFIX,ncore.cc
-DOMAIN-SUFFIX,nebulance.io
-DOMAIN-SUFFIX,nicept.net
-DOMAIN-SUFFIX,npupt.com
-DOMAIN-SUFFIX,open.cd
-DOMAIN-SUFFIX,oppaiti.me
-DOMAIN-SUFFIX,orpheus.network
-DOMAIN-SUFFIX,ourbits.club
-DOMAIN-SUFFIX,passthepopcorn.me
-DOMAIN-SUFFIX,pornbits.net
-DOMAIN-SUFFIX,privatehd.to
-DOMAIN-SUFFIX,pterclub.com
-DOMAIN-SUFFIX,pthome.net
-DOMAIN-SUFFIX,ptsbao.club
-DOMAIN-SUFFIX,redacted.ch
-DOMAIN-SUFFIX,sdbits.org
-DOMAIN-SUFFIX,skyey2.com
-DOMAIN-SUFFIX,soulvoice.club
-DOMAIN-SUFFIX,springsunday.net
-DOMAIN-SUFFIX,tjupt.org
-DOMAIN-SUFFIX,totheglory.im
-DOMAIN-SUFFIX,trontv.com
-DOMAIN-SUFFIX,u2.dmhy.org
-DOMAIN-SUFFIX,uhdbits.org
-# >> Academic
-# 中国知网
-DOMAIN-KEYWORD,cnki.net
-# 万方
-DOMAIN-KEYWORD,wanfangdata
-# 法律数据库
-DOMAIN-KEYWORD,pkulaw
-DOMAIN-KEYWORD,westlawchina
-# 查找 DOI
-DOMAIN-SUFFIX,doi.org
-# SCI 综合
-DOMAIN-SUFFIX,researchgate.net
-DOMAIN-SUFFIX,springer.com
-DOMAIN-SUFFIX,blackwell-synergy.com
-DOMAIN-SUFFIX,sciencemag.org
-DOMAIN-SUFFIX,jstor.org
-DOMAIN-SUFFIX,cabdirect.org
-DOMAIN-SUFFIX,ieee.org
-DOMAIN-SUFFIX,nature.com
-DOMAIN-SUFFIX,osapublishing.org
-## Willey 旗下
-DOMAIN-SUFFIX,wiley.com
-DOMAIN-KEYWORD,readcube
-## Elsevier 旗下
-DOMAIN-SUFFIX,scopus.com
-DOMAIN-KEYWORD,sciencedirect
-DOMAIN-KEYWORD,elsevier
-DOMAIN-KEYWORD,deepdyve
-DOMAIN-KEYWORD,els-cdn
-## Oxford 出版系列
-DOMAIN-SUFFIX,oup.com
-## Springer 旗下
-DOMAIN-SUFFIX,springernature.com
-# ACM (Association for Computing Machinery)
-DOMAIN-SUFFIX,acm.org
-## JSTOR 旗下
-# Own
-DOMAIN-SUFFIX,myguyo.xyz,DIRECT
-DOMAIN-SUFFIX,ap.spotify.com,DIRECT
 # Direct+
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
@@ -192,23 +5,6 @@ DOMAIN,bdtj.tagtic.cn
 # > Alibaba
 DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
-# > Tencent
-DOMAIN,fairplay.l.qq.com
-DOMAIN,livew.l.qq.com
-DOMAIN,vd.l.qq.com
-DOMAIN,vi.l.qq.com
-# > Strava
-DOMAIN,analytics.strava.com
-# > Umeng
-DOMAIN,msg.umeng.com
-DOMAIN,msg.umengcloud.com
-# > Google
-DOMAIN,safebrowsing.googleapis.com
-DOMAIN,safebrowsing.googleapis-cn.com
-DOMAIN,safebrowsing.clients.google.com
-DOMAIN,safebrowsing-cache.google.com
-# >> Paramount+
-# DOMAIN,pubads.g.doubleclick.net
 # ---(Alphabet)---
 DOMAIN-SUFFIX,blog.google
 DOMAIN,ci.android.com
@@ -229,3 +25,237 @@ DOMAIN,alt5-mtalk.google.com
 DOMAIN,alt6-mtalk.google.com
 DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
+# > Tencent
+DOMAIN,fairplay.l.qq.com
+DOMAIN,livew.l.qq.com
+DOMAIN,vd.l.qq.com
+DOMAIN,vi.l.qq.com
+# > Strava
+DOMAIN,analytics.strava.com
+# > Umeng
+DOMAIN,msg.umeng.com
+DOMAIN,msg.umengcloud.com
+# skk
+DOMAIN-SUFFIX,etxr
+DOMAIN-SUFFIX,unifi
+DOMAIN-SUFFIX,bt.byr.cn
+DOMAIN-SUFFIX,msg.vg
+DOMAIN-SUFFIX,ts.net
+DOMAIN-SUFFIX,acg.rip
+DOMAIN-SUFFIX,acm.org
+DOMAIN-SUFFIX,avgv.cc
+DOMAIN-SUFFIX,doi.org
+DOMAIN-SUFFIX,et8.org
+DOMAIN-SUFFIX,hd4.xyz
+DOMAIN-SUFFIX,hdbd.us
+DOMAIN-SUFFIX,hi.link
+DOMAIN-SUFFIX,lztr.me
+DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,oup.com
+DOMAIN-SUFFIX,pi.hole
+DOMAIN-SUFFIX,app.plex.tv
+DOMAIN-SUFFIX,router.asus.com
+DOMAIN-SUFFIX,repeater.asus.com
+DOMAIN-SUFFIX,aterm.me
+DOMAIN-SUFFIX,u2.dmhy.org
+DOMAIN-SUFFIX,easy.box
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,j99.info
+DOMAIN-SUFFIX,ncore.cc
+DOMAIN-SUFFIX,zte.home
+DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,captive.apple.com
+DOMAIN-SUFFIX,beitai.pt
+DOMAIN-SUFFIX,dxdhd.com
+DOMAIN-SUFFIX,fritz.box
+DOMAIN-SUFFIX,fritz.nas
+DOMAIN-SUFFIX,giga.cube
+DOMAIN-SUFFIX,hdarea.co
+DOMAIN-SUFFIX,hdupt.com
+DOMAIN-SUFFIX,hdzone.me
+DOMAIN-SUFFIX,hitpt.com
+DOMAIN-SUFFIX,hitpt.org
+DOMAIN-SUFFIX,joyhd.net
+DOMAIN-SUFFIX,jstor.org
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,my.router
+DOMAIN-SUFFIX,npupt.com
+DOMAIN-SUFFIX,ntt.setup
+DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,ui.direct
+DOMAIN-SUFFIX,web.setup
+DOMAIN-SUFFIX,wiley.com
+DOMAIN-SUFFIX,avistaz.to
+DOMAIN-SUFFIX,bthub.home
+DOMAIN-SUFFIX,chdbits.co
+DOMAIN-SUFFIX,cinemaz.to
+DOMAIN-SUFFIX,hdbits.org
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,hdpost.top
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,hiwifi.com
+DOMAIN-SUFFIX,miwifi.com
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,nicept.net
+DOMAIN-SUFFIX,oppaiti.me
+DOMAIN-SUFFIX,phicomm.me
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,router.ctc
+DOMAIN-SUFFIX,scopus.com
+DOMAIN-SUFFIX,sdbits.org
+DOMAIN-SUFFIX,web.setup.home
+DOMAIN-SUFFIX,skyey2.com
+DOMAIN-SUFFIX,tplogin.cn
+DOMAIN-SUFFIX,trontv.com
+DOMAIN-SUFFIX,xunlei.com
+DOMAIN-SUFFIX,local.adguard.org
+DOMAIN-SUFFIX,injections.adguard.org
+DOMAIN-SUFFIX,airbox.home
+DOMAIN-SUFFIX,amplifi.lan
+DOMAIN-SUFFIX,ccfbits.org
+DOMAIN-SUFFIX,cgpeers.com
+DOMAIN-SUFFIX,comicat.org
+DOMAIN-SUFFIX,connect.box
+DOMAIN-SUFFIX,hotspot.cslwifi.com
+DOMAIN-SUFFIX,discfan.net
+DOMAIN-SUFFIX,exoticaz.to
+DOMAIN-SUFFIX,filelist.io
+DOMAIN-SUFFIX,console.gl-inet.com
+DOMAIN-SUFFIX,hd4fans.org
+DOMAIN-SUFFIX,hdchina.org
+DOMAIN-SUFFIX,hdcity.city
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,hdroute.org
+DOMAIN-SUFFIX,hudbt.hust.edu.cn
+DOMAIN-SUFFIX,jpopsuki.eu
+DOMAIN-SUFFIX,moecat.best
+DOMAIN-SUFFIX,morethan.tv
+DOMAIN-SUFFIX,myfritz.box
+DOMAIN-SUFFIX,bt.neu6.edu.cn
+DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,ptsbao.club
+DOMAIN-SUFFIX,redacted.ch
+DOMAIN-SUFFIX,uhdbits.org
+DOMAIN-SUFFIX,anthelion.me
+DOMAIN-SUFFIX,beyond-hd.me
+DOMAIN-SUFFIX,bibliotik.me
+DOMAIN-SUFFIX,blutopia.xyz
+DOMAIN-SUFFIX,congstar.box
+DOMAIN-SUFFIX,eastgame.org
+DOMAIN-SUFFIX,empornium.me
+DOMAIN-SUFFIX,gfxpeers.net
+DOMAIN-SUFFIX,hd-space.org
+DOMAIN-SUFFIX,hdatmos.club
+DOMAIN-SUFFIX,karagarga.in
+DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,leaguehd.com
+DOMAIN-SUFFIX,nebulance.io
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,peiluyou.com
+DOMAIN-SUFFIX,pornbits.net
+DOMAIN-SUFFIX,privatehd.to
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,setapp.click
+DOMAIN-SUFFIX,speedport.ip
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,tplinkap.net
+DOMAIN-SUFFIX,_hotspot_.m2m
+DOMAIN-SUFFIX,alpharatio.cc
+DOMAIN-SUFFIX,animebytes.tv
+DOMAIN-SUFFIX,arcor.easybox
+DOMAIN-SUFFIX,awesome-hd.me
+DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,cabdirect.org
+DOMAIN-SUFFIX,cinematik.net
+DOMAIN-SUFFIX,dicmusic.club
+DOMAIN-SUFFIX,hdstreet.club
+DOMAIN-SUFFIX,nanyangpt.com
+DOMAIN-SUFFIX,tendawifi.com
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,tplinkeap.net
+DOMAIN-SUFFIX,asiancinema.me
+DOMAIN-SUFFIX,asusrouter.com
+DOMAIN-SUFFIX,bthomehub.home
+DOMAIN-SUFFIX,concertos.live
+DOMAIN-SUFFIX,fritz.repeater
+DOMAIN-SUFFIX,hitronhub.home
+DOMAIN-SUFFIX,homerouter.cpe
+DOMAIN-SUFFIX,icetorrent.org
+DOMAIN-SUFFIX,mobile.hotspot
+DOMAIN-SUFFIX,samsung.router
+DOMAIN-SUFFIX,sciencemag.org
+DOMAIN-SUFFIX,soulvoice.club
+DOMAIN-SUFFIX,tplinkwifi.net
+DOMAIN-SUFFIX,broadcasthe.net
+DOMAIN-SUFFIX,orpheus.network
+DOMAIN-SUFFIX,routerlogin.com
+DOMAIN-SUFFIX,routerlogin.net
+DOMAIN-SUFFIX,tplinkmodem.net
+DOMAIN-SUFFIX,aidoru-online.me
+DOMAIN-SUFFIX,cinemageddon.net
+DOMAIN-SUFFIX,gazellegames.net
+DOMAIN-SUFFIX,myanonamouse.net
+DOMAIN-SUFFIX,researchgate.net
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,instant.arubanetworks.com
+DOMAIN-SUFFIX,setmeup.arubanetworks.com
+DOMAIN-SUFFIX,osapublishing.org
+DOMAIN-SUFFIX,passthepopcorn.me
+DOMAIN-SUFFIX,madsrevolution.net
+DOMAIN-SUFFIX,securelogin.com.cn
+DOMAIN-SUFFIX,springernature.com
+DOMAIN-SUFFIX,steamloopback.host
+DOMAIN-SUFFIX,tplinkplclogin.net
+DOMAIN-SUFFIX,tplinkrepeater.net
+DOMAIN-SUFFIX,huaweimobilewifi.com
+DOMAIN-SUFFIX,_adb-tls-connect._tcp
+DOMAIN-SUFFIX,blackwell-synergy.com
+DOMAIN-SUFFIX,classix-unlimited.co.uk
+DOMAIN-KEYWORD,cnki.net
+DOMAIN-KEYWORD,wanfangdata
+DOMAIN-KEYWORD,pkulaw
+DOMAIN-KEYWORD,westlawchina
+DOMAIN-KEYWORD,readcube
+DOMAIN-KEYWORD,sciencedirect
+DOMAIN-KEYWORD,elsevier
+DOMAIN-KEYWORD,deepdyve
+DOMAIN-KEYWORD,els-cdn
+USER-AGENT,%E8%BF%85%E9%9B%B7
+PROCESS-NAME,v2ray
+PROCESS-NAME,xray
+PROCESS-NAME,ss-local
+PROCESS-NAME,clash
+PROCESS-NAME,ClashX
+PROCESS-NAME,trojan
+PROCESS-NAME,trojan-go
+PROCESS-NAME,privoxy
+PROCESS-NAME,cloudflared
+PROCESS-NAME,aria2c
+PROCESS-NAME,fdm
+PROCESS-NAME,Folx
+PROCESS-NAME,NetTransport
+PROCESS-NAME,Thunder
+PROCESS-NAME,ThunderVIP
+PROCESS-NAME,Transmission
+PROCESS-NAME,transmission-daemon
+PROCESS-NAME,transmission-qt
+PROCESS-NAME,BitComet
+PROCESS-NAME,uTorrent
+PROCESS-NAME,qbittorrent*
+PROCESS-NAME,DownloadService
+PROCESS-NAME,qBittorrent
+PROCESS-NAME,qbittorrent-nox
+PROCESS-NAME,WebTorrent
+PROCESS-NAME,WebTorrent Helper
+PROCESS-NAME,amuled
+PROCESS-NAME,LocalSend
+PROCESS-NAME,UUBooster
+PROCESS-NAME,tailscaled
+PROCESS-NAME,parsecd
+PROCESS-NAME,SunloginClient_Desktop
+PROCESS-NAME,SunloginClient_Helper
+PROCESS-NAME,BaiduNetdisk_mac
+PROCESS-NAME,Logi Options
+PROCESS-NAME,Logi Options Daemon
