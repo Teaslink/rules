@@ -21,7 +21,46 @@ DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,githubusercontent.com
-
+# > Things3
+DOMAIN-SUFFIX,culturedcode.com
+# > Notion
+DOMAIN,http-inputs-notion.splunkcloud.com
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so	
+# Domain
+DOMAIN-SUFFIX,squarespace.com
+# > 1password
+DOMAIN-KEYWORD,1password
+DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-SUFFIX,1password.ca
+DOMAIN-SUFFIX,1password.eu
+DOMAIN-SUFFIX,1password.com
+# 美国
+DOMAIN-SUFFIX, 1password.com // 各子域为 1Password 提供核心服务
+DOMAIN-SUFFIX, 1passwordservices.com // 各子域为 1Password 提供支持服务，例如 Duo 集成、遥测和订阅管理。
+DOMAIN-SUFFIX, 1passwordusercontent.com // 提供 1Password 帐户的用户内容，例如保存的文件和个人资料图片。
+# 其他域名
+DOMAIN, accounts.brex.com // 提供对 Brex 虚拟卡的支持
+DOMAIN, api.privacy.com // 为虚拟卡片提供支持
+DOMAIN, api.pwnedpasswords.com // 使用 haveibeenpwned.com 提供的 Pwned Passwords 服务在 Watchtower 中提供易受攻击的密码功能。
+DOMAIN, cache.agilebits.com // 提供登录名和软件许可证项目的图标
+DOMAIN, in.appcenter.ms // 在适用于 iOS 的 1Password 7 和适用于 Mac 的 1Password 7.9.10 及更早版本中提供崩溃报告管理。
+DOMAIN, jmap.fastmail.com // 为 Fastmail 中的蒙面电子提供支持
+DOMAIN, platform.brex.com // 提供对 Brex 虚拟卡的支持
+DOMAIN-SUFFIX, 1infra.net // 在 1Password 网络内提供基础设施识别
+DOMAIN-SUFFIX, fastmail.com // 为 Fastmail 中的蒙面电子提供支持
+DOMAIN-SUFFIX, globalsign.com // 当 1Password 应用程序请求时，提供对 Windows 上代码签名到期日期的检查
+# > Spark
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,readdle.com
+DOMAIN-SUFFIX,smartmailcloud.com
+# Keyword Collected
+DOMAIN-KEYWORD,pinterest
+DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,jav
 # >> Google
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,androidify.com
@@ -264,11 +303,6 @@ DOMAIN-SUFFIX,cryptocompare.com
 # >> Academic
 DOMAIN,ees.elsevier.com
 DOMAIN-KEYWORD,sci-hub
-# >> 1Password
-DOMAIN-SUFFIX,1password.com
-DOMAIN-SUFFIX,1passwordservices.com
-DOMAIN-SUFFIX,1password.eu
-DOMAIN-SUFFIX,1password.ca
 # >> PicACG
 DOMAIN-SUFFIX,bikaa.xyz
 DOMAIN-SUFFIX,bikac.xyz
@@ -333,7 +367,156 @@ DOMAIN-SUFFIX,edgecompute.app
 DOMAIN-SUFFIX,fly.dev
 DOMAIN-SUFFIX,shw.io
 DOMAIN-SUFFIX,edgeapp.net
-# >> ---------
+# > Akamai
+DOMAIN,a248.e.akamai.net
+DOMAIN,a771.dscq.akamai.net
+# > Amazon
+DOMAIN,d3c33hcgiwev3.cloudfront.net
+DOMAIN,payments-jp.amazon.com
+DOMAIN,s3-ap-northeast-1.amazonaws.com
+DOMAIN,s3-ap-southeast-2.amazonaws.com
+# > Alphabet
+# DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,apigee.com
+DOMAIN-KEYWORD,.blogspot.
+# > Automattic
+DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,videopress.com
+# > Bloomberg
+DOMAIN-SUFFIX,bloomberg.cn
+DOMAIN-SUFFIX,bloomberg.de
+DOMAIN-SUFFIX,bloombergview.com
+# > Cloudflare
+DOMAIN-SUFFIX,pages.dev
+# > Clubhouse
+DOMAIN-SUFFIX,joinclubhouse.com
+DOMAIN,clubhouse.pubnubapi.com
+# ---(Crypto)---
+DOMAIN-SUFFIX,bitcointalk.org
+DOMAIN-SUFFIX,bitflyer.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bithumb.com
+DOMAIN-SUFFIX,bitstamp.net
+DOMAIN-SUFFIX,dydx.exchange
+DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,upbit.com
+# > Binane
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,yingwangtech.cloud
+# > Bybit
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
+# > OKX
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+# > Discord
+DOMAIN-SUFFIX,discord.gg
+# > Fastly
+DOMAIN-SUFFIX,freetls.fastly.net
+DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
+# > Financial Times
+DOMAIN-SUFFIX,ft.com
+DOMAIN-SUFFIX,ftchinese.com
+DOMAIN-SUFFIX,ftimg.net
+DOMAIN,d1e00ek4ebabms.cloudfront.net
+DOMAIN,d19eijqb5qll1w.cloudfront.net
+# > Line
+DOMAIN-SUFFIX,naver.jp
+IP-CIDR,103.2.30.0/23,no-resolve
+IP-CIDR,125.209.208.0/20,no-resolve
+IP-CIDR,147.92.128.0/17,no-resolve
+IP-CIDR,203.104.144.0/21,no-resolve
+# > Microsoft
+DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,streaming.mediaservices.windows.net
+DOMAIN,assets1.xboxlive.com
+DOMAIN,assets2.xboxlive.com
+DOMAIN,az416426.vo.msecnd.net
+DOMAIN,az668014.vo.msecnd.net
+DOMAIN,github.global.ssl.fastly.net
+# > OpenAI
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+# > Pinterest
+DOMAIN-KEYWORD,.pinterest.
+# > Reuters
+DOMAIN-SUFFIX,reutersmedia.net
+# > Steam
+# DOMAIN,store.steampowered.com
+# ---(Telegram)---
+DOMAIN-SUFFIX,cdn-telegram.org
+DOMAIN-SUFFIX,comments.app
+DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,legra.ph
+DOMAIN-SUFFIX,quiz.directory
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.dog
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegram.space
+DOMAIN-SUFFIX,telegram-cdn.org
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,tg.dev
+IP-CIDR,91.108.56.0/22,no-resolve
+IP-CIDR,91.108.4.0/22,no-resolve
+IP-CIDR,91.108.8.0/22,no-resolve
+IP-CIDR,91.108.16.0/22,no-resolve
+IP-CIDR,91.108.12.0/22,no-resolve
+IP-CIDR,149.154.160.0/20,no-resolve
+IP-CIDR,91.105.192.0/23,no-resolve
+IP-CIDR,91.108.20.0/22,no-resolve
+IP-CIDR,185.76.151.0/24,no-resolve
+IP-CIDR6,2001:b28:f23d::/48,no-resolve
+IP-CIDR6,2001:b28:f23f::/48,no-resolve
+IP-CIDR6,2001:67c:4e8::/48,no-resolve
+IP-CIDR6,2001:b28:f23c::/48,no-resolve
+IP-CIDR6,2a0a:f280::/32,no-resolve
+# > The Economist
+DOMAIN-SUFFIX,economist.com
+DOMAIN-SUFFIX,static-economist.com
+# > The New York Times
+DOMAIN-SUFFIX,newyorktimes.com
+DOMAIN-SUFFIX,nytimg.com
+DOMAIN,nytimes.map.fastly.net
+# > Twitter
+DOMAIN-SUFFIX,tweetdeck.com
+# > Wikimedia Foundation
+DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wikimediafoundation.org
+# > Yahoo
+DOMAIN-SUFFIX,yimg.com
+DOMAIN,search.yahoo.co.jp
+# > Yandex
+DOMAIN-SUFFIX,yadi.sk
+DOMAIN,disk.yandex.com
+# > Z-Library
+DOMAIN-SUFFIX,articles.sk
+DOMAIN-SUFFIX,go-to-library.sk
+DOMAIN-SUFFIX,singlelogin.rs
+DOMAIN-SUFFIX,z-lib.gs
+DOMAIN-SUFFIX,z-library.rs
+# (Region-Restricted Access Denied)
+DOMAIN-SUFFIX,wowhead.com
+DOMAIN-SUFFIX,xiaomi.eu
+DOMAIN-SUFFIX,zoom.us
+DOMAIN,community.oneplus.com
+# > Mi
+DOMAIN,c.mi.com
+DOMAIN,new.c.mi.com
+# > News
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,skype.com
+# >> Proxy
 DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
@@ -701,191 +884,12 @@ DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,moon.fm
-DOMAIN-KEYWORD,jav
-# Keyword Collected
-DOMAIN-KEYWORD,pinterest
-DOMAIN-KEYWORD,porn
 DOMAIN,media.steampowered.com
 DOMAIN,wego.here.com
 DOMAIN-SUFFIX,majsoul.union-game.com
 DOMAIN-SUFFIX,prowritingaid.com
 DOMAIN-SUFFIX,wordtune.com
 DOMAIN-SUFFIX,quillbot.com
-USER-AGENT,Roam*
-# > Akamai
-DOMAIN,a248.e.akamai.net
-DOMAIN,a771.dscq.akamai.net
-# > Amazon
-DOMAIN,d3c33hcgiwev3.cloudfront.net
-DOMAIN,payments-jp.amazon.com
-DOMAIN,s3-ap-northeast-1.amazonaws.com
-DOMAIN,s3-ap-southeast-2.amazonaws.com
-# > Alphabet
-# DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,apigee.com
-DOMAIN-KEYWORD,.blogspot.
-# > Apple
-DOMAIN,testflight.apple.com
-# > Automattic
-DOMAIN-SUFFIX,gravatar.com
-DOMAIN-SUFFIX,videopress.com
-# > Bloomberg
-DOMAIN-SUFFIX,bloomberg.cn
-DOMAIN-SUFFIX,bloomberg.de
-DOMAIN-SUFFIX,bloombergview.com
-# > Cloudflare
-DOMAIN-SUFFIX,pages.dev
-# > Clubhouse
-DOMAIN-SUFFIX,joinclubhouse.com
-DOMAIN,clubhouse.pubnubapi.com
-# ---(Crypto)---
-DOMAIN-SUFFIX,bitcointalk.org
-DOMAIN-SUFFIX,bitflyer.com
-DOMAIN-SUFFIX,bitget.com
-DOMAIN-SUFFIX,bithumb.com
-DOMAIN-SUFFIX,bitstamp.net
-DOMAIN-SUFFIX,dydx.exchange
-DOMAIN-SUFFIX,gemini.com
-DOMAIN-SUFFIX,uniswap.org
-DOMAIN-SUFFIX,upbit.com
-# > Binane
-DOMAIN-SUFFIX,binance.info
-DOMAIN-SUFFIX,bnbstatic.com
-DOMAIN-SUFFIX,bntrace.com
-DOMAIN-SUFFIX,yingwangtech.cloud
-# > Bybit
-DOMAIN-SUFFIX,byabcde.com
-DOMAIN-SUFFIX,bybdc6.com
-DOMAIN-SUFFIX,bybit.com
-DOMAIN-SUFFIX,bybitglobal.com
-DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
-# > OKX
-DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
-# > Discord
-DOMAIN-SUFFIX,discord.gg
-# > Fastly
-DOMAIN-SUFFIX,freetls.fastly.net
-DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
-# > Financial Times
-DOMAIN-SUFFIX,ft.com
-DOMAIN-SUFFIX,ftchinese.com
-DOMAIN-SUFFIX,ftimg.net
-DOMAIN,d1e00ek4ebabms.cloudfront.net
-DOMAIN,d19eijqb5qll1w.cloudfront.net
-# > Line
-DOMAIN-SUFFIX,naver.jp
-IP-CIDR,103.2.30.0/23,no-resolve
-IP-CIDR,125.209.208.0/20,no-resolve
-IP-CIDR,147.92.128.0/17,no-resolve
-IP-CIDR,203.104.144.0/21,no-resolve
-# > Microsoft
-DOMAIN-SUFFIX,aka.ms
-DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,streaming.mediaservices.windows.net
-DOMAIN,assets1.xboxlive.com
-DOMAIN,assets2.xboxlive.com
-DOMAIN,az416426.vo.msecnd.net
-DOMAIN,az668014.vo.msecnd.net
-DOMAIN,github.global.ssl.fastly.net
-# > OpenAI
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,openai.com
-# > Pinterest
-DOMAIN-KEYWORD,.pinterest.
-# > Reuters
-DOMAIN-SUFFIX,reutersmedia.net
-# > Steam
-# DOMAIN,store.steampowered.com
-# ---(Telegram)---
-DOMAIN-SUFFIX,cdn-telegram.org
-DOMAIN-SUFFIX,comments.app
-DOMAIN-SUFFIX,graph.org
-DOMAIN-SUFFIX,legra.ph
-DOMAIN-SUFFIX,quiz.directory
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.dog
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telegram.space
-DOMAIN-SUFFIX,telegram-cdn.org
-DOMAIN-SUFFIX,telesco.pe
-DOMAIN-SUFFIX,tg.dev
-IP-CIDR,91.108.56.0/22,no-resolve
-IP-CIDR,91.108.4.0/22,no-resolve
-IP-CIDR,91.108.8.0/22,no-resolve
-IP-CIDR,91.108.16.0/22,no-resolve
-IP-CIDR,91.108.12.0/22,no-resolve
-IP-CIDR,149.154.160.0/20,no-resolve
-IP-CIDR,91.105.192.0/23,no-resolve
-IP-CIDR,91.108.20.0/22,no-resolve
-IP-CIDR,185.76.151.0/24,no-resolve
-IP-CIDR6,2001:b28:f23d::/48,no-resolve
-IP-CIDR6,2001:b28:f23f::/48,no-resolve
-IP-CIDR6,2001:67c:4e8::/48,no-resolve
-IP-CIDR6,2001:b28:f23c::/48,no-resolve
-IP-CIDR6,2a0a:f280::/32,no-resolve
-# > The Economist
-DOMAIN-SUFFIX,economist.com
-DOMAIN-SUFFIX,static-economist.com
-# > The New York Times
-DOMAIN-SUFFIX,newyorktimes.com
-DOMAIN-SUFFIX,nytimg.com
-DOMAIN,nytimes.map.fastly.net
-# > Twitter
-DOMAIN-SUFFIX,tweetdeck.com
-# > Wikimedia Foundation
-DOMAIN-SUFFIX,mediawiki.org
-DOMAIN-SUFFIX,wikileaks.org
-DOMAIN-SUFFIX,wikimediafoundation.org
-# > Yahoo
-DOMAIN-SUFFIX,yimg.com
-DOMAIN,search.yahoo.co.jp
-# > Yandex
-DOMAIN-SUFFIX,yadi.sk
-DOMAIN,disk.yandex.com
-# > Z-Library
-DOMAIN-SUFFIX,articles.sk
-DOMAIN-SUFFIX,go-to-library.sk
-DOMAIN-SUFFIX,singlelogin.rs
-DOMAIN-SUFFIX,z-lib.gs
-DOMAIN-SUFFIX,z-library.rs
-# (Region-Restricted Access Denied)
-DOMAIN-SUFFIX,wowhead.com
-DOMAIN-SUFFIX,xiaomi.eu
-DOMAIN-SUFFIX,zoom.us
-DOMAIN,community.oneplus.com
-# ---(Apple)---
-DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
-DOMAIN-SUFFIX,smoot.apple.com // Spotlight
-DOMAIN,amp-api.podcasts.apple.com // Podcasts
-DOMAIN,beta.music.apple.com // Apple Music Web
-DOMAIN,books.itunes.apple.com // iBooks Store download
-DOMAIN,facetime.apple.com // FaceTime Links
-DOMAIN,lookup-api.apple.com // Look Up
-DOMAIN,radio.itunes.apple.com // Apple Music Radio
-# > Mi
-DOMAIN,c.mi.com
-DOMAIN,new.c.mi.com
-# > Web Preview
-DOMAIN,apps.apple.com
-DOMAIN,books.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN,tv.apple.com
-# > News
-DOMAIN,gateway.icloud.com
-DOMAIN-SUFFIX,apple.news
-DOMAIN,news-assets.apple.com
-DOMAIN,news-client.apple.com
-DOMAIN,news-client-search.apple.com
-DOMAIN,news-edge.apple.com
-DOMAIN,news-events.apple.com
-DOMAIN,apple.comscoreresearch.com
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,skype.com
-# Proxy
 DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,about.me
@@ -982,7 +986,6 @@ DOMAIN-SUFFIX,scmp.com
 DOMAIN-SUFFIX,search.com
 DOMAIN-SUFFIX,singlelogin.me
 DOMAIN-SUFFIX,sketchappsources.com
-DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,smh.com.au
 DOMAIN-SUFFIX,speakerdeck.com
 DOMAIN-SUFFIX,spideroak.com
@@ -1028,3 +1031,4 @@ DOMAIN,cdn.statically.io
 DOMAIN,lab.skk.moe
 DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,search.arc.net
+USER-AGENT,Roam*
