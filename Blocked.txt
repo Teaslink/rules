@@ -101,30 +101,6 @@ DOMAIN-SUFFIX,azurecontainer.io
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,azure-mobile.net
 DOMAIN-SUFFIX,cloudapp.net
-# > Meta
-DOMAIN-SUFFIX,facebookmail.com
-DOMAIN-SUFFIX,fbaddins.com
-DOMAIN-SUFFIX,fbworkmail.com
-DOMAIN-SUFFIX,readyatdawn.com
-DOMAIN-SUFFIX,rocksdb.org
-DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-KEYWORD,.facebook.
-# >> Facebook
-DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fb.watch
-DOMAIN-SUFFIX,accountkit.com
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,m.me
-DOMAIN-SUFFIX,messenger.com
-DOMAIN-SUFFIX,fbmessenger.com
-DOMAIN-SUFFIX,f8.com
-DOMAIN-SUFFIX,tfbnw.net
-DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,threads.net
-DOMAIN-SUFFIX,facebook-hardware.com
 # >> Oracle
 DOMAIN-SUFFIX,oracle.com
 # >> 451
@@ -135,17 +111,6 @@ DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN,addons.mozilla.org
-# >> GitHub
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.blog
-DOMAIN-SUFFIX,github.community
-DOMAIN-SUFFIX,githubstatus.com
-DOMAIN-SUFFIX,git.io
-DOMAIN-SUFFIX,githubapp.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubcopilot.com
-DOMAIN-SUFFIX,githubpreview.dev
 # >> GitLab
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.io
@@ -424,8 +389,18 @@ DOMAIN,nytimes.map.fastly.net
 DOMAIN-SUFFIX,tweetdeck.com
 # > Wikimedia Foundation
 DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikimediafoundation.org
+DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiversity.org
+DOMAIN-SUFFIX,wikivoyage.org
+DOMAIN-SUFFIX,wiktionary.org
 # > Yahoo
 DOMAIN-SUFFIX,yimg.com
 DOMAIN,search.yahoo.co.jp
@@ -853,18 +828,8 @@ DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,whoer.cc
 DOMAIN-SUFFIX,whoer.com
-DOMAIN-SUFFIX,wikibooks.org
-DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikidot.com
-DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,wikinews.org
-DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,wikiquote.org
-DOMAIN-SUFFIX,wikisource.org
-DOMAIN-SUFFIX,wikiversity.org
-DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wikiwand.com
-DOMAIN-SUFFIX,wiktionary.org
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,wordpress.com
 DOMAIN-SUFFIX,workers.dev
