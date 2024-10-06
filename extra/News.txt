@@ -1,7 +1,5 @@
 # News
 DOMAIN-SUFFIX,globo.com
-DOMAIN-SUFFIX,foxnews.com
-DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,telegraph.co.uk
 # NAME: BBC
@@ -62,6 +60,7 @@ DOMAIN-SUFFIX,bloombergview.com
 DOMAIN-SUFFIX,bloomberg.net
 DOMAIN-SUFFIX,bloomberg.cn
 # > NAME: CNN
+DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,cnn.io
 DOMAIN-SUFFIX,cnn.it
 DOMAIN-SUFFIX,cnnarabic.com
@@ -77,6 +76,7 @@ USER-AGENT,FOX%20NOW*
 DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,uplynk.com
+DOMAIN-SUFFIX,foxnews.com
 # ># The New York Times
 DOMAIN-SUFFIX,newyorktimes.com
 DOMAIN-SUFFIX,nyt.com
@@ -87,7 +87,16 @@ DOMAIN-SUFFIX,nytlog.com
 DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,tmagazine.com
 DOMAIN,nytimes.map.fastly.net
-DOMAIN-SUFFIX,newyorktimes.com
+DOMAIN-SUFFIX,d1f1eryiqyjs0r.cloudfront.net
+DOMAIN-SUFFIX,d3lar09xbwlsge.cloudfront.net
+DOMAIN-SUFFIX,d3q1qj9jzsu8nw.cloudfront.net
+DOMAIN-SUFFIX,dc8xl0ndzn2cb.cloudfront.net
+DOMAIN-SUFFIX,nyt.net
+DOMAIN-SUFFIX,nytchina.com
+DOMAIN-SUFFIX,nytcn.me
+DOMAIN-SUFFIX,nyti.ms
+DOMAIN-SUFFIX,timestalks.com
+DOMAIN-SUFFIX,tynt.com
 # > Financial Times
 DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,ftchinese.com
