@@ -58,35 +58,6 @@ IP-CIDR,208.43.122.128/27,no-resolve
 IP-CIDR,34.224.0.0/12,no-resolve
 IP-CIDR,50.22.198.204/30,no-resolve
 IP-CIDR,54.242.0.0/15,no-resolve
-# > Microsoft
-DOMAIN-SUFFIX,aka.ms
-DOMAIN-SUFFIX,github.blog
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,streaming.mediaservices.windows.net
-DOMAIN,assets1.xboxlive.com
-DOMAIN,assets2.xboxlive.com
-DOMAIN,az416426.vo.msecnd.net
-DOMAIN,az668014.vo.msecnd.net
-DOMAIN,github.global.ssl.fastly.net
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,skype.com
-# Linkedin
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,licdn.com
-DOMAIN,e122475.dscg.akamaiedge.net
-DOMAIN,licdn.cn.cdn20.com
-DOMAIN,linkedin.sc.omtrdc.net
-DOMAIN-SUFFIX,bizographics.com
-DOMAIN-SUFFIX,l-0005.dc-msedge.net
-DOMAIN-SUFFIX,l-0005.l-msedge.net
-DOMAIN-SUFFIX,licdn.cn
-DOMAIN-SUFFIX,linkedin.at
-DOMAIN-SUFFIX,linkedin.cn
-DOMAIN-SUFFIX,lnkd.in
 # > Notion
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN-SUFFIX,notion-static.com
