@@ -119,6 +119,12 @@ DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vercel.app
+# Spark
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,hockeyapp.net
+DOMAIN-SUFFIX,readdle.com
+DOMAIN-SUFFIX,smartmailcloud.com
 # Keywords
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,github
