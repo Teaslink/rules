@@ -11,12 +11,6 @@ DOMAIN,smtp.office365.com
 # yahoo
 DOMAIN,apple.imap.mail.yahoo.com
 DOMAIN,apple.smtp.mail.yahoo.com
-#
+# yandex
 DOMAIN-SUFFIX,imap.yandex.com
 DOMAIN-SUFFIX,smtp.yandex.com
-# Spark
-DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,firebaseio.com
-DOMAIN-SUFFIX,hockeyapp.net
-DOMAIN-SUFFIX,readdle.com
-DOMAIN-SUFFIX,smartmailcloud.com
