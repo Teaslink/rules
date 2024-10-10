@@ -86,10 +86,6 @@ DOMAIN, platform.brex.com // 提供对 Brex 虚拟卡的支持
 DOMAIN-SUFFIX, 1infra.net // 在 1Password 网络内提供基础设施识别
 DOMAIN-SUFFIX, fastmail.com // 为 Fastmail 中的蒙面电子提供支持
 DOMAIN-SUFFIX, globalsign.com // 当 1Password 应用程序请求时，提供对 Windows 上代码签名到期日期的检查
-# > Spark
-DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,readdle.com
-DOMAIN-SUFFIX,smartmailcloud.com
 # MISC
 DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,dis.gd // Discord
