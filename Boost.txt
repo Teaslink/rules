@@ -21,9 +21,36 @@ DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,githubusercontent.com
-# > Meta
+# Keywords
+DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,gstatic
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,nvidia
+DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,amazon
+# Microsoft
+# > Github
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubassets.com
+# > Linkedin
+DOMAIN,e122475.dscg.akamaiedge.net
+DOMAIN,licdn.cn.cdn20.com
+DOMAIN,linkedin.sc.omtrdc.net
+DOMAIN-SUFFIX,bizographics.com
+DOMAIN-SUFFIX,l-0005.dc-msedge.net
+DOMAIN-SUFFIX,l-0005.l-msedge.net
+DOMAIN-SUFFIX,licdn.cn
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,linkedin.at
+DOMAIN-SUFFIX,linkedin.cn
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,lnkd.in
+# Meta
 DOMAIN-SUFFIX,accountkit.com
-DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,facebookmail.com
 DOMAIN-SUFFIX,fb.com
@@ -31,18 +58,19 @@ DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fbaddins.com
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fbworkmail.com
-DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,readyatdawn.com
 DOMAIN-SUFFIX,rocksdb.org
+DOMAIN-KEYWORD,.facebook.
+# > Instagram
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagr.am
+# > Threads
 DOMAIN-SUFFIX,threads.net
+# > Whatsapp
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-KEYWORD,.facebook.
-# Ins
-DOMAIN-SUFFIX,instagr.am
-# Whatsapp
 DOMAIN-SUFFIX,wa.me
 DOMAIN,graph.facebook.com
 DOMAIN-SUFFIX,bintray.com
@@ -58,14 +86,14 @@ IP-CIDR,208.43.122.128/27,no-resolve
 IP-CIDR,34.224.0.0/12,no-resolve
 IP-CIDR,50.22.198.204/30,no-resolve
 IP-CIDR,54.242.0.0/15,no-resolve
-# > Notion
+# Notion
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
-# > 1password
+# 1password
 DOMAIN-KEYWORD,1password
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,1password.ca
@@ -86,6 +114,26 @@ DOMAIN, platform.brex.com // 提供对 Brex 虚拟卡的支持
 DOMAIN-SUFFIX, 1infra.net // 在 1Password 网络内提供基础设施识别
 DOMAIN-SUFFIX, fastmail.com // 为 Fastmail 中的蒙面电子提供支持
 DOMAIN-SUFFIX, globalsign.com // 当 1Password 应用程序请求时，提供对 Windows 上代码签名到期日期的检查
+# Wikimedia Foundation
+DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikidata.org
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikimediafoundation.org
+DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiversity.org
+DOMAIN-SUFFIX,wikivoyage.org
+DOMAIN-SUFFIX,wiktionary.org
+# Spark
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,hockeyapp.net
+DOMAIN-SUFFIX,readdle.com
+DOMAIN-SUFFIX,smartmailcloud.com
 # MISC
 DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,dis.gd // Discord
@@ -115,17 +163,3 @@ DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vercel.app
-# Spark
-DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,firebaseio.com
-DOMAIN-SUFFIX,hockeyapp.net
-DOMAIN-SUFFIX,readdle.com
-DOMAIN-SUFFIX,smartmailcloud.com
-# Keywords
-DOMAIN-KEYWORD,discord
-DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,gstatic
-DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,nvidia
-DOMAIN-KEYWORD,spotify
-DOMAIN-KEYWORD,amazon
