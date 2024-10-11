@@ -29,10 +29,6 @@ DOMAIN-SUFFIX,foxnews.com
 DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,telegraph.co.uk
-# >> Speedtest
-DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,speedtestcustom.com
-DOMAIN-SUFFIX,cdnst.net
 # >> Archive
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,archive.fo
@@ -50,16 +46,6 @@ DOMAIN-SUFFIX,signal.art
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,signalusers.org
 DOMAIN-SUFFIX,whispersystems.org
-# >> Twitter
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitter.jp
-DOMAIN-SUFFIX,vine.co
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,pscp.tv
 # >> Line
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line.biz
@@ -247,36 +233,6 @@ DOMAIN-KEYWORD,.pinterest.
 DOMAIN-SUFFIX,reutersmedia.net
 # > Steam
 # DOMAIN,store.steampowered.com
-# ---(Telegram)---
-DOMAIN-SUFFIX,cdn-telegram.org
-DOMAIN-SUFFIX,comments.app
-DOMAIN-SUFFIX,graph.org
-DOMAIN-SUFFIX,legra.ph
-DOMAIN-SUFFIX,quiz.directory
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.dog
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telegram.space
-DOMAIN-SUFFIX,telegram-cdn.org
-DOMAIN-SUFFIX,telesco.pe
-DOMAIN-SUFFIX,tg.dev
-IP-CIDR,91.108.56.0/22,no-resolve
-IP-CIDR,91.108.4.0/22,no-resolve
-IP-CIDR,91.108.8.0/22,no-resolve
-IP-CIDR,91.108.16.0/22,no-resolve
-IP-CIDR,91.108.12.0/22,no-resolve
-IP-CIDR,149.154.160.0/20,no-resolve
-IP-CIDR,91.105.192.0/23,no-resolve
-IP-CIDR,91.108.20.0/22,no-resolve
-IP-CIDR,185.76.151.0/24,no-resolve
-IP-CIDR6,2001:b28:f23d::/48,no-resolve
-IP-CIDR6,2001:b28:f23f::/48,no-resolve
-IP-CIDR6,2001:67c:4e8::/48,no-resolve
-IP-CIDR6,2001:b28:f23c::/48,no-resolve
-IP-CIDR6,2a0a:f280::/32,no-resolve
 # > The Economist
 DOMAIN-SUFFIX,economist.com
 DOMAIN-SUFFIX,static-economist.com
@@ -284,22 +240,6 @@ DOMAIN-SUFFIX,static-economist.com
 DOMAIN-SUFFIX,newyorktimes.com
 DOMAIN-SUFFIX,nytimg.com
 DOMAIN,nytimes.map.fastly.net
-# > Twitter
-DOMAIN-SUFFIX,tweetdeck.com
-# > Wikimedia Foundation
-DOMAIN-SUFFIX,mediawiki.org
-DOMAIN-SUFFIX,wikibooks.org
-DOMAIN-SUFFIX,wikidata.org
-DOMAIN-SUFFIX,wikileaks.org
-DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,wikimediafoundation.org
-DOMAIN-SUFFIX,wikinews.org
-DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,wikiquote.org
-DOMAIN-SUFFIX,wikisource.org
-DOMAIN-SUFFIX,wikiversity.org
-DOMAIN-SUFFIX,wikivoyage.org
-DOMAIN-SUFFIX,wiktionary.org
 # > Yahoo
 DOMAIN-SUFFIX,yimg.com
 DOMAIN,search.yahoo.co.jp
@@ -320,10 +260,6 @@ DOMAIN,community.oneplus.com
 # > Mi
 DOMAIN,c.mi.com
 DOMAIN,new.c.mi.com
-# > News
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,skype.com
 # > Scholar
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,acs.org
