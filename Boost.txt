@@ -69,8 +69,6 @@ DOMAIN-SUFFIX,instagr.am
 # > Threads
 DOMAIN-SUFFIX,threads.net
 # > Whatsapp
-DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,wa.me
 DOMAIN,graph.facebook.com
 DOMAIN-SUFFIX,bintray.com
@@ -137,7 +135,7 @@ DOMAIN-SUFFIX,smartmailcloud.com
 # MISC
 DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,dis.gd // Discord
-DOMAIN-SUFFIX,culturedcode.com # > Things3
+DOMAIN-SUFFIX,culturedcode.com // Things3
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,fanbox.cc
@@ -148,7 +146,6 @@ DOMAIN-SUFFIX,ghcr.io // Github Packages
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.net
-DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,misakaf.org // Misaka F Emby
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pki.goog
@@ -161,5 +158,4 @@ DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vercel.app
