@@ -2,89 +2,6 @@
 DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,jav
-# >> Google
-DOMAIN-SUFFIX,abc.xyz
-DOMAIN-SUFFIX,androidify.com
-DOMAIN-SUFFIX,appspot.com
-DOMAIN-SUFFIX,autodraw.com
-DOMAIN-SUFFIX,blogger.com
-DOMAIN-SUFFIX,blogblog.com
-DOMAIN-SUFFIX,blogspot.com
-DOMAIN-SUFFIX,capitalg.com
-DOMAIN-SUFFIX,certificate-transparency.org
-DOMAIN-SUFFIX,chrome.com
-DOMAIN-SUFFIX,chromeexperiments.com
-DOMAIN-SUFFIX,chromestatus.com
-DOMAIN-SUFFIX,chromium.org
-DOMAIN-SUFFIX,circle.ms
-DOMAIN-SUFFIX,cloudfunctions.net
-DOMAIN-SUFFIX,creativelab5.com
-DOMAIN-SUFFIX,debug.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,dialogflow.com
-DOMAIN-SUFFIX,feedburner.com
-DOMAIN-SUFFIX,forms.gle
-DOMAIN-SUFFIX,firebaseio.com
-DOMAIN-SUFFIX,g.co
-DOMAIN-SUFFIX,gcr.io
-DOMAIN-SUFFIX,getmdl.io
-DOMAIN-SUFFIX,getoutline.org
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,gmail.com
-DOMAIN-SUFFIX,gmodules.com
-DOMAIN-SUFFIX,godoc.org
-DOMAIN-SUFFIX,golang.org
-DOMAIN-SUFFIX,goo.gl
-DOMAIN-SUFFIX,googl.com
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,google.hk
-DOMAIN-SUFFIX,google.com.hk
-DOMAIN-SUFFIX,google.tw
-DOMAIN-SUFFIX,google.com.tw
-DOMAIN-SUFFIX,google.com.sg
-DOMAIN-SUFFIX,google.jp
-DOMAIN-SUFFIX,google.co.jp
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,gv.com
-DOMAIN-SUFFIX,gvt0.com
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,gvt3.com
-DOMAIN-SUFFIX,gvt5.com
-DOMAIN-SUFFIX,gvt6.com
-DOMAIN-SUFFIX,gvt7.com
-DOMAIN-SUFFIX,gvt9.com
-DOMAIN-SUFFIX,gwtproject.org
-DOMAIN-SUFFIX,itasoftware.com
-DOMAIN-SUFFIX,madewithcode.com
-DOMAIN-SUFFIX,material.io
-DOMAIN-SUFFIX,page.link
-DOMAIN-SUFFIX,polymer-project.org
-DOMAIN-SUFFIX,recaptcha.net
-DOMAIN-SUFFIX,shattered.io
-DOMAIN-SUFFIX,synergyse.com
-DOMAIN-SUFFIX,tensorflow.org
-DOMAIN-SUFFIX,tiltbrush.com
-DOMAIN-SUFFIX,translate.goog
-DOMAIN-SUFFIX,travis-ci.com
-DOMAIN-SUFFIX,travis-ci.org
-DOMAIN-SUFFIX,waveprotocol.org
-DOMAIN-SUFFIX,waymo.com
-DOMAIN-SUFFIX,web.dev
-DOMAIN-SUFFIX,webmproject.org
-DOMAIN-SUFFIX,webpkgcache.com
-DOMAIN-SUFFIX,webrtc.org
-DOMAIN-SUFFIX,whatbrowser.org
-DOMAIN-SUFFIX,widevine.com
-DOMAIN-SUFFIX,x.company
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,telephony.goog
-DOMAIN-SUFFIX,dns.google
-# ocsp.pki.goog and o.pki.goog is available in Mainland China
-DOMAIN,pki.goog
 # GAE
 DOMAIN-SUFFIX,run.app
 # >> Cloudflare
@@ -93,14 +10,6 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflareaccess.com
-# >> Microsoft Overseas
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,windows.net
-# >> Microsoft Azure
-DOMAIN-SUFFIX,azurecontainer.io
-DOMAIN-SUFFIX,azurewebsites.net
-DOMAIN-SUFFIX,azure-mobile.net
-DOMAIN-SUFFIX,cloudapp.net
 # >> Oracle
 DOMAIN-SUFFIX,oracle.com
 # >> 451
@@ -172,6 +81,11 @@ DOMAIN-SUFFIX,linemobile.com
 DOMAIN-SUFFIX,linemyshop.com
 DOMAIN-SUFFIX,lineshoppingseller.com
 DOMAIN-SUFFIX,linetv.tw
+DOMAIN-SUFFIX,naver.jp
+IP-CIDR,103.2.30.0/23,no-resolve
+IP-CIDR,125.209.208.0/20,no-resolve
+IP-CIDR,147.92.128.0/17,no-resolve
+IP-CIDR,203.104.144.0/21,no-resolve
 # >> Discord
 DOMAIN-SUFFIX,dis.gd
 DOMAIN-SUFFIX,discord.com
@@ -324,21 +238,6 @@ DOMAIN-SUFFIX,ftchinese.com
 DOMAIN-SUFFIX,ftimg.net
 DOMAIN,d1e00ek4ebabms.cloudfront.net
 DOMAIN,d19eijqb5qll1w.cloudfront.net
-# > Line
-DOMAIN-SUFFIX,naver.jp
-IP-CIDR,103.2.30.0/23,no-resolve
-IP-CIDR,125.209.208.0/20,no-resolve
-IP-CIDR,147.92.128.0/17,no-resolve
-IP-CIDR,203.104.144.0/21,no-resolve
-# > Microsoft
-DOMAIN-SUFFIX,aka.ms
-DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,streaming.mediaservices.windows.net
-DOMAIN,assets1.xboxlive.com
-DOMAIN,assets2.xboxlive.com
-DOMAIN,az416426.vo.msecnd.net
-DOMAIN,az668014.vo.msecnd.net
-DOMAIN,github.global.ssl.fastly.net
 # > OpenAI
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
