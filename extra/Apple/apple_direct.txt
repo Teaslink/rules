@@ -1,0 +1,11 @@
+# sys updates and downloads
+OR,((DOMAIN-SUFFIX,iosapps.itunes.apple.com,extended-matching), (DOMAIN-SUFFIX,osxapps.itunes.apple.com,extended-matching), (DOMAIN-SUFFIX,updates.cdn-apple.com,extended-matching), (DOMAIN-SUFFIX,speedysub.itunes.apple.com,extended-matching))
+# MSIC
+DOMAIN-SUFFIX,ls.apple.com,DIRECT // Apple Maps
+DOMAIN-SUFFIX,store.apple.com,DIRECT // Apple Store Online
+DOMAIN-SUFFIX,content-storage-upload.googleapis.com,DIRECT // iCloud上传
+DOMAIN-SUFFIX,content-storage-download.googleapis.com,DIRECT // iCloud下载
+DOMAIN-SUFFIX,s3.dualstack.ap-southeast-1.amazonaws.com,DIRECT // iCloud 亚马逊
+#DOMAIN,iosapps.itunes.apple.com,DIRECT // AppStore
+#DOMAIN-SUFFIX,ctyunapi.cn,REJECT-TINYGIF // 天翼云 云上通道
+#DOMAIN-SUFFIX,convection.cn,REJECT-TINYGIF // 联通云 云上通道
