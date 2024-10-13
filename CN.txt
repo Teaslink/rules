@@ -15,10 +15,10 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 DOMAIN-SUFFIX,CN
 DOMAIN-KEYWORD,baidu
 # updates & app download
-DOMAIN-SUFFIX,iosapps.itunes.apple.com,extended-matching
-DOMAIN-SUFFIX,osxapps.itunes.apple.com,extended-matching
-DOMAIN-SUFFIX,updates.cdn-apple.com,extended-matching
-DOMAIN-SUFFIX,speedysub.itunes.apple.com,extended-matching
+#DOMAIN-SUFFIX,iosapps.itunes.apple.com,extended-matching
+#DOMAIN-SUFFIX,osxapps.itunes.apple.com,extended-matching
+#DOMAIN-SUFFIX,updates.cdn-apple.com,extended-matching
+#DOMAIN-SUFFIX,speedysub.itunes.apple.com,extended-matching
 # Direct
 DOMAIN-SUFFIX,flyert.com
 DOMAIN-SUFFIX,gandi.net
