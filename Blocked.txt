@@ -2,6 +2,114 @@
 DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,jav
+# News
+DOMAIN-SUFFIX,globo.com
+DOMAIN-SUFFIX,npr.org
+DOMAIN-SUFFIX,telegraph.co.uk
+# NAME: BBC
+DOMAIN,aod-dash-uk-live.akamaized.net
+DOMAIN,aod-hls-uk-live.akamaized.net
+DOMAIN,as-dash-uk-live.akamaized.net
+DOMAIN,as-hls-uk-live.akamaized.net
+DOMAIN,vod-dash-uk-live.akamaized.net
+DOMAIN,vod-dash-ww-live.akamaized.net
+DOMAIN,vod-hls-uk-live.akamaized.net
+DOMAIN,vod-sub-uk-live.akamaized.net
+DOMAIN,vod-thumb-uk-live.akamaized.net
+DOMAIN,vod-thumb-ww-live.akamaized.net
+DOMAIN,vs-cmaf-push-uk-live.akamaized.net
+DOMAIN-SUFFIX,bbc
+DOMAIN-SUFFIX,bbc.co
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbc.in
+DOMAIN-SUFFIX,bbc.net.uk
+DOMAIN-SUFFIX,bbcchinese.com
+DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
+DOMAIN-SUFFIX,bbcfmt.s.llnwi.net
+DOMAIN-SUFFIX,bbci.co
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbcmedia.co.uk
+DOMAIN-SUFFIX,bbcpersian.com
+DOMAIN-SUFFIX,bbcverticals.com
+DOMAIN-SUFFIX,bidi.net.uk
+DOMAIN-KEYWORD,bbcfmt
+DOMAIN-KEYWORD,uk-live
+USER-AGENT,BBCiPlayer*
+# > Bloomberg
+DOMAIN-SUFFIX,bloomberg.co.kr
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,bloomberg.com.br
+DOMAIN-SUFFIX,bloomberg.fm
+DOMAIN-SUFFIX,bloomberg.tv
+DOMAIN-SUFFIX,bloombergapps.com
+DOMAIN-SUFFIX,bloombergarcade.com
+DOMAIN-SUFFIX,bloombergbeta.com
+DOMAIN-SUFFIX,blpprofessional.com
+DOMAIN-SUFFIX,bmia.org
+DOMAIN-SUFFIX,bnef.com
+DOMAIN-SUFFIX,businessweek.com
+DOMAIN-SUFFIX,businessweekmag.com
+DOMAIN-SUFFIX,bwbx.io
+DOMAIN-SUFFIX,citylab.com
+DOMAIN-SUFFIX,gotraffic.net
+DOMAIN-SUFFIX,londonmithraeum.com
+DOMAIN-SUFFIX,neweconomyforum.com
+DOMAIN-SUFFIX,newenergyfinance.com
+DOMAIN-SUFFIX,quicktake.video
+DOMAIN-SUFFIX,techatbloomberg.com
+DOMAIN-SUFFIX,tictoc.video
+DOMAIN-SUFFIX,bloomberg.de
+DOMAIN-SUFFIX,bloombergview.com
+DOMAIN-SUFFIX,bloomberg.net
+DOMAIN-SUFFIX,bloomberg.cn
+# > NAME: CNN
+DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,cnn.io
+DOMAIN-SUFFIX,cnn.it
+DOMAIN-SUFFIX,cnnarabic.com
+DOMAIN-SUFFIX,cnnlabs.com
+DOMAIN-SUFFIX,cnnmoney.ch
+# > NAME: AOL
+DOMAIN-SUFFIX,aol.ca
+DOMAIN-SUFFIX,aol.co.uk
+DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,aolnews.com
+# > FoxNow
+USER-AGENT,FOX%20NOW*
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,uplynk.com
+DOMAIN-SUFFIX,foxnews.com
+# ># The New York Times
+DOMAIN-SUFFIX,newyorktimes.com
+DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,nytco.com
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,nytimg.com
+DOMAIN-SUFFIX,nytlog.com
+DOMAIN-SUFFIX,nytstyle.com
+DOMAIN-SUFFIX,tmagazine.com
+DOMAIN,nytimes.map.fastly.net
+DOMAIN-SUFFIX,d1f1eryiqyjs0r.cloudfront.net
+DOMAIN-SUFFIX,d3lar09xbwlsge.cloudfront.net
+DOMAIN-SUFFIX,d3q1qj9jzsu8nw.cloudfront.net
+DOMAIN-SUFFIX,dc8xl0ndzn2cb.cloudfront.net
+DOMAIN-SUFFIX,nyt.net
+DOMAIN-SUFFIX,nytchina.com
+DOMAIN-SUFFIX,nytcn.me
+DOMAIN-SUFFIX,nyti.ms
+DOMAIN-SUFFIX,timestalks.com
+DOMAIN-SUFFIX,tynt.com
+# > Financial Times
+DOMAIN-SUFFIX,ft.com
+DOMAIN-SUFFIX,ftchinese.com
+DOMAIN-SUFFIX,ftimg.net
+DOMAIN,d1e00ek4ebabms.cloudfront.net
+DOMAIN,d19eijqb5qll1w.cloudfront.net
+# > Reuters
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,reutersmedia.net
 # GAE
 DOMAIN-SUFFIX,run.app
 # >> Cloudflare
@@ -24,11 +132,6 @@ DOMAIN,addons.mozilla.org
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.io
 # >> News
-DOMAIN-SUFFIX,globo.com
-DOMAIN-SUFFIX,foxnews.com
-DOMAIN-SUFFIX,cnn.com
-DOMAIN-SUFFIX,npr.org
-DOMAIN-SUFFIX,telegraph.co.uk
 # >> Archive
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,archive.fo
@@ -181,10 +284,6 @@ DOMAIN-KEYWORD,.blogspot.
 # > Automattic
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,videopress.com
-# > Bloomberg
-DOMAIN-SUFFIX,bloomberg.cn
-DOMAIN-SUFFIX,bloomberg.de
-DOMAIN-SUFFIX,bloombergview.com
 # > Cloudflare
 DOMAIN-SUFFIX,pages.dev
 # > Clubhouse
@@ -218,28 +317,17 @@ DOMAIN-SUFFIX,discord.gg
 # > Fastly
 DOMAIN-SUFFIX,freetls.fastly.net
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
-# > Financial Times
-DOMAIN-SUFFIX,ft.com
-DOMAIN-SUFFIX,ftchinese.com
-DOMAIN-SUFFIX,ftimg.net
-DOMAIN,d1e00ek4ebabms.cloudfront.net
-DOMAIN,d19eijqb5qll1w.cloudfront.net
 # > OpenAI
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
 # > Pinterest
 DOMAIN-KEYWORD,.pinterest.
-# > Reuters
-DOMAIN-SUFFIX,reutersmedia.net
 # > Steam
 # DOMAIN,store.steampowered.com
 # > The Economist
 DOMAIN-SUFFIX,economist.com
 DOMAIN-SUFFIX,static-economist.com
 # > The New York Times
-DOMAIN-SUFFIX,newyorktimes.com
-DOMAIN-SUFFIX,nytimg.com
-DOMAIN,nytimes.map.fastly.net
 # > Yahoo
 DOMAIN-SUFFIX,yimg.com
 DOMAIN,search.yahoo.co.jp
@@ -358,8 +446,6 @@ DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bandwagonhost.com
 DOMAIN-SUFFIX,bangumi.moe
-DOMAIN-SUFFIX,bbc.com
-DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,bestbuy.com
 DOMAIN-SUFFIX,bet365.com
@@ -372,8 +458,6 @@ DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,bitly.com
 DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,blogimg.jp
-DOMAIN-SUFFIX,bloomberg.com
-DOMAIN-SUFFIX,bloomberg.net
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,booklive.jp
 DOMAIN-SUFFIX,brave.com
@@ -539,11 +623,6 @@ DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,nypost.com
-DOMAIN-SUFFIX,nyt.com
-DOMAIN-SUFFIX,nytco.com
-DOMAIN-SUFFIX,nytlog.com
-DOMAIN-SUFFIX,nytimes.com
-DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,one.com
 DOMAIN-SUFFIX,opensea.io
@@ -584,7 +663,6 @@ DOMAIN-SUFFIX,redtube.com
 DOMAIN-SUFFIX,redtubepremium.com
 DOMAIN-SUFFIX,render.com
 DOMAIN-SUFFIX,returnyoutubedislikeapi.com
-DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,rule34.xxx
 DOMAIN-SUFFIX,sagernet.org
@@ -639,7 +717,6 @@ DOMAIN-SUFFIX,theverge.com
 DOMAIN-SUFFIX,thisav.com
 DOMAIN-SUFFIX,time.com
 DOMAIN-SUFFIX,tineye.com
-DOMAIN-SUFFIX,tmagazine.com
 DOMAIN-SUFFIX,tokyonline.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,tumblr.com
