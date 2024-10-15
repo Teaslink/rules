@@ -582,3 +582,34 @@ DOMAIN-SUFFIX,westlaw.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,worldbank.org
 DOMAIN-SUFFIX,worldscientific.com
+## misc
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,dis.gd // Discord
+DOMAIN-SUFFIX,digicert.com // Apple
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,fanbox.cc
+DOMAIN-SUFFIX,fandom.com
+DOMAIN-SUFFIX,fivecdm.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,ghcr.io // Github Packages
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,gitlab.net
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pki.goog
+DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,scdn.co // Spotify
+DOMAIN-SUFFIX,split.io
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,termius.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,vercel.app
