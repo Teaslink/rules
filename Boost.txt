@@ -1,4 +1,4 @@
-# MINI
+# core
 DOMAIN-SUFFIX,tw
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,gstatic.com
@@ -613,3 +613,15 @@ DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vercel.app
+#scomper
+DOMAIN-KEYWORD,oculus
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,awsstatic.com
