@@ -294,69 +294,6 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
 #########################################
-# Sukka's Ruleset - Stream Services: All
-# Last Updated: 2024-09-26T09:50:09.532Z
-# Size: 335
-# License: AGPL 3.0
-# Homepage: https://ruleset.skk.moe
-# GitHub: https://github.com/SukkaW/Surge
-#
-# - 4gtv
-# - AbemaTV
-# - Amazon Prime Video
-# - All4
-# - Apple TV
-# - Apple Music TV
-# - Bahamut
-# - BBC
-# - Bilibili International
-# - DAZN
-# - Deezer
-# - Disney+
-# - Discovery+
-# - DMM
-# - encoreTVB
-# - encoreTVB JP
-# - Fox Now
-# - Fox+
-# - HBO Go / HBO Now / HBO Max
-# - HBO Asia
-# - Himalaya FM
-# - Hulu
-# - HWTV
-# - iQiYi Global
-# - ITV
-# - JOOX
-# - KKBOX
-# - KKTV
-# - Line TV
-# - LiTV
-# - Max
-# - My5
-# - myTV Super
-# - Netflix
-# - Naver TV
-# - niconico
-# - Now E
-# - Overcast FM
-# - Paramount+
-# - PBS
-# - Peacock
-# - Pandora
-# - Pornhub
-# - SoundCloud
-# - Spotify
-# - TaiwanGood
-# - TIDAL
-# - TikTok
-# - TVB Anywhere
-# - Twitch
-# - ViuTV
-# - WeTV
-# - YouTube
-# - YouTube Music
-# - SHOWTIME
-DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,fox.com
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
@@ -515,4 +452,3 @@ PROCESS-NAME,com.viu.pad
 PROCESS-NAME,com.viu.phone
 PROCESS-NAME,com.vuclip.viu
 PROCESS-NAME,com.hktve.viutv
-################## EOF ##################
