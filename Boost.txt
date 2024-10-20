@@ -290,6 +290,7 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflareaccess.com
+DOMAIN-SUFFIX,pages.dev
 # >> Oracle
 DOMAIN-SUFFIX,oracle.com
 # >> 451
@@ -454,8 +455,6 @@ DOMAIN-KEYWORD,.blogspot.
 # > Automattic
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,videopress.com
-# > Cloudflare
-DOMAIN-SUFFIX,pages.dev
 # > Clubhouse
 DOMAIN-SUFFIX,joinclubhouse.com
 DOMAIN,clubhouse.pubnubapi.com
@@ -613,7 +612,6 @@ DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vercel.app
-#scomper
 DOMAIN-KEYWORD,oculus
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,scdn.co
@@ -625,3 +623,20 @@ DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
+# google
+DOMAIN-SUFFIX,1e100.net
+DOMAIN-SUFFIX,2mdn.net
+DOMAIN-SUFFIX,app-measurement.net
+DOMAIN-SUFFIX,g.co
+DOMAIN-SUFFIX,goog
+DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,gstatic.cn
+DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,yt.be
+DOMAIN-KEYWORD,google,extended-matching
+IP-CIDR,74.125.0.0/16,no-resolve
+IP-CIDR,173.194.0.0/16,no-resolve
