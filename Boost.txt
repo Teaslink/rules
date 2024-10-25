@@ -30,6 +30,13 @@ DOMAIN-KEYWORD,nvidia
 DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,amazon
 # Microsoft
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,hotmail
 # > Github
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,github.blog
@@ -612,7 +619,6 @@ DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vercel.app
-DOMAIN-KEYWORD,oculus
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,pscp.tv
