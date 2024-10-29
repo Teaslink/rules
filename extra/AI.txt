@@ -1,6 +1,50 @@
-# Google AI
+# OpenAI
+# > ChatGPT
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN,api.statsig.com
+DOMAIN,api-iam.intercom.io
+DOMAIN,chatgpt.livekit.cloud
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,sfo3.turn.livekit.cloud
+DOMAIN-KEYWORD,openaicom
+
+# Apple Intelligence
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN,guzzoni.apple.com
+# Anthropic
+# > Claude
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+# Google
+# > Gemini
 DOMAIN,ai.google.dev
+DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN,generativelanguage.googleapis.com
+# > AI Studio
+DOMAIN,aistudio.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
+# JetBrains AI
+DOMAIN-SUFFIX,grazie.ai
+# Microsoft
+# > Copilot
+DOMAIN,copilot.microsoft.com
+DOMAIN,sydney.bing.com
+DOMAIN,www.bing.com
+# Meta
+DOMAIN,imagine.meta.com
+#
+DOMAIN-SUFFIX,ai.com
+DOMAIN-KEYWORD,openai
+# Google AI
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,generativeai.google
@@ -25,7 +69,6 @@ DOMAIN-SUFFIX,jasper.ai
 # Dify AI
 DOMAIN-SUFFIX,dify.ai
 # Claude AI
-DOMAIN-SUFFIX,claude.ai
 # Perplexity AI
 DOMAIN-SUFFIX,perplexity.ai
 # x.ai
@@ -33,34 +76,5 @@ DOMAIN-SUFFIX,x.ai
 # Poe (Quora AI)
 DOMAIN-SUFFIX,poe.com
 # Anthropic AI
-DOMAIN-SUFFIX,anthropic.com
-# OpenAI
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-KEYWORD,openai
-# > ChatGPT
-DOMAIN,api.statsig.com
-DOMAIN,api-iam.intercom.io
-DOMAIN,chatgpt.livekit.cloud
-DOMAIN,o33249.ingest.sentry.io
-DOMAIN,openaiapi-site.azureedge.net
-DOMAIN,sfo3.turn.livekit.cloud
-DOMAIN-KEYWORD,openaicom
-# > Gemini
-DOMAIN,bard.google.com
-DOMAIN,gemini.google.com
-DOMAIN,generativelanguage.googleapis.com
-# > AI Studio
-DOMAIN,aistudio.google.com
-# JetBrains AI
-DOMAIN-SUFFIX,grazie.ai
-# > Copilot
-DOMAIN,copilot.microsoft.com
-DOMAIN,sydney.bing.com
-DOMAIN,www.bing.com
 # Meta AI
 DOMAIN-SUFFIX,meta.ai
-DOMAIN,imagine.meta.com
