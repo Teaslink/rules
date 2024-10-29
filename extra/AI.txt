@@ -1,5 +1,7 @@
 # OpenAI
 # > ChatGPT
+DOMAIN-KEYWORD,openaicom
+DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
@@ -10,8 +12,7 @@ DOMAIN,chatgpt.livekit.cloud
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,sfo3.turn.livekit.cloud
-DOMAIN-KEYWORD,openaicom
-
+DOMAIN-SUFFIX,ai.com
 # Apple Intelligence
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,apple-relay.apple.com
@@ -24,6 +25,19 @@ DOMAIN,guzzoni.apple.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 # Google
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
 # > Gemini
 DOMAIN,ai.google.dev
 DOMAIN,bard.google.com
@@ -41,23 +55,7 @@ DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
 # Meta
 DOMAIN,imagine.meta.com
-#
-DOMAIN-SUFFIX,ai.com
-DOMAIN-KEYWORD,openai
-# Google AI
-DOMAIN,alkalicore-pa.clients6.google.com
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,meta.ai
 # Cloudflare AI
 DOMAIN,gateway.ai.cloudflare.com
 # ClipDrop
@@ -75,6 +73,3 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,x.ai
 # Poe (Quora AI)
 DOMAIN-SUFFIX,poe.com
-# Anthropic AI
-# Meta AI
-DOMAIN-SUFFIX,meta.ai
