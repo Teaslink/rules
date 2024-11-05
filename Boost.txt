@@ -634,6 +634,7 @@ DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,yahoo.com
 # google
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,2mdn.net
