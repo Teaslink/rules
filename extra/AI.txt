@@ -55,6 +55,8 @@ DOMAIN-SUFFIX,grazie.ai
 DOMAIN,copilot.microsoft.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
+# GitHub Copilot
+DOMAIN-SUFFIX,githubcopilot.com
 # Meta
 DOMAIN,imagine.meta.com
 DOMAIN-SUFFIX,meta.ai
@@ -75,6 +77,3 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,x.ai
 # Poe (Quora AI)
 DOMAIN-SUFFIX,poe.com
-
-# GitHub Copilot
-DOMAIN-SUFFIX,githubcopilot.com
