@@ -40,7 +40,6 @@ DOMAIN-SUFFIX,amazon.dev
 DOMAIN-SUFFIX,ampaeservices.com
 DOMAIN-SUFFIX,appboy.com
 DOMAIN-SUFFIX,apple-cloudkit.com
-DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,appsflyersdk.com
