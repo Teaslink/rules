@@ -226,7 +226,6 @@ DOMAIN,us-central1-msksuite-11ba2.cloudfunctions.net
 DOMAIN,vincode.io
 DOMAIN,wego.here.com
 DOMAIN,wifiman-stability-test.ubncloud.com
-DOMAIN,wifiman-stability-test.ubncloud.com //ui
 DOMAIN,www.cloudns.net
 DOMAIN,zhpengfei.com
 DOMAIN-SUFFIX,18comic.vip
