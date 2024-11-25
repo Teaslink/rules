@@ -93,9 +93,6 @@ DOMAIN-SUFFIX,zoomgov.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-KEYWORD,ttvnw
-
-
-
 # OneDrive
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
@@ -309,6 +306,7 @@ DOMAIN-SUFFIX,vox-cdn.com
 # Misc
 DOMAIN,medium.com
 DOMAIN-SUFFIX,culturedcode.com
+DOMAIN-SUFFIX,craft.do
 DOMAIN-SUFFIX,dis.gd // Discord
 DOMAIN-SUFFIX,digicert.com // Apple
 DOMAIN-SUFFIX,docker.com
