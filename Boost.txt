@@ -126,9 +126,35 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,yt.be
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
+# > Meta
+DOMAIN-SUFFIX,accountkit.com
+DOMAIN-SUFFIX,f8.com
+DOMAIN-SUFFIX,facebookmail.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.watch
+DOMAIN-SUFFIX,fbaddins.com
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbworkmail.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,readyatdawn.com
+DOMAIN-SUFFIX,rocksdb.org
+DOMAIN-KEYWORD,.facebook.
+# > Microsoft
+DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,streaming.mediaservices.windows.net
+DOMAIN,assets1.xboxlive.com
+DOMAIN,assets2.xboxlive.com
+DOMAIN,az416426.vo.msecnd.net
+DOMAIN,az668014.vo.msecnd.net
+DOMAIN,github.global.ssl.fastly.net
 # Facebook
 DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fbcdn.com
 IP-CIDR,31.13.24.0/21,no-resolve
 IP-CIDR,31.13.64.0/18,no-resolve
@@ -263,7 +289,6 @@ DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,megaupload.com
-DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,netdna-cdn.com
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nsstatic.net
@@ -324,10 +349,6 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,pximg.net
-DOMAIN-SUFFIX,redd.it
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,redditmedia.com
-DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,scdn.co // Spotify
 DOMAIN-SUFFIX,split.io
