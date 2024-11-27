@@ -36,6 +36,10 @@ DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,telegram
+DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,gstatic
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,nvidia
 # NAME: Dropbox
 DOMAIN-SUFFIX,db.tt
 DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com
@@ -396,7 +400,3 @@ DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vercel.app
-DOMAIN-KEYWORD,discord
-DOMAIN-KEYWORD,gstatic
-DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,nvidia
