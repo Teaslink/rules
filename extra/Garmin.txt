@@ -1,2 +1,3 @@
+DOMAIN-KEYWORD,garmin
 DOMAIN-SUFFIX,garmin.com
 DOMAIN-SUFFIX,garmincdn.com
