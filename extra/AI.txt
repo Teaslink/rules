@@ -39,12 +39,16 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,bard.google.com
+# > Search Labs
+DOMAIN-KEYWORD,labs.google
 # > Gemini
 DOMAIN,ai.google.dev
 DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,proactivebackend-pa.googleapis.com
+# Perplexity
+DOMAIN-SUFFIX,pplx.ai
 # > AI Studio
 DOMAIN,aistudio.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
