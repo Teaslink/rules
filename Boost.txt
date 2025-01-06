@@ -40,6 +40,9 @@ DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,nvidia
+# 1P
+DOMAIN-SUFFIX,agilebits.com
+DOMAIN-SUFFIX,1password.com
 # NAME: Dropbox
 DOMAIN-SUFFIX,db.tt
 DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com
