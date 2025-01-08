@@ -81,3 +81,9 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,x.ai
 # Poe (Quora AI)
 DOMAIN-SUFFIX,poe.com
+
+#20250108
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN,api.github.com
+DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
