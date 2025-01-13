@@ -81,6 +81,8 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,x.ai
 # Poe (Quora AI)
 DOMAIN-SUFFIX,poe.com
+# > NotebookLM
+DOMAIN-KEYWORD,notebooklm.google
 
 #20250108
 DOMAIN-SUFFIX,groq.com
