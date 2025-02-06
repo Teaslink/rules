@@ -43,3 +43,5 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,lnkd.in
 # > Signal
 DOMAIN-SUFFIX,signal.org
+# > Misc
+DOMAIN,medium.com
