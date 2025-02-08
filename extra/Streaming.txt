@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitch-ext.rootonline.de
+
 # (Music)
 # > Deezer
 DOMAIN-SUFFIX,deezer.com
@@ -23,6 +24,7 @@ DOMAIN-SUFFIX,kfs.io
 DOMAIN-SUFFIX,pandora.com
 DOMAIN-SUFFIX,p-cdn.us
 # > SoundCloud
+DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
 # > Spotify
@@ -35,11 +37,13 @@ DOMAIN-KEYWORD,-spotify-com
 # > TIDAL
 DOMAIN-SUFFIX,tidal.com
 # > YouTubeMusic
+
 # (Podcast)
 # > Himalaya
 DOMAIN-SUFFIX,himalaya.com
 # > Overcast
 DOMAIN-SUFFIX,overcast.fm
+
 # (Video)
 # > AbemaTV
 DOMAIN-SUFFIX,abema.io
@@ -64,6 +68,7 @@ DOMAIN,atv-ps.amazon.com
 DOMAIN,fls-na.amazon.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
 DOMAIN,d25xi40x97liuc.cloudfront.net
+DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
@@ -269,12 +274,15 @@ DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-KEYWORD,tiktokcdn-
 # > TVer
 DOMAIN-SUFFIX,tver.jp
+DOMAIN,edge.api.brightcove.com
 # > ViuTV
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.tv
 DOMAIN,api.viu.now.com
+DOMAIN,d1ckiw6kv3s3l5.cloudfront.net
 DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
+DOMAIN,d3o7oi00quuwqu.cloudfront.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
 # > WeTV
 DOMAIN-SUFFIX,wetv.vip
@@ -293,162 +301,3 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
-#########################################
-DOMAIN-SUFFIX,4gtv.tv
-DOMAIN-SUFFIX,fox.com
-DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
-DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
-DOMAIN-SUFFIX,hulu.tv
-DOMAIN-SUFFIX,hulu.us
-DOMAIN-SUFFIX,viu.now.com
-DOMAIN-SUFFIX,sho.com
-DOMAIN-SUFFIX,ameblo.jp
-DOMAIN,ocvideo.apple.com
-DOMAIN,hls.itunes.apple.com
-DOMAIN,hls-amt.itunes.apple.com
-DOMAIN,np-edge.itunes.apple.com
-DOMAIN,4gtvfreepcvod-cds.cdn.hinet.net
-DOMAIN-SUFFIX,intl.iqiyi.com
-DOMAIN-SUFFIX,inter.iqiyi.com
-DOMAIN-SUFFIX,intl-rcd.iqiyi.com
-DOMAIN,cache.video.iqiyi.com
-DOMAIN-SUFFIX,intl-subscription.iqiyi.com
-DOMAIN-SUFFIX,kk.stream
-DOMAIN-SUFFIX,kktix.com
-DOMAIN-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net
-DOMAIN-SUFFIX,tv.naver.com
-DOMAIN-SUFFIX,socdm.com
-DOMAIN-SUFFIX,tiktok.us
-DOMAIN-SUFFIX,atv-ps.amazon.com
-DOMAIN-SUFFIX,fls-na.amazon.com
-DOMAIN-SUFFIX,foxdcg.com
-DOMAIN-SUFFIX,psg.cdn.hgc.com.hk
-DOMAIN-SUFFIX,netflix.ca
-DOMAIN-SUFFIX,tiktokv.us
-DOMAIN-SUFFIX,uplynk.com
-DOMAIN-SUFFIX,amebame.com
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN,manifest.prod.boltdns.net
-DOMAIN-SUFFIX,foxplus.com
-DOMAIN-SUFFIX,hboasia.com
-DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-SUFFIX,isnssdk.com
-DOMAIN-SUFFIX,tiktokw.com
-DOMAIN-SUFFIX,viblast.com
-DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
-DOMAIN-SUFFIX,hayabusa.dev
-DOMAIN-SUFFIX,showtime.com
-DOMAIN-SUFFIX,winticket.jp
-DOMAIN-SUFFIX,dcalivedazn.akamaized.net
-DOMAIN-SUFFIX,dcblivedazn.akamaized.net
-DOMAIN-SUFFIX,spotify-com.akamaized.net
-DOMAIN,staticasiafox.akamaized.net
-DOMAIN-SUFFIX,amebaownd.com
-DOMAIN-SUFFIX,byspotify.com
-DOMAIN-SUFFIX,netflix.com.edgesuite.net
-DOMAIN-SUFFIX,indaznlab.com
-DOMAIN-SUFFIX,primevideo.cc
-DOMAIN-SUFFIX,primevideo.tv
-DOMAIN-SUFFIX,tidalhifi.com
-DOMAIN-SUFFIX,tospotify.com
-DOMAIN-SUFFIX,twitchsvc.net
-DOMAIN-SUFFIX,amazonvideo.cc
-DOMAIN-SUFFIX,applemusic.com
-DOMAIN,d184dfn36gombl.cloudfront.net
-DOMAIN,d1sgwhnao7452x.cloudfront.net
-DOMAIN,d1xfray82862hr.cloudfront.net
-DOMAIN,d3196yreox78o9.cloudfront.net
-DOMAIN,youtube.googleapis.com
-DOMAIN-SUFFIX,nflxsearch.net
-DOMAIN-SUFFIX,primevideo.org
-DOMAIN-SUFFIX,spotify.design
-DOMAIN-SUFFIX,spotifycdn.com
-DOMAIN-SUFFIX,spotifycdn.net
-DOMAIN-SUFFIX,spotilocal.com
-DOMAIN-SUFFIX,amebaowndme.com
-DOMAIN-SUFFIX,kkbox-prime.com
-DOMAIN-SUFFIX,prime-video.com
-DOMAIN-SUFFIX,primevideo.info
-DOMAIN-SUFFIX,spotifyjobs.com
-DOMAIN-SUFFIX,theplatform.com
-DOMAIN-SUFFIX,spotifycodes.com
-DOMAIN,dashasiafox.akamaized.netflix
-DOMAIN-SUFFIX,dokusho-ojikan.jp
-DOMAIN-SUFFIX,spotifycharts.com
-DOMAIN-SUFFIX,spotifynewsroom.jp
-DOMAIN-SUFFIX,amazonvideodirect.cc
-DOMAIN-SUFFIX,spotifyforbrands.com
-DOMAIN-SUFFIX,amazonprimevideos.com
-DOMAIN-SUFFIX,spotify-everywhere.com
-DOMAIN-KEYWORD,nowtv100
-DOMAIN-KEYWORD,rthklive
-DOMAIN-KEYWORD,dualstack.ichnaea-web-
-DOMAIN-KEYWORD,-tiktokcdn-com
-DOMAIN-KEYWORD,tvbanywhere
-USER-AGENT,AbemaTV*
-USER-AGENT,InstantVideo.US*
-USER-AGENT,Prime Video*
-USER-AGENT,All4*
-USER-AGENT,AppleTV*
-USER-AGENT,com.apple.tv*
-USER-AGENT,Anime*
-USER-AGENT,BBCiPlayer*
-USER-AGENT,DAZN*
-USER-AGENT,Deezer*
-USER-AGENT,Disney+*
-USER-AGENT,DPlus*
-USER-AGENT,discovery+*
-USER-AGENT,encoreTVB*
-USER-AGENT,TVer-Release*
-USER-AGENT,FOX NOW*
-USER-AGENT,FOXPlus*
-USER-AGENT,HBO NOW*
-USER-AGENT,HBOMAX*
-USER-AGENT,HBO GO PROD HKG*
-USER-AGENT,HBO*
-USER-AGENT,Himalaya*
-USER-AGENT,Hulu*
-USER-AGENT,HWTVMobile*
-USER-AGENT,ITV_Player*
-USER-AGENT,JOOX*
-USER-AGENT,WeMusic*
-USER-AGENT,com.kktv.ios.kktv*
-USER-AGENT,KKTV*
-USER-AGENT,LINE TV*
-USER-AGENT,Max*
-USER-AGENT,My5*
-USER-AGENT,mytv*
-USER-AGENT,Argo*
-USER-AGENT,Naver TV*
-USER-AGENT,Niconico*
-USER-AGENT,Overcast*
-USER-AGENT,PPlus*
-USER-AGENT,PBS*
-USER-AGENT,PeacockMobile*
-USER-AGENT,Pandora*
-USER-AGENT,SoundCloud*
-USER-AGENT,*Spotify*
-USER-AGENT,TaiwanGood*
-USER-AGENT,TIDAL*
-USER-AGENT,TikTok*
-USER-AGENT,Viu*
-USER-AGENT,WeTV*
-USER-AGENT,com.google.ios.youtube*
-USER-AGENT,YouTube*
-USER-AGENT,com.google.ios.youtubemusic*
-USER-AGENT,YouTubeMusic*
-PROCESS-NAME,com.amazon.avod.thirdpartyclient
-PROCESS-NAME,tv
-PROCESS-NAME,music
-PROCESS-NAME,com.bstar.intl
-PROCESS-NAME,com.hulu.plus
-PROCESS-NAME,com.tencent.ibg.joox
-PROCESS-NAME,com.linecorp.linetv
-PROCESS-NAME,com.wbd.stream
-PROCESS-NAME,com.netflix.mediaclient
-PROCESS-NAME,com.twgood.android
-PROCESS-NAME,tv.twitch.android.app
-PROCESS-NAME,com.viu.pad
-PROCESS-NAME,com.viu.phone
-PROCESS-NAME,com.vuclip.viu
-PROCESS-NAME,com.hktve.viutv
