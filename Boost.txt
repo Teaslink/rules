@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,githubusercontent.com
 # MyList && Other
+DOMAIN-SUFFIX,nssurge.com
 DOMAIN,medium.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,threads.net
