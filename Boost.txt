@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN,medium.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,bit.no.com
@@ -516,9 +517,6 @@ IP-CIDR,119.235.235.0/24,no-resolve
 IP-CIDR,119.235.236.0/23,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
-# OpenAi
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
 # OneDrive
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
@@ -590,31 +588,15 @@ DOMAIN-SUFFIX,taptap.tw
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-KEYWORD,ttvnw
-# Twitter
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.org
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,tweetdeck.com
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitter.jp
-# Telegram
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telesco.pe
-IP-CIDR,91.108.0.0/16,no-resolve
-IP-CIDR,109.239.140.0/24,no-resolve
-IP-CIDR,149.154.160.0/20,no-resolve
-IP-CIDR6,2001:67c:4e8::/48,no-resolve
-IP-CIDR6,2001:b28:f23d::/48,no-resolve
-IP-CIDR6,2001:b28:f23f::/48,no-resolve
 # TeraBox
 DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,teraboxcdn.com
 # Whatsapp
+DOMAIN,graph.facebook.com
+DOMAIN-SUFFIX,bintray.com
+DOMAIN-SUFFIX,whatsapp.biz
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
 IP-CIDR,34.224.0.0/12,no-resolve
 IP-CIDR,54.242.0.0/15,no-resolve
 IP-CIDR,50.22.198.204/30,no-resolve
@@ -655,8 +637,6 @@ DOMAIN-SUFFIX,ocnttv.com
 # VikACG
 DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,picjs.xyz
-
-
 # > Reddit
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,redditmail.com
@@ -665,15 +645,6 @@ DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,reddituploads.com
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
-# Messagers
-# > Signal
-DOMAIN-SUFFIX,signal.org
-# > Whatsapp
-DOMAIN,graph.facebook.com
-DOMAIN-SUFFIX,bintray.com
-DOMAIN-SUFFIX,whatsapp.biz
-DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.net
 # 1P
 DOMAIN-KEYWORD,1password
 DOMAIN-SUFFIX,agilebits.com
@@ -692,7 +663,6 @@ DOMAIN-SUFFIX,lnkd.in
 DOMAIN-KEYWORD,notion
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN-SUFFIX,notion-static.com
-# > Dropbox
 # > Meta
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,f8.com
@@ -813,26 +783,6 @@ DOMAIN-SUFFIX,pixiv.org
 # > Reuters
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,reutersmedia.net
-# ---(Telegram)---
-DOMAIN-SUFFIX,cdn-telegram.org
-DOMAIN-SUFFIX,comments.app
-DOMAIN-SUFFIX,graph.org
-DOMAIN-SUFFIX,legra.ph
-DOMAIN-SUFFIX,quiz.directory
-DOMAIN-SUFFIX,telegram.dog
-DOMAIN-SUFFIX,telegram.space
-DOMAIN-SUFFIX,telegram-cdn.org
-DOMAIN-SUFFIX,tg.dev
-IP-CIDR,91.108.56.0/22,no-resolve
-IP-CIDR,91.108.4.0/22,no-resolve
-IP-CIDR,91.108.8.0/22,no-resolve
-IP-CIDR,91.108.16.0/22,no-resolve
-IP-CIDR,91.108.12.0/22,no-resolve
-IP-CIDR,91.105.192.0/23,no-resolve
-IP-CIDR,91.108.20.0/22,no-resolve
-IP-CIDR,185.76.151.0/24,no-resolve
-IP-CIDR6,2001:b28:f23c::/48,no-resolve
-IP-CIDR6,2a0a:f280::/32,no-resolve
 # > The Economist
 DOMAIN-SUFFIX,economist.com
 DOMAIN-SUFFIX,static-economist.com
