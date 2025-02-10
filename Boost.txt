@@ -48,6 +48,69 @@ DOMAIN-SUFFIX,tumbex.com
 DOMAIN-SUFFIX,twdvd.com
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,buzzsprout.com
+DOMAIN,61.life
+DOMAIN,app.link
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,geekplux.com
+DOMAIN,iterm2.com
+DOMAIN,lutaonan.com
+DOMAIN,naiixi.com
+DOMAIN,rolen.wiki
+DOMAIN,scomper.me
+DOMAIN,shop.app
+DOMAIN,sliun.com
+DOMAIN,springwood.me
+DOMAIN,tumutanzi.com
+DOMAIN,tw93.fun
+DOMAIN,vanrees.com
+DOMAIN,xiaoxinhao.top
+DOMAIN,xlrocket.blog
+DOMAIN-SUFFIX,adtidy.org
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,chanui.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,createsend7.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,dnb.com
+DOMAIN-SUFFIX,drift.com
+DOMAIN-SUFFIX,fda.gov
+DOMAIN-SUFFIX,fit-pay.com
+DOMAIN-SUFFIX,flightyapp.com
+DOMAIN-SUFFIX,flowercloud.net
+DOMAIN-SUFFIX,garmin.com.hk
+DOMAIN-SUFFIX,garmincdn.com
+DOMAIN-SUFFIX,gist.build
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,go-mpulse.net
+DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,happyfoxchat.com
+DOMAIN-SUFFIX,hovrly.com
+DOMAIN-SUFFIX,invoca.net
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,mayiyun.vip
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoftpersonalcontent.com
+DOMAIN-SUFFIX,mql5.com
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,ohttp-relay1.fastly-edge.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,shopify.com
+DOMAIN-SUFFIX,shopifycdn.com
+DOMAIN-SUFFIX,shuziyimin.org
+DOMAIN-SUFFIX,smartmailcloud.com
+DOMAIN-SUFFIX,splunkcloud.com
+DOMAIN-SUFFIX,surge-activation.com
+DOMAIN-SUFFIX,tingtalk.me
+DOMAIN-SUFFIX,vahdam.global
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,webengage.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,wishpond.com
+DOMAIN-SUFFIX,ws-hp.com
 # 国外域名
 DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,hk
@@ -132,7 +195,6 @@ DOMAIN-SUFFIX,kik.com
 DOMAIN-SUFFIX,kobo.com
 DOMAIN-SUFFIX,kobobooks.com
 DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,macrumors.com
@@ -443,10 +505,8 @@ IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
 # Github
-DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
-DOMAIN-SUFFIX,githubassets.com
 # Google
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,2mdn.net
@@ -523,7 +583,6 @@ DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
 DOMAIN-SUFFIX,oneclient.sfx.ms
-DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,photos.live.com
 DOMAIN-SUFFIX,skydrive.wns.windows.com
@@ -562,7 +621,6 @@ DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,readdle.com
-DOMAIN-SUFFIX,smartmailcloud.com
 # Steam
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
@@ -715,7 +773,6 @@ DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-KEYWORD,.blogspot.
 # > Automattic
-DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,videopress.com
 DOMAIN-SUFFIX,wordpress.com
 # > Bloomberg
@@ -797,9 +854,9 @@ DOMAIN-SUFFIX,nytlog.com
 DOMAIN-SUFFIX,tmagazine.com
 DOMAIN,nytimes.map.fastly.net
 # > Yahoo
-DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN,search.yahoo.co.jp
+DOMAIN-SUFFIX,yahoo.com
 # > Yandex
 DOMAIN-SUFFIX,yadi.sk
 DOMAIN-SUFFIX,yandex.ru
@@ -980,7 +1037,6 @@ DOMAIN-SUFFIX,lineshoppingseller.com
 DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,chromeexperiments.com
 DOMAIN-SUFFIX,1passwordservices.com
-DOMAIN-SUFFIX,surge-activation.com
 DOMAIN-SUFFIX,smashingmagazine.com
 DOMAIN-SUFFIX,fastly-analytics.com
 DOMAIN-SUFFIX,elasticbeanstalk.com
@@ -1056,7 +1112,6 @@ DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,expressvpn.com
 DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,curseforge.com
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,xdaforums.com
 DOMAIN-SUFFIX,wikipedia.com
