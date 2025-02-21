@@ -1,20 +1,21 @@
 # OpenAI
 # > ChatGPT
+DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,chat.com
-DOMAIN-KEYWORD,openaicom
-DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,openaicom
 DOMAIN,api.statsig.com
 DOMAIN,api-iam.intercom.io
 DOMAIN,chatgpt.livekit.cloud
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,sfo3.turn.livekit.cloud
-DOMAIN-SUFFIX,ai.com
-# Apple Intelligence
+# Apple
+# > Apple Intelligence
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
@@ -23,69 +24,73 @@ DOMAIN,cp4.cloudflare.com
 DOMAIN,guzzoni.apple.com
 # Anthropic
 # > Claude
-DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
 # Google
-DOMAIN,alkalicore-pa.clients6.google.com
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,generativeai.google
+# > General AI
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,bard.google.com
-# > Search Labs
 DOMAIN-KEYWORD,labs.google
-# > Gemini
 DOMAIN,ai.google.dev
-DOMAIN,bard.google.com
-DOMAIN,gemini.google.com
+DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,proactivebackend-pa.googleapis.com
-# Perplexity
-DOMAIN-SUFFIX,pplx.ai
+# > Gemini
+DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
 # > AI Studio
 DOMAIN,aistudio.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
-# JetBrains AI
+DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
+# > NotebookLM
+DOMAIN-KEYWORD,notebooklm.google
+# Perplexity
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,perplexity.ai
+# JetBrains
+# > JetBrains AI
 DOMAIN-SUFFIX,grazie.ai
 # Microsoft
 # > Copilot
 DOMAIN,copilot.microsoft.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
-# GitHub Copilot
+# GitHub
+# > GitHub Copilot
 DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN,api.github.com
 # Meta
-DOMAIN,imagine.meta.com
 DOMAIN-SUFFIX,meta.ai
-# Cloudflare AI
+DOMAIN,imagine.meta.com
+# Cloudflare
+# > Cloudflare AI
 DOMAIN,gateway.ai.cloudflare.com
 # ClipDrop
 DOMAIN-SUFFIX,clipdrop.co
-# OpenArt AI
+# OpenArt
+# > OpenArt AI
 DOMAIN-SUFFIX,openart.ai
-# Jasper AI
+# Jasper
+# > Jasper AI
 DOMAIN-SUFFIX,jasper.ai
-# Dify AI
+# Dify
+# > Dify AI
 DOMAIN-SUFFIX,dify.ai
-# Claude AI
-# Perplexity AI
-DOMAIN-SUFFIX,perplexity.ai
-# x.ai
+# xAI
 DOMAIN-SUFFIX,x.ai
-# Poe (Quora AI)
+# Quora
+# > Poe
 DOMAIN-SUFFIX,poe.com
-# > NotebookLM
-DOMAIN-KEYWORD,notebooklm.google
-
-#20250108
+# Others (新增或未明确分类)
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,sora.com
-DOMAIN,api.github.com
-DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
