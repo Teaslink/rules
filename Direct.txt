@@ -1,7 +1,3 @@
-# Apple Apps/Updates
-DOMAIN-SUFFIX,iosapps.itunes.apple.com,extended-matching
-DOMAIN-SUFFIX,updates.cdn-apple.com,extended-matching
-DOMAIN-SUFFIX,speedysub.itunes.apple.com,extended-matching
 # Direct+
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
