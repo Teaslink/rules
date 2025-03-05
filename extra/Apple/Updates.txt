@@ -1,4 +1,5 @@
 # Apple Apps/Updates
 DOMAIN-SUFFIX,iosapps.itunes.apple.com
+DOMAIN-SUFFIX,osxapps.itunes.apple.com
 DOMAIN-SUFFIX,updates.cdn-apple.com
 DOMAIN-SUFFIX,speedysub.itunes.apple.com
