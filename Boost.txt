@@ -40,7 +40,6 @@ DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,myteamspeak.com
-DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,ping.pe
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,teddysun.com
@@ -719,9 +718,12 @@ DOMAIN-SUFFIX,linkedin.at
 DOMAIN-SUFFIX,linkedin.cn
 DOMAIN-SUFFIX,lnkd.in
 # > Notion
-DOMAIN-KEYWORD,notion
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
 # > Meta
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,f8.com
@@ -901,7 +903,6 @@ DOMAIN-SUFFIX,smashing.media
 DOMAIN-SUFFIX,discourse.group
 DOMAIN-SUFFIX,sketch.cloud
 DOMAIN-SUFFIX,matters.town
-DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,nextra.site
 DOMAIN-SUFFIX,bad.news
 DOMAIN-SUFFIX,vercel.live
@@ -1656,7 +1657,6 @@ DOMAIN-SUFFIX,muku.tv
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,nhentai.xxx
 DOMAIN-SUFFIX,nobodys.uk
-DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,npm.io
 DOMAIN-SUFFIX,nr-data.net
 DOMAIN-SUFFIX,nyaa.si
@@ -1674,7 +1674,6 @@ DOMAIN-SUFFIX,palette.dev
 DOMAIN-SUFFIX,parsely.com
 DOMAIN-SUFFIX,pcapredict.com
 DOMAIN-SUFFIX,pendo.io
-DOMAIN-SUFFIX,peridot-echidna-851.notion.site
 DOMAIN-SUFFIX,permutive.app
 DOMAIN-SUFFIX,pin.it
 DOMAIN-SUFFIX,ping.sx
@@ -1723,7 +1722,6 @@ DOMAIN-SUFFIX,tapad.com
 DOMAIN-SUFFIX,tapbots.net
 DOMAIN-SUFFIX,tapjoy.com
 DOMAIN-SUFFIX,teads.tv
-DOMAIN-SUFFIX,teaslink.notion.site
 DOMAIN-SUFFIX,terminal69.win
 DOMAIN-SUFFIX,tgstat.ru
 DOMAIN-SUFFIX,thisiscolossal.com
