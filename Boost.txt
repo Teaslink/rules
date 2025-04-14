@@ -446,6 +446,12 @@ IP-CIDR,54.93.0.0/16,no-resolve
 IP-CIDR,54.156.0.0/14,no-resolve
 IP-CIDR,54.226.0.0/15,no-resolve
 IP-CIDR,54.230.156.0/22,no-resolve
+# Bluesky
+DOMAIN-SUFFIX,mastodon.social
+DOMAIN-SUFFIX,bsky.social
+DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.network
+DOMAIN-SUFFIX,bsky.social
 # BBC
 DOMAIN-KEYWORD,uk-live
 DOMAIN-SUFFIX,bbc.co
@@ -891,8 +897,6 @@ DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,community
 DOMAIN-SUFFIX,network
 DOMAIN-SUFFIX,x.company
-DOMAIN-SUFFIX,mastodon.social
-DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,ant.design
 DOMAIN-SUFFIX,watch
 DOMAIN-SUFFIX,tools
