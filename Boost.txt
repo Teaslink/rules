@@ -1,4 +1,4 @@
-# Core mini
+# 1 --- Core mini
 DOMAIN-SUFFIX,tw
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,gstatic.com
@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,telegram.org
+# 2 ------------------------------
+
 # MyList && Other
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN,medium.com
