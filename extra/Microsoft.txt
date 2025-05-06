@@ -1,3 +1,4 @@
+# skk
 DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,msftauthimages.net
 DOMAIN-SUFFIX,virtualearth.net
@@ -80,8 +81,3 @@ DOMAIN-SUFFIX,aka.ms
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,hotmail
-DOMAIN-SUFFIX,akadns.net
-DOMAIN-SUFFIX,azureiotcentral.com
-DOMAIN-SUFFIX,bing.net
-DOMAIN-SUFFIX,bingapis.com
-DOMAIN-SUFFIX,msn.cn
