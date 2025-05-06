@@ -47,6 +47,8 @@ DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,bing.com
 DOMAIN-KEYWORD,microsoft
 # Bluesky:
+DOMAIN-SUFFIX,mastodon.social
+DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,bsky.network
 # Discord:
@@ -74,6 +76,10 @@ DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
+# Spark
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,hockeyapp.net
+DOMAIN-SUFFIX,readdle.com
 # Spotify:
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
@@ -83,6 +89,18 @@ DOMAIN-SUFFIX,t.me,extended-matching
 # Twitter:
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twitter.com
+# Twitch
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-KEYWORD,ttvnw
+# > Reddit
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditmail.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,reddituploads.com
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
 # Uncategorized/Potentially Separate Entities:
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cuto.app
@@ -96,3 +114,17 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,split.io
 DOMAIN-KEYWORD,nvidia
 DOMAIN-KEYWORD,steam
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN,medium.com
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,signal.org
+DOMAIN-SUFFIX,1password.com
+DOMAIN,61.life
+DOMAIN,geekplux.com
+DOMAIN,lutaonan.com
+DOMAIN,naiixi.com
+DOMAIN,rolen.wiki
+DOMAIN,scomper.me
+DOMAIN,springwood.me
+DOMAIN,tumutanzi.com
+DOMAIN,tw93.fun
