@@ -46,6 +46,15 @@ DOMAIN-SUFFIX,lnkd.in
 # Microsoft:
 DOMAIN-SUFFIX,bing.com
 DOMAIN-KEYWORD,microsoft
+# Blog
+DOMAIN,61.life
+DOMAIN,geekplux.com
+DOMAIN,lutaonan.com
+DOMAIN,rolen.wiki
+DOMAIN,scomper.me
+DOMAIN,springwood.me
+DOMAIN,tumutanzi.com
+DOMAIN,tw93.fun
 # Bluesky:
 DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,bsky.social
@@ -119,12 +128,4 @@ DOMAIN,medium.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,1password.com
-DOMAIN,61.life
-DOMAIN,geekplux.com
-DOMAIN,lutaonan.com
 DOMAIN,naiixi.com
-DOMAIN,rolen.wiki
-DOMAIN,scomper.me
-DOMAIN,springwood.me
-DOMAIN,tumutanzi.com
-DOMAIN,tw93.fun
