@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN,ai.google.dev
 DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
+DOMAIN,aida.googleapis.com
 # > NotebookLM
 DOMAIN-KEYWORD,notebooklm.google
 # > Search Labs
@@ -125,15 +126,7 @@ DOMAIN,turn.livekit.cloud
 # Copilot
 DOMAIN,api.githubcopilot.com
 DOMAIN,copilot-proxy.githubusercontent.com
-# Gemini
-DOMAIN,aida.googleapis.com
-DOMAIN,deepmind.com
-DOMAIN,deepmind.google
-DOMAIN,geller-pa.googleapis.com
-DOMAIN,generativeai.google
-DOMAIN,generativelanguage.googleapis.com
-DOMAIN,makersuite.google.com
-DOMAIN,proactivebackend-pa.googleapis.com
+
 # Claude
 DOMAIN-SUFFIX,claudeusercontent.com
 IP-CIDR,160.79.104.0/23,no-resolve
@@ -146,5 +139,3 @@ DOMAIN-SUFFIX,perplexity.com
 DOMAIN,chat.mistral.ai
 DOMAIN,console.mistral.ai
 DOMAIN-SUFFIX,mistral.ai
-# Grok AI
-DOMAIN,api.x.ai
