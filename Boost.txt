@@ -22,6 +22,156 @@ DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,telegram.org
+
+# MyList && Other
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,adguard.org
+DOMAIN-SUFFIX,bit.no.com
+DOMAIN-SUFFIX,btlibrary.me
+DOMAIN-SUFFIX,cloudcone.com
+DOMAIN-SUFFIX,dubox.com
+DOMAIN-SUFFIX,gameloft.com
+DOMAIN-SUFFIX,garena.com
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,inoreader.com
+DOMAIN-SUFFIX,ip138.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,myteamspeak.com
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,ping.pe
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,teddysun.com
+DOMAIN-SUFFIX,tumbex.com
+DOMAIN-SUFFIX,twdvd.com
+DOMAIN-SUFFIX,unsplash.com
+DOMAIN-SUFFIX,buzzsprout.com
+# 国外域名
+DOMAIN-SUFFIX,eu
+DOMAIN-SUFFIX,hk
+DOMAIN-SUFFIX,jp
+DOMAIN-SUFFIX,kr
+DOMAIN-SUFFIX,sg
+DOMAIN-SUFFIX,uk
+# 国外域名关键字
+DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,abema
+DOMAIN-KEYWORD,appledaily
+DOMAIN-KEYWORD,avtb
+DOMAIN-KEYWORD,beetalk
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,sci-hub
+DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,telegram
+# Top Blocked Sites
+DOMAIN-SUFFIX,4sqi.net
+DOMAIN-SUFFIX,a248.e.akamai.net
+DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,aolcdn.com
+DOMAIN-SUFFIX,apkmirror.com
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,armorgames.com
+DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,bandwagonhost.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bkrtx.com
+DOMAIN-SUFFIX,blogcdn.com
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,blogsmithmedia.com
+DOMAIN-SUFFIX,blogspot.com
+DOMAIN-SUFFIX,blogspot.hk
+DOMAIN-SUFFIX,blogspot.jp
+DOMAIN-SUFFIX,bloomberg.cn
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,box.com
+DOMAIN-SUFFIX,cachefly.net
+DOMAIN-SUFFIX,cdnst.net
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,comodoca.com
+DOMAIN-SUFFIX,daum.net
+DOMAIN-SUFFIX,deskconnect.com
+DOMAIN-SUFFIX,disqus.com
+DOMAIN-SUFFIX,disquscdn.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxstatic.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,edgecastcdn.net
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,eurekavpt.com
+DOMAIN-SUFFIX,fastmail.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,flipboard.com
+DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,gongm.in
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,id.heroku.com
+DOMAIN-SUFFIX,io.io
+DOMAIN-SUFFIX,issuu.com
+DOMAIN-SUFFIX,ixquick.com
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,kat.cr
+DOMAIN-SUFFIX,kik.com
+DOMAIN-SUFFIX,kobo.com
+DOMAIN-SUFFIX,kobobooks.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,macrumors.com
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,megaupload.com
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,netdna-cdn.com
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nsstatic.net
+DOMAIN-SUFFIX,nytstyle.com
+DOMAIN-SUFFIX,overcast.fm
+DOMAIN-SUFFIX,openvpn.net
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,pinterest.com
+DOMAIN-SUFFIX,potato.im
+DOMAIN-SUFFIX,prfct.co
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,resilio.com
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,shadowsocks.org
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,smartdnsproxy.com
+DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,startpage.com
+DOMAIN-SUFFIX,staticflickr.com
+DOMAIN-SUFFIX,symauth.com
+DOMAIN-SUFFIX,symcb.com
+DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,textnow.com
+DOMAIN-SUFFIX,textnow.me
+DOMAIN-SUFFIX,thefacebook.com
+DOMAIN-SUFFIX,thepiratebay.org
+DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,trustasiassl.com
+DOMAIN-SUFFIX,tumblr.co
+DOMAIN-SUFFIX,tumblr.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,txmblr.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,vox-cdn.com
 # LinkedIn
 DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,licdn.cn.cdn20.com
@@ -30,10 +180,8 @@ DOMAIN-SUFFIX,bizographics.com
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
 DOMAIN-SUFFIX,l-0005.l-msedge.net
 DOMAIN-SUFFIX,licdn.cn
-DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,linkedin.at
 DOMAIN-SUFFIX,linkedin.cn
-DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,lnkd.in
 # Notion
 DOMAIN,http-inputs-notion.splunkcloud.com
@@ -41,23 +189,12 @@ DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion.site
-DOMAIN-SUFFIX,notion.so
 # civi
-# Apple:
-#DOMAIN-SUFFIX,apple.com
-#DOMAIN-SUFFIX,cdn-apple.com
-#DOMAIN-SUFFIX,digicert.com
-#DOMAIN-SUFFIX,icloud.com
-#DOMAIN-SUFFIX,icloud-content.com
-#DOMAIN-SUFFIX,me.com
 # > Automattic
 DOMAIN-SUFFIX,gravatar.com
-DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,videopress.com
 DOMAIN-SUFFIX,wordpress.com
 # > Bloomberg
-DOMAIN-SUFFIX,bloomberg.cn
-DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,bloomberg.de
 DOMAIN-SUFFIX,bloombergview.com
 # > Cloudflare
@@ -68,7 +205,6 @@ DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,joinclubhouse.com
 DOMAIN,clubhouse.pubnubapi.com
 # Microsoft:
-DOMAIN-SUFFIX,bing.com
 DOMAIN-KEYWORD,microsoft
 # Blog
 DOMAIN,61.life
@@ -98,7 +234,6 @@ DOMAIN-KEYWORD,gstatic
 # GitHub:
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,git.io
-DOMAIN-KEYWORD,github
 # Pixiv:
 DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,pixiv.net
@@ -106,17 +241,16 @@ DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,pximg.org
 # Reddit:
 DOMAIN-SUFFIX,redd.it
-DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
 # Spark
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,readdle.com
+DOMAIN-SUFFIX,smartmailcloud.com
 # Spotify:
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
-DOMAIN-KEYWORD,spotify
 # Telegram:
 DOMAIN-SUFFIX,t.me,extended-matching
 # Twitter:
@@ -133,7 +267,6 @@ DOMAIN-SUFFIX,nytco.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,nytimg.com
 DOMAIN-SUFFIX,nytlog.com
-DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,tmagazine.com
 DOMAIN,nytimes.map.fastly.net
 # > Wikimedia Foundation
@@ -151,10 +284,7 @@ DOMAIN-SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
 # > Reddit
-DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,redditmail.com
-DOMAIN-SUFFIX,redditmedia.com
-DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,reddituploads.com
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
@@ -172,6 +302,9 @@ DOMAIN-SUFFIX,singlelogin.re
 DOMAIN-SUFFIX,singlelogin.rs
 DOMAIN-SUFFIX,z-lib.gs
 DOMAIN-SUFFIX,z-library.rs
+# Zoom
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zoomgov.com
 # Uncategorized/Potentially Separate Entities:
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cuto.app
@@ -180,7 +313,6 @@ DOMAIN-SUFFIX,fivecdm.com
 DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,nodeseek.com
-DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,split.io
 DOMAIN-KEYWORD,nvidia
@@ -189,5 +321,4 @@ DOMAIN-SUFFIX,nssurge.com
 DOMAIN,medium.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,signal.org
-DOMAIN-SUFFIX,1password.com
 DOMAIN,naiixi.com
