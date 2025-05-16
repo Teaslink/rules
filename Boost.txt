@@ -50,6 +50,23 @@ DOMAIN-SUFFIX,notion.so
 #DOMAIN-SUFFIX,icloud.com
 #DOMAIN-SUFFIX,icloud-content.com
 #DOMAIN-SUFFIX,me.com
+# > Automattic
+DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,tumblr.com
+DOMAIN-SUFFIX,videopress.com
+DOMAIN-SUFFIX,wordpress.com
+# > Bloomberg
+DOMAIN-SUFFIX,bloomberg.cn
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,bloomberg.de
+DOMAIN-SUFFIX,bloombergview.com
+# > Cloudflare
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,workers.dev
+# > Clubhouse
+DOMAIN-SUFFIX,clubhouseapi.com
+DOMAIN-SUFFIX,joinclubhouse.com
+DOMAIN,clubhouse.pubnubapi.com
 # Microsoft:
 DOMAIN-SUFFIX,bing.com
 DOMAIN-KEYWORD,microsoft
@@ -109,6 +126,30 @@ DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-KEYWORD,ttvnw
+# > The New York Times
+DOMAIN-SUFFIX,newyorktimes.com
+DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,nytco.com
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,nytimg.com
+DOMAIN-SUFFIX,nytlog.com
+DOMAIN-SUFFIX,nytstyle.com
+DOMAIN-SUFFIX,tmagazine.com
+DOMAIN,nytimes.map.fastly.net
+# > Wikimedia Foundation
+DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikidata.org
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikimediafoundation.org
+DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiversity.org
+DOMAIN-SUFFIX,wikivoyage.org
+DOMAIN-SUFFIX,wiktionary.org
 # > Reddit
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,redditmail.com
@@ -117,6 +158,20 @@ DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,reddituploads.com
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
+# > Reuters
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,reutersmedia.net
+# > Yahoo
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,yimg.com
+DOMAIN,search.yahoo.co.jp
+# > Z-Library
+DOMAIN-SUFFIX,articles.sk
+DOMAIN-SUFFIX,go-to-library.sk
+DOMAIN-SUFFIX,singlelogin.re
+DOMAIN-SUFFIX,singlelogin.rs
+DOMAIN-SUFFIX,z-lib.gs
+DOMAIN-SUFFIX,z-library.rs
 # Uncategorized/Potentially Separate Entities:
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cuto.app
