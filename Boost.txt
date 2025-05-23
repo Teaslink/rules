@@ -24,6 +24,11 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,telegram.org
 
 # MyList && Other
+# Garmin
+DOMAIN-KEYWORD,garmin
+DOMAIN-SUFFIX,garmin.com
+DOMAIN-SUFFIX,garmincdn.com
+#
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,bit.no.com
@@ -260,6 +265,21 @@ DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line.naver.jp
 DOMAIN-SUFFIX,nhncorp.jp
+# > Meta
+DOMAIN-SUFFIX,accountkit.com
+DOMAIN-SUFFIX,f8.com
+DOMAIN-SUFFIX,facebookmail.com
+DOMAIN-SUFFIX,fb.watch
+DOMAIN-SUFFIX,fbaddins.com
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbworkmail.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,readyatdawn.com
+DOMAIN-SUFFIX,rocksdb.org
+DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-KEYWORD,.facebook.
 # OpenAi
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
