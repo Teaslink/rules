@@ -27,10 +27,6 @@ DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,pximg.org
-# Reddit:
-DOMAIN-SUFFIX,redd.it
-DOMAIN-SUFFIX,redditmedia.com
-DOMAIN-SUFFIX,redditstatic.com
 # Spotify:
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
@@ -1353,18 +1349,7 @@ DOMAIN-SUFFIX,go.dev
 # > Mi
 DOMAIN,c.mi.com
 DOMAIN,new.c.mi.com
-# > Web Preview
-DOMAIN,apps.apple.com
-DOMAIN,books.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN,tv.apple.com
 # > News
-DOMAIN,gateway.icloud.com
-DOMAIN,news-assets.apple.com
-DOMAIN,news-client.apple.com
-DOMAIN,news-client-search.apple.com
-DOMAIN,news-edge.apple.com
-DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN,copilot.microsoft.com
@@ -1376,22 +1361,6 @@ DOMAIN-SUFFIX,kr
 DOMAIN-SUFFIX,sg
 DOMAIN-SUFFIX,uk
 DOMAIN-SUFFIX,pinterest.com
-# Amazon
-IP-CIDR,13.32.0.0/15,no-resolve
-IP-CIDR,13.35.0.0/17,no-resolve
-IP-CIDR,18.184.0.0/15,no-resolve
-IP-CIDR,18.194.0.0/15,no-resolve
-IP-CIDR,18.208.0.0/13,no-resolve
-IP-CIDR,18.232.0.0/14,no-resolve
-IP-CIDR,52.58.0.0/15,no-resolve
-IP-CIDR,52.74.0.0/16,no-resolve
-IP-CIDR,52.77.0.0/16,no-resolve
-IP-CIDR,52.84.0.0/15,no-resolve
-IP-CIDR,52.200.0.0/13,no-resolve
-IP-CIDR,54.93.0.0/16,no-resolve
-IP-CIDR,54.156.0.0/14,no-resolve
-IP-CIDR,54.226.0.0/15,no-resolve
-IP-CIDR,54.230.156.0/22,no-resolve
 # Claude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
@@ -1465,8 +1434,6 @@ DOMAIN,steampipe.akamaized.net
 # TapTap
 DOMAIN-SUFFIX,tap.io
 DOMAIN-SUFFIX,taptap.tw
-# Twitter
-DOMAIN-SUFFIX,twimg.org
 # TeraBox
 DOMAIN-SUFFIX,teraboxcdn.com
 #飞流直播
@@ -1845,7 +1812,6 @@ DOMAIN,iterm2.com
 DOMAIN,jorajora.com
 DOMAIN,justinyan.me
 DOMAIN,mastodon.social
-DOMAIN,medium.com
 DOMAIN,metamask.io
 DOMAIN,mrxwlb.com
 DOMAIN,mtlynch.io
