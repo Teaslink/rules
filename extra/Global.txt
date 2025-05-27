@@ -1467,9 +1467,6 @@ DOMAIN-SUFFIX,tap.io
 DOMAIN-SUFFIX,taptap.tw
 # Twitter
 DOMAIN-SUFFIX,twimg.org
-# Telegram
-IP-CIDR,91.108.0.0/16,no-resolve
-IP-CIDR,109.239.140.0/24,no-resolve
 # TeraBox
 DOMAIN-SUFFIX,teraboxcdn.com
 #飞流直播
