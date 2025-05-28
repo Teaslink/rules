@@ -30,44 +30,12 @@ DOMAIN-SUFFIX,pximg.org
 # Spotify:
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
-# Twitch
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-KEYWORD,ttvnw
 # > Wikimedia Foundation
 DOMAIN-SUFFIX,wikimediafoundation.org
-# > Reddit
-DOMAIN-SUFFIX,redditmail.com
-DOMAIN-SUFFIX,reddituploads.com
-DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
-DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
-# > Reuters
-DOMAIN-SUFFIX,reuters.com
-DOMAIN-SUFFIX,reutersmedia.net
 # > Yahoo
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN,search.yahoo.co.jp
-# > Z-Library
-DOMAIN-SUFFIX,articles.sk
-DOMAIN-SUFFIX,go-to-library.sk
-DOMAIN-SUFFIX,singlelogin.re
-DOMAIN-SUFFIX,singlelogin.rs
-DOMAIN-SUFFIX,z-lib.gs
-DOMAIN-SUFFIX,z-library.rs
-# Wikipedia 维基相关域名
-DOMAIN-SUFFIX,mediawiki.org
-DOMAIN-SUFFIX,wikibooks.org
-DOMAIN-SUFFIX,wikidata.org
-DOMAIN-SUFFIX,wikileaks.org
-DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,wikinews.org
-DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,wikiquote.org
-DOMAIN-SUFFIX,wikisource.org
-DOMAIN-SUFFIX,wikiversity.org
-DOMAIN-SUFFIX,wikivoyage.org
-DOMAIN-SUFFIX,wiktionary.org
 # Zoom
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,zoomgov.com
