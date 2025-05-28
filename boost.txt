@@ -22,6 +22,22 @@ DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,telegram.org
+#
+DOMAIN-KEYWORD,oculus
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,hockeyapp.net
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,awsstatic.com
+
 # MyList && Other
 # 1P
 DOMAIN-KEYWORD,1password
