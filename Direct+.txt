@@ -1,4 +1,10 @@
 # Direct+
+# my list
+DOMAIN-SUFFIX,linkbroad.com // Marriott
+DOMAIN-SUFFIX,api-huacloud.com // Flower
+DOMAIN-SUFFIX,sub.nexconvert.com // N
+DOMAIN-SUFFIX,villa.parkson-market.org // TAG
+#
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
 DOMAIN,bdtj.tagtic.cn
