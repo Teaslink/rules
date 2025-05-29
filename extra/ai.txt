@@ -91,6 +91,7 @@ DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
+DOMAIN,jules.google.com
 # scomper
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,cdn.cloudflare.net
@@ -126,7 +127,6 @@ DOMAIN,turn.livekit.cloud
 # Copilot
 DOMAIN,api.githubcopilot.com
 DOMAIN,copilot-proxy.githubusercontent.com
-
 # Claude
 DOMAIN-SUFFIX,claudeusercontent.com
 IP-CIDR,160.79.104.0/23,no-resolve
