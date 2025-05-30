@@ -122,7 +122,6 @@ DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,oaistatic.coom
 DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,rum.browser-intake-datadoghq.com
 DOMAIN-SUFFIX,events.statsigapi.net
