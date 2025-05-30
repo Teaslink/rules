@@ -30,15 +30,20 @@ DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN,api.statsig.com
 DOMAIN,api-iam.intercom.io
 DOMAIN,o33249.ingest.sentry.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaicom
 DOMAIN-KEYWORD,openai
 # Cloudflare
+DOMAIN-SUFFIX,cdn.cloudflare.net
+DOMAIN-SUFFIX,challenges.cloudflare.com
 # > AI Gateway
 DOMAIN,gateway.ai.cloudflare.com
 # Cursor
@@ -78,6 +83,7 @@ DOMAIN-SUFFIX,mistral.ai
 DOMAIN-KEYWORD,labs.google
 # Groq
 DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,groqstatus.com
 # JetBrains AI
 DOMAIN-SUFFIX,grazie.ai
 # Meta
@@ -98,22 +104,19 @@ DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN,pplx-res.cloudinary.com
+# Stripe
+DOMAIN-SUFFIX,stripe.com
 # xAI
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
-# skk
+# misc
 DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,dify.ai
-# scomper
 DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,cdn.cloudflare.net
-DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
-DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,identrust.com
@@ -122,9 +125,6 @@ DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,oaistatic.coom
 DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,rum.browser-intake-datadoghq.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,statsig.com
 DOMAIN-SUFFIX,statsigapi.net
-DOMAIN-SUFFIX,ingest.sentry.io
-DOMAIN-SUFFIX,groqstatus.com
