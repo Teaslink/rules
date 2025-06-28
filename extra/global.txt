@@ -154,7 +154,6 @@ DOMAIN-SUFFIX,netdna-cdn.com
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nsstatic.net
 DOMAIN-SUFFIX,nytstyle.com
-DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pinimg.com
@@ -1410,3 +1409,6 @@ DOMAIN-SUFFIX,flzbcdn.xyz
 DOMAIN-SUFFIX,ocnttv.com
 # VikACG
 DOMAIN-SUFFIX,picjs.xyz
+# Overcast
+DOMAIN-SUFFIX,overcast.fm
+USER-AGENT,Overcast*
