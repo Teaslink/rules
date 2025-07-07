@@ -139,6 +139,8 @@ DOMAIN-SUFFIX,reutersmedia.net
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,readdle.com
 DOMAIN-SUFFIX,smartmailcloud.com
+# Linksys
+DOMAIN-SUFFIX,linksyssmartwifi.com
 # > The New York Times
 DOMAIN-SUFFIX,newyorktimes.com
 DOMAIN-SUFFIX,nyt.com
