@@ -38,6 +38,9 @@ DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
 # MyList && Other
+# Misc.
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,nssurge.com
 # 1P
 DOMAIN-KEYWORD,1password
 DOMAIN-SUFFIX,1password.com
@@ -217,5 +220,3 @@ DOMAIN-SUFFIX,singlelogin.re
 DOMAIN-SUFFIX,singlelogin.rs
 DOMAIN-SUFFIX,z-lib.gs
 DOMAIN-SUFFIX,z-library.rs
-# Misc.
-DOMAIN-SUFFIX,medium.com
