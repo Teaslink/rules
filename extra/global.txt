@@ -50,7 +50,6 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,split.io
 DOMAIN-KEYWORD,nvidia
 DOMAIN-KEYWORD,steam
-DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,signal.org
 DOMAIN,naiixi.com
