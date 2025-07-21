@@ -1,3 +1,7 @@
+
+
+
+
 # Porn
 DOMAIN-SUFFIX,8teenxxx.com
 DOMAIN-SUFFIX,ahcdn.com
@@ -26,11 +30,6 @@ DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,pximg.org
-# Spotify:
-DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,spoti.fi
-# > Wikimedia Foundation
-DOMAIN-SUFFIX,wikimediafoundation.org
 # > Yahoo
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yimg.com
@@ -66,7 +65,6 @@ DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,myteamspeak.com
 DOMAIN-SUFFIX,ping.pe
-DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,teddysun.com
 DOMAIN-SUFFIX,tumbex.com
 DOMAIN-SUFFIX,twdvd.com
@@ -79,7 +77,6 @@ DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,avtb
 DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,spotify
@@ -96,7 +93,6 @@ DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,armorgames.com
 DOMAIN-SUFFIX,aspnetcdn.com
-DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,bandwagonhost.com
@@ -146,19 +142,15 @@ DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,macrumors.com
-DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,megaupload.com
 DOMAIN-SUFFIX,netdna-cdn.com
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nsstatic.net
-DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,openvpn.net
-DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,potato.im
 DOMAIN-SUFFIX,prfct.co
-DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,resilio.com
 DOMAIN-SUFFIX,sfx.ms
@@ -184,7 +176,6 @@ DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,txmblr.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,vimeo.com
-DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,vox-cdn.com
 # Developer 开发者常用国外网站、镜像和论坛
 DOMAIN-SUFFIX,apache.org
@@ -306,7 +297,6 @@ DOMAIN-SUFFIX,v2fly.org
 DOMAIN-SUFFIX,scpdb.org
 DOMAIN-SUFFIX,rferl.org
 DOMAIN-SUFFIX,pixiv.org
-DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,icann.org
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,500px.org
@@ -440,7 +430,6 @@ DOMAIN-SUFFIX,packagephobia.com
 DOMAIN-SUFFIX,nbclosangeles.com
 DOMAIN-SUFFIX,mydnsleaktest.com
 DOMAIN-SUFFIX,jirachecklist.com
-DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,flightradar24.com
 DOMAIN-SUFFIX,cryptocompare.com
 DOMAIN-SUFFIX,coinmarketcap.com
@@ -454,7 +443,6 @@ DOMAIN-SUFFIX,ovpnleaktest.com
 DOMAIN-SUFFIX,malwarebytes.com
 DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,line-apps-rc.com
-DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,girlsgogames.com
 DOMAIN-SUFFIX,downdetector.com
 DOMAIN-SUFFIX,digitalocean.com
@@ -574,7 +562,6 @@ DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,askubuntu.com
 DOMAIN-SUFFIX,amplience.com
-DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,wordtune.com
 DOMAIN-SUFFIX,wikiwand.com
 DOMAIN-SUFFIX,widevine.com
@@ -658,7 +645,6 @@ DOMAIN-SUFFIX,verizon.com
 DOMAIN-SUFFIX,upornia.com
 DOMAIN-SUFFIX,twittpr.com
 DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,tnaflix.com
 DOMAIN-SUFFIX,tinyurl.com
 DOMAIN-SUFFIX,tinypng.com
@@ -746,7 +732,6 @@ DOMAIN-SUFFIX,rtings.com
 DOMAIN-SUFFIX,replit.com
 DOMAIN-SUFFIX,render.com
 DOMAIN-SUFFIX,readme.com
-DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,pusher.com
 DOMAIN-SUFFIX,probit.com
 DOMAIN-SUFFIX,porngo.com
@@ -812,7 +797,6 @@ DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,tesco.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,plurk.com
-DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,mixer.com
 DOMAIN-SUFFIX,lingq.com
@@ -875,7 +859,6 @@ DOMAIN-SUFFIX,kick.com
 DOMAIN-SUFFIX,kagi.com
 DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,ixxx.com
-DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,hk01.com
 DOMAIN,wego.here.com
 DOMAIN-SUFFIX,gvt9.com
@@ -929,7 +912,6 @@ DOMAIN-SUFFIX,nj.com
 DOMAIN-SUFFIX,c.mi.com
 DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,g2.com
-DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,24.com
@@ -1050,9 +1032,7 @@ DOMAIN-SUFFIX,convertio.co
 DOMAIN-SUFFIX,snapkit.co
 DOMAIN-SUFFIX,xchina.co
 DOMAIN-SUFFIX,feeder.co
-DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,ibb.co
-DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,g.co
 DOMAIN,store.ui.com.cn
 DOMAIN-SUFFIX,ch
@@ -1079,7 +1059,6 @@ DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,aomedia.org
 DOMAIN-SUFFIX,archive.md
 DOMAIN-SUFFIX,bbc.com
-DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,bloglovin.com
 DOMAIN-SUFFIX,blubrry.com
 DOMAIN-SUFFIX,bullguard.com
@@ -1243,11 +1222,6 @@ DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 # > Fastly
 DOMAIN-SUFFIX,freetls.fastly.net
 DOMAIN-SUFFIX,global.ssl.fastly.net
-# > Financial Times
-DOMAIN-SUFFIX,ftchinese.com
-DOMAIN-SUFFIX,ftimg.net
-DOMAIN,d1e00ek4ebabms.cloudfront.net
-DOMAIN,d19eijqb5qll1w.cloudfront.net
 # Line
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line-apps.com
@@ -1266,7 +1240,6 @@ IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
 # > Microsoft
 DOMAIN-SUFFIX,aka.ms
-DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,streaming.mediaservices.windows.net
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
@@ -1284,15 +1257,6 @@ DOMAIN-SUFFIX,pixivsketch.net
 # DOMAIN,store.steampowered.com
 # > The Economist
 DOMAIN-SUFFIX,static-economist.com
-# > The New York Times
-DOMAIN-SUFFIX,newyorktimes.com
-DOMAIN-SUFFIX,nyt.com
-DOMAIN-SUFFIX,nytco.com
-DOMAIN-SUFFIX,nytimes.com
-DOMAIN-SUFFIX,nytimg.com
-DOMAIN-SUFFIX,nytlog.com
-DOMAIN-SUFFIX,tmagazine.com
-DOMAIN,nytimes.map.fastly.net
 # > xAI
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,tweetdeck.com
@@ -1411,3 +1375,135 @@ DOMAIN-SUFFIX,picjs.xyz
 # Overcast
 DOMAIN-SUFFIX,overcast.fm
 USER-AGENT,Overcast*
+# Sukka's Ruleset - General Global Services
+DOMAIN,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe
+DOMAIN-SUFFIX,scp-wiki.com
+DOMAIN-SUFFIX,wikihow.com
+DOMAIN-SUFFIX,taipei
+DOMAIN-SUFFIX,minecraft.wiki
+DOMAIN-SUFFIX,sex
+DOMAIN-SUFFIX,wmfusercontent.org
+DOMAIN-SUFFIX,waybackmachine.org
+DOMAIN-SUFFIX,openfreemap.org
+DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,dnschecker.org
+DOMAIN-SUFFIX,bitbucket.org
+DOMAIN-SUFFIX,xquartz.org
+DOMAIN-SUFFIX,wiki2.org
+DOMAIN-SUFFIX,kali.org
+DOMAIN-SUFFIX,iaea.org
+DOMAIN-SUFFIX,one
+DOMAIN-SUFFIX,sysctl-explorer.net
+DOMAIN-SUFFIX,freemacsoft.net
+DOMAIN-SUFFIX,ero-video.net
+DOMAIN-SUFFIX,creaders.net
+DOMAIN-SUFFIX,beacondb.net
+DOMAIN-SUFFIX,osmand.net
+DOMAIN-SUFFIX,komoot.net
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,gitlab.net
+DOMAIN-SUFFIX,onepluscommunityserver.com
+DOMAIN-SUFFIX,precisionhydration.com
+DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-SUFFIX,surge-activation.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,redditspace.com
+DOMAIN-SUFFIX,upcitemdb.com
+DOMAIN-SUFFIX,macupdate.com
+DOMAIN-SUFFIX,indiegogo.com
+DOMAIN-SUFFIX,substack.com
+DOMAIN-SUFFIX,poeditor.com
+DOMAIN-SUFFIX,olympics.com
+DOMAIN-SUFFIX,droidwin.com
+DOMAIN-SUFFIX,wdfiles.com
+DOMAIN-SUFFIX,hsforms.com
+DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,strava.com
+DOMAIN-SUFFIX,pornmd.com
+DOMAIN-SUFFIX,pornhd.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,mapbox.com
+DOMAIN-SUFFIX,komoot.com
+DOMAIN-SUFFIX,keycdn.com
+DOMAIN-SUFFIX,viber.com
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,fixvx.com
+DOMAIN-SUFFIX,figma.com
+DOMAIN-SUFFIX,njav.com
+DOMAIN-SUFFIX,deno.com
+DOMAIN-SUFFIX,wix.com
+DOMAIN-SUFFIX,sb
+DOMAIN-SUFFIX,j.mp
+DOMAIN-SUFFIX,codesandbox.io
+DOMAIN-SUFFIX,statuspage.io
+DOMAIN-SUFFIX,macaddress.io
+DOMAIN-SUFFIX,shattered.io
+DOMAIN-SUFFIX,bitbucket.io
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,material.io
+DOMAIN-SUFFIX,corecode.io
+DOMAIN-SUFFIX,opensea.io
+DOMAIN-SUFFIX,misskey.io
+DOMAIN-SUFFIX,codepen.io
+DOMAIN-SUFFIX,shodan.io
+DOMAIN-SUFFIX,getmdl.io
+DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,iina.io
+DOMAIN-SUFFIX,cdpn.io
+DOMAIN-SUFFIX,npm.io
+DOMAIN-SUFFIX,jsr.io
+DOMAIN-SUFFIX,spot.im
+DOMAIN-SUFFIX,softonic.cn
+DOMAIN-SUFFIX,kknews.cc
+DOMAIN-SUFFIX,silca.cc
+DOMAIN-SUFFIX,mailchimp.com
+DOMAIN-SUFFIX,rsshub.app
+# > Amazon
+DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN,d3c33hcgiwev3.cloudfront.net
+DOMAIN,payments-jp.amazon.com
+DOMAIN,s3-ap-northeast-1.amazonaws.com
+DOMAIN,s3-ap-southeast-2.amazonaws.com
+DOMAIN,s3-ap-southeast-1.amazonaws.com
+DOMAIN,s3.eu-central-1.amazonaws.com
+# > Alphabet
+# DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,apigee.com
+DOMAIN-KEYWORD,.blogspot.
+# > Apple
+DOMAIN,testflight.apple.com
+# > Line
+DOMAIN-SUFFIX,naver.jp
+IP-CIDR,125.209.208.0/20,no-resolve
+IP-CIDR,203.104.144.0/21,no-resolve
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+# > Reddit
+# ---(Telegram)---
+IP-CIDR,91.108.56.0/22,no-resolve
+IP-CIDR,91.108.4.0/22,no-resolve
+IP-CIDR,91.108.8.0/22,no-resolve
+IP-CIDR,91.108.16.0/22,no-resolve
+IP-CIDR,91.108.12.0/22,no-resolve
+IP-CIDR,149.154.160.0/20,no-resolve
+IP-CIDR,91.105.192.0/23,no-resolve
+IP-CIDR,91.108.20.0/22,no-resolve
+IP-CIDR,185.76.151.0/24,no-resolve
+IP-CIDR6,2001:b28:f23d::/48,no-resolve
+IP-CIDR6,2001:b28:f23f::/48,no-resolve
+IP-CIDR6,2001:67c:4e8::/48,no-resolve
+IP-CIDR6,2001:b28:f23c::/48,no-resolve
+IP-CIDR6,2a0a:f280::/32,no-resolve
+DOMAIN-SUFFIX,twitter.jp
+#civi
+DOMAIN-SUFFIX,digicert.com // Apple
+DOMAIN-SUFFIX,fxbsky.app
+DOMAIN-SUFFIX,ghcr.io // Github Packages
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,pki.goog
+DOMAIN-SUFFIX,scdn.co // Spotify
+DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,gstatic
+DOMAIN-KEYWORD,microsoft
