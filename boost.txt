@@ -138,7 +138,6 @@ DOMAIN,assets2.xboxlive.com
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
 DOMAIN,github.global.ssl.fastly.net
-DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,aadrm.com
@@ -226,7 +225,7 @@ DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,streaming.mediaservices.windows.net
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
-DOMAIN-KEYWORD,microsoft,extended-matching
+DOMAIN-KEYWORD,microsoft
 # Notion
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN-SUFFIX,notion-static.com
