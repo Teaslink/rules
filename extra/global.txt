@@ -1187,9 +1187,6 @@ DOMAIN-SUFFIX,bloombergview.com
 # BBC
 DOMAIN-KEYWORD,uk-live
 DOMAIN-SUFFIX,bbc.co
-# > Cloudflare
-DOMAIN-SUFFIX,pages.dev
-DOMAIN-SUFFIX,workers.dev
 # > Clubhouse
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,joinclubhouse.com
@@ -1234,14 +1231,6 @@ IP-CIDR,119.235.235.0/24,no-resolve
 IP-CIDR,119.235.236.0/23,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
-# > Microsoft
-DOMAIN-SUFFIX,aka.ms
-DOMAIN-SUFFIX,streaming.mediaservices.windows.net
-DOMAIN,assets1.xboxlive.com
-DOMAIN,assets2.xboxlive.com
-DOMAIN,az416426.vo.msecnd.net
-DOMAIN,az668014.vo.msecnd.net
-DOMAIN,github.global.ssl.fastly.net
 # > OpenAI
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
@@ -1485,4 +1474,3 @@ DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,scdn.co // Spotify
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,gstatic
-DOMAIN-KEYWORD,microsoft
