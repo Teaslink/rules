@@ -27,6 +27,7 @@ IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23c::/48,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
 # Whatsapp
+DOMAIN-KEYWORD,whatsapp
 DOMAIN,graph.facebook.com
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,whatsapp.biz
@@ -43,3 +44,7 @@ IP-CIDR,208.43.122.128/27,no-resolve
 IP-CIDR,34.224.0.0/12,no-resolve
 IP-CIDR,50.22.198.204/30,no-resolve
 IP-CIDR,54.242.0.0/15,no-resolve
+IP-CIDR,108.168.174.0/16,no-resolve
+IP-CIDR,174.37.243.0/16,no-resolve
+IP-CIDR,69.171.235.0/16,no-resolve
+IP-CIDR,75.126.150.0/16,no-resolve
