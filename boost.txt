@@ -250,6 +250,9 @@ DOMAIN-SUFFIX,ftchinese.com
 DOMAIN-SUFFIX,ftimg.net
 DOMAIN,d1e00ek4ebabms.cloudfront.net
 DOMAIN,d19eijqb5qll1w.cloudfront.net
+# > Overcast
+DOMAIN-SUFFIX,overcast.fm
+USER-AGENT,Overcast*
 # > Reuters
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,reutersmedia.net
