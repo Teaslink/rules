@@ -48,3 +48,5 @@ IP-CIDR,108.168.174.0/16,no-resolve
 IP-CIDR,174.37.243.0/16,no-resolve
 IP-CIDR,69.171.235.0/16,no-resolve
 IP-CIDR,75.126.150.0/16,no-resolve
+# Signal
+DOMAIN-SUFFIX,signal.org
